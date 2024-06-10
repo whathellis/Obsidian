@@ -1,0 +1,76 @@
+{
+  "snapStepMinutes": 10,
+  "progressIndicator": "bar",
+  "showTaskNotification": false,
+  "zoomLevel": 1,
+  "timelineIcon": "dice",
+  "endLabel": "All done",
+  "startHour": 8,
+  "timelineDateFormat": "YY.MM.DD",
+  "centerNeedle": false,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 4,
+  "timelineColored": false,
+  "timelineStartColor": "#006466",
+  "timelineEndColor": "#4d194d",
+  "timestampFormat": "HH:mm",
+  "hourFormat": "H",
+  "dataviewSource": "",
+  "extendDurationUntilNext": false,
+  "defaultDurationMinutes": 60,
+  "showTimestampInTaskBlock": true,
+  "showUncheduledTasks": true,
+  "showUnscheduledNestedTasks": true,
+  "showNow": false,
+  "showNext": false,
+  "pluginVersion": "0.20.4",
+  "showCompletedTasks": true,
+  "showSubtasksInTaskBlocks": true,
+  "icals": [
+    {
+      "name": "Coco",
+      "url": "https://calendar.google.com/calendar/ical/cocomoc95%40gmail.com/public/basic.ics",
+      "color": "#5f33ff"
+    }
+  ],
+  "colorOverrides": [
+    {
+      "text": "#YouTube",
+      "darkModeColor": "#ff2465",
+      "color": "#ffa1a1"
+    },
+    {
+      "text": "#project",
+      "darkModeColor": "#6f47ff",
+      "color": "#ffa1a1"
+    },
+    {
+      "text": "post",
+      "darkModeColor": "#00bfc2",
+      "color": "#ffa1a1"
+    },
+    {
+      "text": "Twitter",
+      "darkModeColor": "#1f93ff",
+      "color": "#ffa1a1"
+    },
+    {
+      "text": "skincare",
+      "darkModeColor": "#000000",
+      "color": "#000000"
+    },
+    {
+      "text": "dad",
+      "darkModeColor": "#ffffff",
+      "color": "#ffa1a1"
+    },
+    {
+      "text": "Breakfast",
+      "darkModeColor": "#000000",
+      "color": "#ffa1a1"
+    }
+  ],
+  "editMode": "simple",
+  "copyOnDrag": false,
+  "releaseNotes": true
+}

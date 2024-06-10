@@ -1,0 +1,59 @@
+{
+  "99": "🌁",
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🏖",
+      "🙃",
+      "✅",
+      "❌",
+      "🤕"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": false,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "03 Cuptions": {
+    "iconName": "CoFileDocument",
+    "iconColor": "#0080ff"
+  },
+  "00 Daily": "🌄",
+  "07 Template": "💾",
+  "01": "🌅",
+  "02": "🏙",
+  "03": "🌆",
+  "04": "🌃",
+  "05": "🌉",
+  "00 Daily/24.05.22.md": "✅",
+  "00 Daily/24.06.01.md": "✅",
+  "00 Daily/24.06.02.md": "✅",
+  "00 Daily/24.06.03.md": "✅",
+  "00 Daily/24.06.04.md": "❌",
+  "00 Daily/24.06.05.md": "✅",
+  "00 Daily/24.06.06.md": "❌",
+  "00 Daily/24.06.07.md": "❌",
+  "00 Daily/24.06.08.md": "❌",
+  "00 Daily/24.06.09.md": "❌",
+  "00 Daily/24.05.21.md": "❌",
+  "06 Skincare": "🏖"
+}

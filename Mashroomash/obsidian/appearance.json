@@ -1,0 +1,13 @@
+{
+  "accentColor": "#a8d600",
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro",
+  "monospaceFontFamily": "Source Code Pro",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "Daily Note Themes",
+    "Notebook Backgrounds",
+    "Colored Sidebar Items"
+  ],
+  "nativeMenus": false
+}

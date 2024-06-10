@@ -1,0 +1,22 @@
+{
+  "show-checkboxes": true,
+  "move-tags": false,
+  "tag-action": "kanban",
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "weeks",
+      "direction": "before",
+      "backgroundColor": "rgba(0, 175, 255, 1)",
+      "color": "rgba(255, 255, 255, 1)"
+    }
+  ],
+  "date-picker-week-start": 1,
+  "show-archive-all": false,
+  "link-date-to-daily-note": true,
+  "archive-with-date": true,
+  "append-archive-date": false,
+  "archive-date-separator": "🗂️",
+  "move-task-metadata": true
+}
