@@ -1,0 +1,15 @@
+---
+cssclasses:
+  - page-white
+  - page-blueprint
+  - page-manila
+  - pen-red
+  - pen-blue
+  - pen-gray
+  - pen-black
+  - pen-green
+  - pen-white
+  - pen-purple
+  - page-grid
+  - recolor-images
+---
