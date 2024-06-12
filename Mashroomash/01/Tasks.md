@@ -1,8 +1,0 @@
----
-cssclasses:
-  - page-blueprint
----
-```dataview
-task from #project and #3D 
-Sort date desc
-```
