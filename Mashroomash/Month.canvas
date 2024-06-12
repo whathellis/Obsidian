@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"cb9d6a49efd01674","x":0,"y":-80,"width":760,"height":720,"color":"#ff006f","type":"group","label":"April"},
+		{"id":"a4582f71fc72b6ac","type":"text","text":"![[April]]","x":40,"y":-40,"width":680,"height":417,"color":"5"},
+		{"id":"e2f4e620518b18af","type":"text","text":"![[April food]]","x":40,"y":400,"width":340,"height":220,"color":"5"}
+	],
+	"edges":[]
+}
