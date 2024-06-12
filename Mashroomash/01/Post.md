@@ -3,8 +3,9 @@ cssclasses:
   - daily
   - Sunday
   - page-manila
-tags: []
 ---
+
+### Posted:
 ```tasks
-not done
+done
 ```

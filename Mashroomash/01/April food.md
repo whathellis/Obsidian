@@ -3,6 +3,6 @@ cssclasses:
   - page-blueprint
 ---
 ```dataview
-task from #project and #3D 
-Sort date desc
+List food from "00 Daily" 
+Sort file.name desc
 ```
