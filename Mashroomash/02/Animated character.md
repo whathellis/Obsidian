@@ -1,13 +1,24 @@
 ---
 tags:
   - project
-cssclasses: []
+  - 3D
 ---
+- [ ] render first 3 outfits turnaround and #post on Twitter
 - [ ] Make 3 outfits
-	- [ ] make rain boots
-	- [ ] make shirts
+	- [ ] basic
+	- [ ] green jacket
+		- [ ] headphones
+	- [ ] myself
+		- [ ] rain boots
+		- [ ] shirts
+		- [ ] trinket
+- [ ] add back/ground
+- [ ] render props / outfits
+- [ ] render final 3 turnaroinds
+	- [ ] in Cycles
+	- [ ] in Eevee
 - [ ] #post props render
-- [ ] render and #post turnaround
+- [ ] #post turnaround
 - [ ] Add rigg
 	- [ ] change the pose
 	- [ ] make walking animation
