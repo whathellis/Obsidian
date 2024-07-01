@@ -1,0 +1,21 @@
+---
+tags:
+  - 3D
+  - project
+---
+- [x] render first 3 outfits turnaround and #post/3D on Twitter [[24.06.14|24.06.14]]
+- [x] Make 3 outfits [[24.06.17|24.06.17]]
+	- [x] basic 
+	- [x] green jacket
+	- [x] myself
+		- [x] shirts [[24.06.16|24.06.16]]
+- [x] add back/ground [[24.06.17|24.06.17]]
+- [ ] render props / outfits
+- [x] render final 3 turnarounds
+	- [x] in Cycles [[24.06.21|24.06.21]]
+	- [x] in Eevee [[24.06.22|24.06.22]]
+- [ ] #post/3D props render
+- [ ] #post/3D turnaround
+- [-] Add rigg
+	- [-] change the pose
+	- [-] make walking animation
