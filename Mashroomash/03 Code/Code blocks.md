@@ -1,0 +1,54 @@
+---
+share: true
+---
+#### !doctype html
+- html
+- ​head
+- title
+	- ​​​​will appear insted of link
+- for ==style.css==
+	- link 
+	- **rel** = "stylesheet"
+	- **href** = "style.scc"
+	- /
+- body
+- img 
+	- **src** = "*link*"
+	- **height** = "*number* px"
+	- **width** = "*number* px"
+	- /
+- a **href** = "*link*"/
+	- for links
+- strong
+	- bold
+- em
+	- italik
+- h1-h6
+- li
+	- bullet list
+- ol + li 
+	- numbered list / head + list
+- for **class** ==style.css==
+	- *prop* **class** = "*class name*"
+	- 
+	- /*prop*
+- p
+- br **[no /]**
+- for individual ==style.css==
+	- *prop* **id** = "*id name*"
+	- 
+	- /*prop*
+
+#### style.css
+- body {
+	- color: black;
+	- background-color: pink;
+	- font-style: italic;
+	- font-weight: bold;
+	- font-size: 14px;
+	- font-family: Courier New;
+	- }
+- **. class name**
+- **# id name**
+- 
+
