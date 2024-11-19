@@ -1,0 +1,3 @@
+<iframe src="https://kinopio.club/embed/?spaceId=gQVq_Fws0mWCCBbShtccF&amp;zoom=72" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+<iframe src="https://kinopio.club/invite?spaceId=fQNqpbpYbKbk_nMkEGQ55&amp;readOnlyKey=mWrudDtPdqWxqDpy4GHs2&amp;name=cara" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+<iframe src="https://kinopio.club/invite?spaceId=7fU0cRkioEn-48vqd7nKk&amp;readOnlyKey=Puz5DgrAixQYCDY9Ij6M4&amp;name=calendar" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>

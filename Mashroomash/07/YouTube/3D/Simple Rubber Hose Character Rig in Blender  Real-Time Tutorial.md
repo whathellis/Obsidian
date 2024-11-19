@@ -1,0 +1,156 @@
+---
+URL: https://www.youtube.com/watch?v=bQCmlZAl_Os
+thumbnail: https://i.ytimg.com/vi/bQCmlZAl_Os/default.jpg
+channel: "[[SouthernShotty]]"
+date: 2024-07-22T11:47:32
+published: 2024-05-09T23:00:38
+duration: 1249
+tags: 
+done: false
+cover: 
+---
+[[Read it Later|Read it Later]] [time:: "20m 49s"]
+# Simple Rubber Hose Character Rig in Blender | Real-Time Tutorial
+`````col
+````col-md
+flexGrow=1
+===
+![[Pasted image 20240722114819.jpg]]
+````
+````col-md
+flexGrow=1
+===
+<iframe title="Simple Rubber Hose Character Rig in Blender | Real-Time Tutorial" src="https://www.youtube.com/embed/bQCmlZAl_Os?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+````
+`````
+👇My Products 👇
+Dynamic VFX Pack (Free Sample Pack): https://blendermarket.com/products/blender-dynamic-vfx---elemental-asset-pack
+Crafty Asset Pack (Free Sample Pack): https://blendermarket.com/products/crafty-asset-pack
+Patreon: https://www.patreon.com/southernshotty
+Skillshare (affiliate link): https://www.skillshare.com/r/user/southernshotty
+Tag me in your artwork on Instagram and Twitter @SouthernShotty
+Instagram: https://www.instagram.com/southernshotty/
+Twitter: https://twitter.com/SouthernShotty
+
+(Description:: Step into the whimsical world of rubber hose animation with this real-time tutorial in Blender! Rubber hose animation is known for its simple, flowing lines and classic cartoon style, reminiscent of the early 20th century animations. This tutorial is perfect for beginners and intermediate users who want to learn how to rig a simple rubber hose character in Blender.)
+
+We'll start with the basics of character modeling, focusing on the distinctive rubber hose limbs—long, bendy, and devoid of complex joints. Then, we'll dive into the rigging process, showing you how to create flexible, easy-to-animate rigs that capture the unique motion characteristics of rubber hose animation.
+
+Follow along at your pace, as we explain each step in detail, from setting up the armature to weight painting and controlling your character's movements. By the end of this tutorial, you'll not only have your own rubber hose character ready for animation but also a thorough understanding of basic rigging techniques in Blender.
+
+This real-time format allows you to learn and apply techniques simultaneously, ensuring a practical and engaging learning experience. So, whether you're looking to create nostalgic animations or simply expand your Blender skills, this tutorial will set you on the right path.
+
+# Transcript
+[00:00](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=0) you might be wondering how you could do rubber hose style animation and blender So today we're going to look at how to create this simple rig here you'll see that I've used it on this piece of fan 
+[00:09](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=9) art of cup head which is a great example of rubber hose animation so with that being said let's go ahead and dive in on how we can grate this ourselves so first things first we're 
+[00:21](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=21) going to go ahead here snap into a front view and we're going to hit shift a and we're going to add an armatur single bone now what we're going to do is press F2 here and we're just going to name 
+[00:31](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=31) that Armature something I'm going to name mine rubber rig perfect now we can tab into edit mode here and we're going to take the top point of this bone here the tail and we're going to press g z 
+[00:43](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=43) we're just going to move that down on the z-axis now we're going to go ahead and press EZ and we're just going to move that up until it matches about there perfect so this is going to be 
+[00:55](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=55) kind of our hip controls next we're going to go ahead and do the body all the way up to the head so what you want to do is grab the tail of that bone that you just extruded upwards and as you can 
+[01:06](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=66) see it can be kind of hard when they're overlapping so you can actually just grab that bone pointing down and press h to hide it for now now we can go ahead and grab the top of this bone and this 
+[01:16](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=76) is going to be our body so we're going to want to make this one a little bit longer so let's press e z and just kind of move this up and I'm just going to make mine about two units tall there 
+[01:25](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=85) perfect now we're going to make a little bone called body end and that's because we're going to be using track 2 constraints later so I'll show you how to do that but for now just press EZ and 
+[01:35](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=95) move that up and then now we're going to make the neck and the head so let's do another little short one just e and z and then a little bit longer one for the head doing e and z now this is going to 
+[01:46](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=106) look complicated now but it's all good so let's go ahead and begin naming these so let's name this top one head perfect and then we'll name this one neck and then we have this little controller bone 
+[01:58](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=118) here beneath the neck and we're we going to call that one body end and then we will call this one body and then down here we're going to go ahead and call this one body start now this isn't 
+[02:10](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=130) typically what you would name these type of bones but given some of the constraints and things we're going to do naming it this way it will make it a bit easier later now if you hold alt H we'll 
+[02:18](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=138) bring that other bone back and we can call this one hip control so I'm going to grab that bone facing downwards and name this hip control so I'm just going to do hip control perfect now if you 
+[02:29](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=149) want can go ahead and grab some of these and just give them a tiny bit of motion that way and that'll just kind of help give you more of a kind of natural look when it comes to the shape of a body 
+[02:42](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=162) however you will be able to move this to whatever shape you need for your character perfect next let's take the body here and we'll just press a to select everything and let's just move 
+[02:51](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=171) this up a bit so we're kind of above the bottom axis there if you're finding this a bit tedious and you'd rather just download a project file I actually put these up on my patreon I also put 
+[03:02](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=182) materials and kind of do some casual tutorials and walkthroughs of how I do things there as well that being said let's get back and finish this up and now we're going to hit shift a and we'll 
+[03:11](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=191) call this one root bone perfect okay so we can grab that root bone and press h to hide that we're going to hit shift a and add another bone this is going to be the beginning of our leg so let's move 
+[03:23](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=203) this over here grab that top piece bring it down press e z and bring it up e z and bring it up now you can go ahead and play the size of these in the proportions of these you're going to 
+[03:33](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=213) want this leg to be about the length of your body so we can go ahead maybe bring that up a bit and move these up you can play through proportions and of course this is going to depend on your 
+[03:43](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=223) character anyways next let's add a foot I'm going to switch into side view here we're going to grab that bottom bone there on our foot and we're going to extrude this a few times let's extrude 
+[03:54](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=234) it once back on the y- AIS there we'll point that back and then we'll extrude once forward and then again but much bigger and this is going to be kind of the actual foot bone and then one more 
+[04:05](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=245) time for now with that we kind of have a setup there you can go ahead and play with the proportions if you want we going to go ahead and make this a tiny bit longer just to give us a bigger foot 
+[04:15](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=255) and with that we should have all of our leg bones in place now we need to add a knee bone now what I like to do to make sure I get it dead center is I hit shift d to duplicate this bone and then I 
+[04:28](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=268) right click and subdivide and what that will do is turn this into two points so then if I switch to wireframe V and grab that bone inside I can press e y and drag that out and then I can just delete 
+[04:40](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=280) these two bones that I created here and if I hit alt H to unhide everything now I have a knee bone kind of dead center to the leg there that's kind of just a quick trick on how to do that next we're 
+[04:52](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=292) going to add the armb bone and then after that we'll begin doing all of our constraints and parenting now keep in mind usually you want your arms to be about the same length as your leg so 
+[05:03](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=303) just think about that as you're creating these bones up here or we're going to hit shift a up here and then we'll grab this bone here in the middle and we'll hit r90 and that'll allow us to rotate 
+[05:13](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=313) at 90° and we want to get this somewhere kind of around the chest there now I'm going to grab this end point bring this in this bone can be very short and then I'm going to press e and then drag that 
+[05:24](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=324) out on the X AIS and I'm locking that just by pressing X perfect now you can see we want this to be about the same length as our leg now we are going to make a small bit for our hand so we're 
+[05:35](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=335) going to zoom in here and we're going to press e x and then just create a small bone right there and then e x and drag out to create kind of the length of our hand and about this point is when you 
+[05:45](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=345) want it to match the length of your leg just to keep your character proportion correct and then we're going to press e x one last time and that will create the control for that so we've created all 
+[05:56](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=356) the bones we're going to use so next what we're going to do is go through and name all the bones and then add constraints so if you didn't already make sure this one is named root and 
+[06:05](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=365) then let's start naming the leg bones so we're going to put a l at the end of these as this is the left side of our Armature when we're looking at it from behind and then that'll allow us to 
+[06:15](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=375) symmetrize everything so we only have to do things once so grab the top here and we'll name this leg end. L then we'll name the middle bone here leg DOL let's grab this bone here and we're going to 
+[06:29](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=389) name this knee L down here we will grab this and name this leg. start. L and then we need to name the foot bones so back here this is going to be the foot control so let's name this foot control 
+[06:42](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=402) so I'm just going to do f for foot and do control and then here we're going to name these as the foot bones so I'm going to do F start FL L make sure to addl to the end of all of these don't 
+[06:55](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=415) make mistakes like me and then we're going to grab the last one here and name this f. .l now we can name the arm bones which will be a very similar structure now 
+[07:05](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=425) before we start naming the arm let's add one more bone now this is optional but I recommend doing it if you really want to get that bendy bone look we're going to do same thing we did with the knee down 
+[07:15](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=435) here I'm going to grab this bone here hit shift d to duplicate it right click the subdivide and then I'm going to grab that little Center Point right there press e y bring that out and then delete 
+[07:26](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=446) those two bones that I created and what we're doing with this is creating an elbow that will control the curve of the bone so after you've done that we can begin naming so we'll grab this first 
+[07:37](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=457) bone here and we're going to call this a.start DOL we'll grab this middle bone here call this arm. L we'll grab this piece here we'll name this elbow. L and then we can grab this over here and it 
+[07:51](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=471) may be hard to get to so you can always hide that previous bone grab it there and then we can name this one a do n .l and then we can grab this here and this is going to be our handbone and you may 
+[08:03](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=483) wonder why we don't have a hand start and that's because it's going to be directly connected to the arm end here so we'll just call this one hand. L and then down here we'll grab this one and 
+[08:14](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=494) name this one h. .l okay now since we've been hiding bones along the way you can go ahead and press alt H and that will unhide all the bones and we're ready to begin parenting 
+[08:26](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=506) and adding constraints to these let's just pause for a second I just want to prepare you that coming up there's going to be a lot of little micro steps now none of them are hard but it is very 
+[08:37](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=517) important that you don't miss any so if something breaks just rewind and kind of check through your process again with that being said let's move on let's focus on adjusting some 
+[08:49](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=529) relationships here so we'll start with this body segment here now if you've been following along everything here should be attached which is what we want for the most part except for this this 
+[08:59](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=539) one right here we're going to grab body end and we're going to hit alt p and clear parent that'll free it of any parents below but it should still be connected to the neck let's focus on the 
+[09:09](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=549) arm next so we'll grab this bone down here a start and we'll grab the body in we're going to hit contrl P keep offset now we'll grab this one right here the elbow and you'll see that it's connected 
+[09:20](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=560) to this bone down here so we're going to hit alt P clear parent and we'll be using a constraint on that later now we want to grab this bone here it can be very difficult to grab one trick is if 
+[09:31](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=571) you grab this bone right here come over to your outliner and press period on the numpad it will bring that bone up we can TL that down and select that arm end there now with that arm end selected we 
+[09:42](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=582) want to grab this over here body end again hit contrl P keep offset perfect and then lastly we'll come down here and we'll grab this handbone right here h. n.l come back over hit body end and 
+[09:56](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=596) we'll hit control keep offset and with that you should see that these bones are still connected there but that we can move these as well and you'll see that let's move down to the leg bone next and 
+[10:08](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=608) work on the parenting there again let's start with this knee here and we're going to hit alt P clear parent just to clear that we'll parent that later with a constraint after you've disconnected 
+[10:18](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=618) that bone come up here grab the leg end and we're going to parent that to this downward facing bone here which is our hip control hit contrl P keep offset now if we come down to the bottom of our leg 
+[10:30](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=630) and move around here you'll see that nothing's connected to the foot so let's fix that down here if you remember we created the foot control so we're going to connect a few things down here we'll 
+[10:40](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=640) grab this leg start L grab that foot control hit contrl p and I'm just going to keep offset and then we will also grab this f- start here and grab that foot control and again hit keep offset 
+[10:51](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=651) then if we come down to the end of the foot we are going to take this bone right here FNL and parent that to the foot control as well with a keep offset that allow us to drag that independently 
+[11:03](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=663) of this foot which will make a bit more sense later now we're going to parent a few things to the root bone so we will grab the foot control here and parent that to the root bone with a keep offset 
+[11:14](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=674) and then we're also going to parent the hip controller bone that we had up there as well so this downward facing bone right here the hip control will grab that and parent that to the root bone as 
+[11:26](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=686) well now on the body we're going to do one less parent we'll grab that body in there and you're going to grab that upward-facing bone the body start hit contrl P keep offset and we will grab 
+[11:37](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=697) the body end bone and over here under the bone tab under relations we'll turn off inherent rotation and we'll also do that for the neck as well which will just make that a bit independent of the 
+[11:48](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=708) rotation which will make it a bit easier as we're rotating there to kind of keep the head still now not many people seem to be aware of this when they're in blender but you can actually turn deform 
+[11:56](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=716) off her bone and what that means is that if you automatically parent your mesh to your Armature it won't include that bone in the deformation so we're going to turn that off for a few and I'm going to 
+[12:07](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=727) show you a trick as well so we're going to grab a few bones there let's grab the hip control bone that's the downward facing one the root bone the knee the foot control and then come out here and 
+[12:17](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=737) grab the elbow now we don't want any of these contributing to the deformation so we can check off deform but we wanted to do it for all so if you hold alt and press enter while hovered over that 
+[12:27](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=747) you'll see that it applies that to all the check boxes so that's one quick way you can turn off deform for a bunch of bones at once so up until this point we've been working in a viewport display 
+[12:37](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=757) which is called octahedral and we're going to come to our Armature Tab and change that display as to bbone and this will allow us to see our bendy bones segments and we're going to start 
+[12:49](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=769) splitting some of these up so we'll grab the arm here and let's come to the Bone tab twirl down bendy bones and we can turn up the segments here we'll add 12 segments to the arm grab the leg We'll 
+[13:02](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=782) add 12 segments there and then for the foot and the hand let's add six segments and then for the body you can add as many as you like I think I'm going to do six segments there as well now another 
+[13:13](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=793) thing you can do to make this a bit easier so if you come over here to the Bone size tool and edit mode you can come down to Bone envelope and we can use this to change the size of the bones 
+[13:24](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=804) so if I grab the hip control bone over here click that little circle and drag I can make that a bit bigger and you can go ahead and do that on any bone where you think you might want to grab it a 
+[13:34](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=814) bit easier so I'll grab that foot control bone there make those a bit bigger as well and grab the tops of the leg here make that bigger this won't affect your rig at all it'll just make 
+[13:46](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=826) certain things a bit easier to grab when you're trying to edit and work with it so I like to do it just with some of these in between bones for example we know that handbone is really hard to 
+[13:57](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=837) grab inside of there so I'll come over here and my graph grab the arm and Bone just make that a bit bigger make that a bit bigger and you can see how that just makes everything a little bit simpler to 
+[14:07](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=847) work with now we're ready to start adding constraints to these bones so we're going to switch over to pose mode here and let's start with the leg first so we will grab that leg we'll come down 
+[14:18](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=858) here to the Bone constraints Tab and we're going to add a stretch two constraint so with that's selected add a stretch two constraint choose your rig and then for your bone you want to do 
+[14:29](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=869) leg and L great now when you go ahead and adjust the size of your rig you may see for example if I do this and I switch back to pose mode it can sometimes break this and what you do is 
+[14:43](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=883) you just click this little x button here so if you are ever adjusting the size or lengths of these bone to match a character you want to rig to and all these start breaking just come to the 
+[14:54](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=894) stretch two and click X there and that should fix it now if I go ahead and grab this bone we'll see that that it is stretching there perfect so we will grab this bone now come over to the Bone tab 
+[15:05](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=905) twirl down bendy bones and you see we have the start handle and end handle here and we are going to make both of these set to Absolute and then for start handle we will choose leg start and for 
+[15:15](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=915) the end we will choose leg end and then now what that means is that when we rotate here it will have an absolute match to that in terms of the curve perfect next let's grab the knee bone 
+[15:26](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=926) here and we are going to add a child of constraint which will allow us to parent it to one of the other bones in here so let's grab this rig here and then we're going to parent it to the body start and 
+[15:38](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=938) we're going to leave the invert or the influence at one now again if you are moving your bones around when you do this you might notice that this breaks so click set inverse so if any point 
+[15:48](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=948) when you're trying to move bones around you think things break check the stretch two constraints and click this little X for original length and check the child of constraint and just click set inverse 
+[15:58](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=958) and that'll fit fix things 90% of the times now what we want to do here is turn off rotation so we're just going to turn off rotation for that and just like I said you see that it just snaps and 
+[16:07](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=967) disappears if we click set inverse that'll set it back to where it is and fix it now we can grab the top bone here we're going to add a damped track again we will choose this rig and then we're 
+[16:18](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=978) going to make it to do the knee bone there so search for knee and you'll notice that everything breaks and that's because if we turn on local here and grab the grab button you can see that it 
+[16:30](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=990) is twisting around so the y- AIS faces it so let's just click NE Y and now it'll be focusing there let's grab the damp track down here on this bottom one the um leg. start We'll add a damped 
+[16:45](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1005) track again we will choose that knee bone and this one should just work as is and now what we can do with this knee is we can use this to just create this kind of curvy look like this which will allow 
+[16:57](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1017) us to do that kind of rubber hose look we are trying to achieve now let's grab this foot down here we'll add a stretch two constraint to this and then we will grab the rubber rig grab the foot end L 
+[17:12](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1032) and then that will allow us to kind of create a movement there as well now we can grab this and again come to the bones tab click both of these to Absolute and then just choose the start 
+[17:24](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1044) and stop of the foot there and with that now we can go ahead and move our foot around and then if you want to control this portion of the foot you can do that and that and stretch it 
+[17:36](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1056) and again we kind of have a rubber hose style rig lastly we'll come up here and do the arm so let's grab the arm this is going to mimic the exact same thing as the foot so we'll grab the arm we will 
+[17:48](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1068) do a stretch two constraint on the arm grab that rubber rig and we will choose to grab the arm do end right there and then we will grab the start here and we will add a damp track and we're going to 
+[18:05](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1085) point this at the elbow we'll point this at the elbow so we'll grab the rig and then search for elbow and grab our elbow there everything should work there as intended then we'll come down here we'll 
+[18:16](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1096) grab the hand here we'll add a damp track there again we will point at that elbow and again this is going to break the rig so we will cck negative y there now once come back to this bone here and 
+[18:29](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1109) we're going to turn on the absolute for this one as well turn on absolute there and again just choose that start for the arm and that end as well now we will grab this elbow and we're going to do 
+[18:41](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1121) the same thing as the knee so we're going to add a child of constraint and on that child of constraint we are going to choose the rig there and we are going to choose body end and that's going to 
+[18:52](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1132) parent it to this over here and again we will turn off rotation you'll see everything breaks we set inverse and now we kind of have a system right there lastly let's grab this hand here and 
+[19:05](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1145) with that hand selected we will add a stretch two constraint the Armature rig and then we will add the end of the hand and then we will come down to the absolute here so that we can go ahead 
+[19:17](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1157) and change it and this one's going to be slightly different than the others we're going to leave the start handle at automatic and then we're going to take the end handle leave this at Absolute 
+[19:25](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1165) and do end and then that allows us to kind of control all of that there perfect now we come over to the body here and we're going to do a stretch two constraint on the body so we will grab 
+[19:37](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1177) the body here do a stretch to constraint do the R Rig and then we will point to the end of the body there and just like that we have our final rig there you can see if we move that everything's working 
+[19:49](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1189) there and grab this hip control and move independently of the leg there move our root B bone and control everything everything's in working order so with that we will select everything I'm going 
+[19:59](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1199) to press a there and we'll tab into edit mode and then we will search for symmetrize and that's under the Armature menu you don't know how to use the search function there and with that we 
+[20:09](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1209) come back to pose mode and we can see that everything here is working as intended and we can grab these and kind of move out and do these crazy rubber rig hoses now you can just go ahead and 
+[20:20](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1220) in edit mode you can tap this and move your bones around to match the proportions of your character and then grab your character and hit contrl p and parent to arm with automatic weights now 
+[20:30](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1230) if you notice that the rig breaks remember what I say go to the stretch two constraints and just click that little X to ensure that you have the correct length and then likewise set the 
+[20:38](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1238) inverse of the elbow and the knee I'm actually working on a full tutorial where I'll dive more into this weight pain process and we'll also look at how to create some visual controls for this 
+[20:47](https://www.youtube.com/watch?v=bQCmlZAl_Os&t=1247) rig as well 
