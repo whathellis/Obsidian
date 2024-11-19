@@ -4,6 +4,6 @@ tags:
 share: true
 done: false
 date: ""
-q-type: book
 Deadline: 
+time: 0
 ---

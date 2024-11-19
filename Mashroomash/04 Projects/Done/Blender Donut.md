@@ -2,11 +2,11 @@
 tags:
   - project
 share: true
-done: false
-date: ""
-q-type: book-started
-q-data:
-  due-at: 2024-08-05T18:00:00.000Z
+done: true
+date: 2024-08-05
+time: 38
+deadline: 2024-09-02
+cover: "[[Screenshot 2024-09-15 18.25.50 2880×1620_18.jpg.jpg]]"
 ---
 - [x] record audio [[24.07.25|24.07.25]]
 	- [x] check grammar [[24.07.25|24.07.25]]
@@ -19,7 +19,8 @@ q-data:
 - [x] sounds for animation
 - [x] render in Cycles [[24.08.02|24.08.02]]
 - [x] render in Eevee 2
-- [x] [[Talking head|Talking head]]
+- [x] [[Talking Head|Talking Head]] 
+- [x] post [[YouTube|YouTube]] timelapse [[W37#24.09.12|W37 > 24.09.12]]
 
 Hi, usually I don't add voice to my videos, but I wanted to explain a little for this one.
 
@@ -31,6 +32,29 @@ Back then I had a decent PC, so I decided to install Blender again. This time I 
 
 So now when I at least understand what the hell I am doing, I decided to make it again with animation and stuff.
 
-Also, sorry for the voice, all the female ones sounded kinda too old, and don't really fit.
+---
 
-And now you can enjoy the video of me not knowing what the hell I am doing again!
+This video is a timelapse of the modeling and animation process of the Spooky Donuts animation I made in Blender 3D. I also used Photoshop for the box and Premier Pro for the sounds, but it's not so important.
+The animation part is pretty speeded up because it's just me going back and forth, adjusting keyframes and curves. I didn't plan it so the process may be kinda chaotic.
+Some parts are very speeded up because I decided not to put them on the final model, and some are because they are not so important (as choosing the colors).
+
+💖 Cara: https://cara.app/mashroomash
+🌱 Linktree: https://linktr.ee/whathellis
+🐦 Twitter: https://twitter.com/mashroomash
+📷 Instagram: https://www.instagram.com/mashroomash
+
+Created in Blender 3D
+Rendered in Eevee
+Edited in Premier Pro
+Music is from YouTube 
+
+✦ Timestamps ✦
+00:01 The donut
+10:42 More donuts
+19:49 The box
+20:23 This part will be changed 
+21:47 The scene
+25:30 The box
+26:46 Animation
+33:17 The box
+34:11 The final render

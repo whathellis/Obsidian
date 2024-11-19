@@ -2,16 +2,18 @@
 tags:
   - project
 share: true
-done: false
-date: ""
-q-type: book
+done: true
+date: 2024-09-28
 Deadline: 2024-10-31
-URL: https://www.renderhub.com/forum/8256/entry
+URL: https://www.renderhub.com/forum/8449/brain-threads
+time: 86
+cover: "[[Screenshot 2024-11-12 00.18.15 3000×3232_030.2.jpg.jpg]]"
 ---
 # Character Design Contest  
+[[Brain threads|Brain threads]]
 August 1 - October 31: Prizes Worth $8000
 Share On Social Media **RenderHubContest**
-![](https://www.renderhub.com/3d-contests/character-design-contest.jpg)
+
 Unleash your creativity as you sculpt beings that defy convention and inspire awe. Whether you envision futuristic cyborgs or whimsical fantasy creatures, this contest is your canvas to breathe life into the extraordinary. Join fellow 3D artists in pushing the boundaries of visual storytelling and craftsmanship, where each polygon and texture tells a tale of innovation and artistry. Dare to dream in dimensions beyond the ordinary - this is where characters come alive.
 
 **This is a 3D modeling contest requiring a completely original character that you have created for this contest**.

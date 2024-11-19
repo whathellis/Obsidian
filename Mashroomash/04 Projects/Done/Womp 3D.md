@@ -3,11 +3,10 @@ tags:
   - project
 share: true
 done: true
-date: 2024-07-24
-q-type: book-finished
-q-priority: 0
-q-data:
-  due-at: 2024-08-05T18:00:00.000Z
+date: 2024-06-11
+time: 33
+deadline: 2024-07-24
+cover: "[[Screenshot 2024-09-15 18.22.09 3000×2000_1_(1).jpg.jpg]]"
 ---
 [[Pink Guy - Blender And Womp 3D Animation|Pink Guy - Blender And Womp 3D Animation]]
 [[Trying Womp 3D For The First Time 🦩 Pink Guy Speed Modeling - Part 1|Trying Womp 3D For The First Time 🦩 Pink Guy Speed Modeling - Part 1]]
