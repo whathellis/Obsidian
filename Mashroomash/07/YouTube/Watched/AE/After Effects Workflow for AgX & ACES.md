@@ -8,7 +8,6 @@ duration: 1168
 tags:
   - video/3D/color
   - video/soft/AE
-  - video/3D/AOVs
 done: true
 cover: "[[maxresdefault (16) 1.jpg]]"
 ---
