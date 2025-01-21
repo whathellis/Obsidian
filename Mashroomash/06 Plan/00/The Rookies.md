@@ -3,6 +3,7 @@ URL: https://www.therookies.co/about
 thumbnail: 
 site: "[[The Rookies]]"
 cover: ""
+dg-publish: true
 ---
 # The first step to your future creative career
 

@@ -10,5 +10,5 @@ share: true
 sort: desc
 limit: 8
 breakpoints: 4
-path: '00 Daily/06'
+path: '06 Plan/03'
 ```

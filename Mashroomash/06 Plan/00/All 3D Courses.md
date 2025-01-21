@@ -3,6 +3,7 @@ cssclasses:
   - daily
   - page-light-blue
   - Tuesday
+dg-publish: true
 ---
 # All 3D modeling courses
 

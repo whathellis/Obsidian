@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2020/02/rgb-does-not-mean.jpg
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:19:42
 duration: 6
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #19: What the F*ck is a “Gamut”?
 
-Description:: Phew. It’s been a long time coming, but the time we have invested is starting to pay off! We can actually discuss colour in a meaningful way, and with [the introduction of perceptually uniform maps with Question #15](https://hg2dc.com/question-15/), we can even compare colours or get a sense as to “how different” chromaticities are! And we’ve just [started scratching the surface of how different displays behave with Question #16](https://hg2dc.com/question-16/).
+Phew. It’s been a long time coming, but the time we have invested is starting to pay off! We can actually discuss colour in a meaningful way, and with [the introduction of perceptually uniform maps with Question #15](https://hg2dc.com/question-15/), we can even compare colours or get a sense as to “how different” chromaticities are! And we’ve just [started scratching the surface of how different displays behave with Question #16](https://hg2dc.com/question-16/).
 
 Hopefully, with the sorts of questions answered since then you are beginning to appreciate why understanding the various chromaticity diagrams and their relationship to visible light are **the** most important set of concepts a digital artist needs to know; *it allows us to discuss colour in a meaningful way*. As a set of core concepts they are, in no uncertain terms, the ground truth for all things creative from print to display to rendering to photography to motion graphics to whatever little unique domain has found you here, reading this crap.
 

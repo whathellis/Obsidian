@@ -6,7 +6,7 @@ date: 2024-07-21
 published: 2024-07-09T15:00:21
 duration: 724
 tags:
-  - video/3D/blender
+  - video/3D/tutorial/blender
 done: true
 cover: "[[Pasted image 20240715172056.jpg]]"
 ---

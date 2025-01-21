@@ -6,7 +6,7 @@ date: 2024-09-27
 published: 2023-11-10T00:00:00
 duration: 3529
 tags:
-  - video/3D/SubstancePainter
+  - video/3D/texture/SubstancePainter
   - video/3D/texture/shader
 done: true
 cover: "[[maxresdefault (32).jpg]]"

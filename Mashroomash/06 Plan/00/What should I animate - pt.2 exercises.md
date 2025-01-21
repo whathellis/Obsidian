@@ -4,12 +4,13 @@ thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn5uBcrD5J
 site: "[[]]"
 date: 2024-08-15T17:44:30
 duration: 3
-topics: 
+topics:
+  - "[[Animation exercises|Animation exercises]]"
 done: false
-q-type: article
 cover: 
+dg-publish: true
 ---
-[[Read it Later|Read it Later]] [[../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # What should I animate? - pt.2 exercises
 
 Description:: Alright, so this is an extension to the ["What should I animate?"](http://spungella.blogspot.com/2008/09/what-should-i-animate_24.html) post, which was focusing more on the demo reel side. But what if you don't care about the reel, what if you just want to practice and treat the shot as an exercise? What should you animate then? You can easily create a list of things, just keep the shot short. It's also up to you to add complexity to it. So let's see:

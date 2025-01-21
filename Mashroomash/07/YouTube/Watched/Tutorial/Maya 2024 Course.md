@@ -7,8 +7,7 @@ published: 2021-10-11T16:30:05
 duration: 2989
 tags:
   - video/3D/playlist
-  - video/3D/Maya
-  - video/3D/tutorial
+  - video/3D/tutorial/Maya
 done: true
 cover: "[[maxresdefault 1.jpg]]"
 ---

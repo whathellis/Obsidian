@@ -1,18 +1,14 @@
 ---
 date: 2024-07-20
 cssclasses:
-  - page-grid
   - daily
   - Thursday
   - page-light-yellow
 topics:
   - "[[Animation Principles|Animation Principles]]"
-q-type: article
-q-data:
-  leech-count: 1
-  due-at: 2024-07-24T18:00:00.000Z
+dg-publish: true
 ---
-[[../../07/YouTube/Animation/The Three Biggest Ideas in Animation|The Three Biggest Ideas in Animation]]
+[[The Three Biggest Ideas in Animation|The Three Biggest Ideas in Animation]]
 - [8] We can simplify all the little ideas about animation to the 3 most important ideas:
 1. Timing - how long smth takes to happen (18 frame loop)
 	- Include:

@@ -5,11 +5,10 @@ channel: "[[Doodley]]"
 date: 2024-07-22T13:56:50
 published: 2023-02-27T07:39:37
 duration: 685
-tags: 
+tags:
+  - video/animation/3D
 done: false
-cover: 
-q-data:
-  due-at: 2024-07-24T18:00:00.000Z
+cover: "[[Pasted image 20240722135703.jpg]]"
 ---
 [[Read it Later|Read it Later]] [time:: "11m 25s"]
 # Animating LEGS (Walk Cycles and Weight) - Doodley
@@ -22,12 +21,10 @@ flexGrow=1
 ````col-md
 flexGrow=1
 ===
-https://www.youtube.com/watch?v=6lGPvMLE8Oo
 <iframe width="400" height="210" src="https://www.youtube-nocookie.com/embed/6lGPvMLE8Oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ````
 `````
-Description:: Join the Patreon! https://www.patreon.com/doodley
-Walk cycles are by far the most common thing animators animate, but it's not as simple as putting one foot in front of the other. Let's take a look at legs themselves to truly understand walks, runs and jumps!
+(Description:: Walk cycles are by far the most common thing animators animate, but it's not as simple as putting one foot in front of the other. Let's take a look at legs themselves to truly understand walks, runs and jumps!)
 
 Subscribe!  https://bit.ly/3rugbJ5 
 Store: https://shop.doodley.org/

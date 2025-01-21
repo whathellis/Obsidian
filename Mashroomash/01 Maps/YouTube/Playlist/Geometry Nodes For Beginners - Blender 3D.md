@@ -5,7 +5,8 @@ date: ""
 channel: "[[CrossMind Studio]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/node
+cover: "[[hq720(6).jpg]]"
 ---
 `````col
 ````col-md
@@ -26,14 +27,14 @@ views:
     columns: 4
     orientation: landscape
 ```
-[[../../../07/YouTube/3D/Playlist/03 Interface and Basics - Geometry Nodes For Beginners  Blender 3.0(Fields)|03 Interface and Basics - Geometry Nodes For Beginners  Blender 3.0(Fields)]]
-[[../../../07/YouTube/3D/Playlist/04 Applying Materials - Geometry Nodes For Beginners  Blender 3.0|04 Applying Materials - Geometry Nodes For Beginners  Blender 3.0]]
-[[../../../07/YouTube/3D/Playlist/05 Understanding Basic Math  - Geometry Nodes For Beginners  Blender 3.0|05 Understanding Basic Math  - Geometry Nodes For Beginners  Blender 3.0]]
-[[../../../07/YouTube/3D/Playlist/06 Displacing Geometry - Geometry Nodes For Beginners  Blender 3.0(Fields)|06 Displacing Geometry - Geometry Nodes For Beginners  Blender 3.0(Fields)]]
-[[../../../07/YouTube/3D/Playlist/07 Points and Instancing - Geometry Nodes( Fields) For Beginners  Blender 3.0|07 Points and Instancing - Geometry Nodes( Fields) For Beginners  Blender 3.0]]
-[[../../../07/YouTube/3D/Playlist/08 Curve nodes - Geometry Nodes( Fields) For Beginners  Blender 3.0|08 Curve nodes - Geometry Nodes( Fields) For Beginners  Blender 3.0]]
-[[../../../07/YouTube/3D/Playlist/09 Geometry Proximity - Geometry Nodes( Fields) For Beginners  Blender 3.0|09 Geometry Proximity - Geometry Nodes( Fields) For Beginners  Blender 3.0]]
-[[../../../07/YouTube/3D/Playlist/10 RAYCAST - Geometry Nodes For Beginners Blender 3.1|10 RAYCAST - Geometry Nodes For Beginners Blender 3.1]]
+[[../../../07/YouTube/Playlist/03 Interface and Basics - Geometry Nodes For Beginners  Blender 3.0(Fields)|03 Interface and Basics - Geometry Nodes For Beginners  Blender 3.0(Fields)]]
+[[../../../07/YouTube/Playlist/04 Applying Materials - Geometry Nodes For Beginners  Blender 3.0|04 Applying Materials - Geometry Nodes For Beginners  Blender 3.0]]
+[[../../../07/YouTube/Playlist/05 Understanding Basic Math  - Geometry Nodes For Beginners  Blender 3.0|05 Understanding Basic Math  - Geometry Nodes For Beginners  Blender 3.0]]
+[[../../../07/YouTube/Playlist/06 Displacing Geometry - Geometry Nodes For Beginners  Blender 3.0(Fields)|06 Displacing Geometry - Geometry Nodes For Beginners  Blender 3.0(Fields)]]
+[[../../../07/YouTube/Playlist/07 Points and Instancing - Geometry Nodes( Fields) For Beginners  Blender 3.0|07 Points and Instancing - Geometry Nodes( Fields) For Beginners  Blender 3.0]]
+[[../../../07/YouTube/Playlist/08 Curve nodes - Geometry Nodes( Fields) For Beginners  Blender 3.0|08 Curve nodes - Geometry Nodes( Fields) For Beginners  Blender 3.0]]
+[[../../../07/YouTube/Playlist/09 Geometry Proximity - Geometry Nodes( Fields) For Beginners  Blender 3.0|09 Geometry Proximity - Geometry Nodes( Fields) For Beginners  Blender 3.0]]
+[[../../../07/YouTube/Playlist/10 RAYCAST - Geometry Nodes For Beginners Blender 3.1|10 RAYCAST - Geometry Nodes For Beginners Blender 3.1]]
 
 Nodes are powerful, every major 3D programme either already have a strong node based procedural workflow, or is adapting to it. Blender's Everything Node projects first installment is Geometry Nodes. Which is still at a very early stage of development, but can make life easier even with limited number of nodes we have a this moment.
 It's fun, It changes the way we used to make environments, procedural effects, scatter things around. And not just that, with upcoming  modifiers and many more nodes being added to it, its going to get even more powerful. So while the development of Geometry Nodes will go on for quite some time, its better we do some catching up, and start adapting to the new workflow.

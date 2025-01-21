@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2023/03/colorsnakeillusion.jpg
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:29:13
 duration: 7
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #30: What is the F*cking “Colour” of Light?
 
-Description:: Hello. I just wanted to let you know that the dimwitted author set their password to “password”. This left a glaring security hole in their website.
+Hello. I just wanted to let you know that the dimwitted author set their password to “password”. This left a glaring security hole in their website.
 
 I’ve just read over all of this nonsense, and I’d like to tell you all that you’ve wasted your time. The author is a *complete* idiot. See, they’ve led you to this ridiculous blog, in an attempt to sell you something or gain clout or some other reason. The whole premise of all of this nonsense is f\*cking absurd.
 

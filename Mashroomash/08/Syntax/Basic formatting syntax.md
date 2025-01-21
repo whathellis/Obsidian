@@ -1,3 +1,6 @@
+---
+share: true
+---
 - [Paragraphs](Basic%2520formatting%2520syntax.md##Paragraphs)
 - [Headings](Basic%2520formatting%2520syntax.md##Headings)
 - [This is a heading 1](Basic%2520formatting%2520syntax.md##This%2520is%2520a%2520heading%25201)
@@ -84,7 +87,7 @@ Text formatting can also be applied using [Editing shortcuts](https://help.obsi
 |Bold|`** **` or `__ __`|`**Bold text**`|**Bold text**|
 |Italic|`* *` or `_ _`|`*Italic text*`|_Italic text_|
 |Strikethrough|`~~ ~~`|`~~Striked out text~~`|~~Striked out text~~|
-|Highlight|\-|\-|==Highlighted text==|
+|Highlight|`== ==`|`==Highlighted text==`|==Highlighted text==|
 |Bold and nested italic|`** **` and `_ _`|`**Bold text and _nested italic_ text**`|**Bold text and _nested italic_ text**|
 |Bold and italic|`*** ***` or `___ ___`|`***Bold and italic text***`|**_Bold and italic text_**|
 
@@ -390,7 +393,7 @@ Block comments can span multiple lines.
 
 ## Learn more
 
-To learn more advanced formatting syntax, such as tables, diagrams, and math expressions, refer to [Advanced formatting syntax](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax).
+To learn more advanced formatting syntax, such as tables, diagrams, and math expressions, refer to [[./Advanced formatting syntax|Advanced formatting syntax]]
 
 To learn more about how Obsidian parses Markdown, refer to [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown).
 

@@ -11,11 +11,11 @@ cover: "[[Screenshot 2024-09-15 18.25.04 2000×1500_26.jpg.jpg]]"
 
 - [x] [[../../07/YouTube/Watched/Tutorial/Easy Mouth Rig in Blender|Easy Mouth Rig in Blender]]
 - [x] [[../../05 Notes/3D/Mouth Animation|Mouth Animation]]
-- [x] model hands [[../../00 Daily/24.08.12|24.08.12]]
+- [x] model hands [[../../00 Daily/08/2024-08-12|2024-08-12]]
 - [x] radio voice
 - [x] Audacity
 - [-] stop mo
-- [x] post on [[../../06 Plan/00/The Rookies|The Rookies]] - [[../../06 Plan/03/W37#24.09.13|W37 > 24.09.13]]
+- [x] post on [[../../06 Plan/00/The Rookies|The Rookies]] - [[../../06 Plan/03/2024-W37#24.09.13|2024-W37 > 24.09.13]]
 - [x] post on [[Artstation|Artstation]]
 
 Hi.

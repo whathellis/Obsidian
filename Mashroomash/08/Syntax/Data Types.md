@@ -1,5 +1,8 @@
+---
+share: true
+---
 # Field Types
-All fields in dataview have a **type**, which determines how dataview will render, sort, and operate on that field. Read more about how to create fields on [[Adding Metadata|Adding Metadata]] and which information you have automatically available on [[Metadata on pages|Metadata on pages]] and [[Metadata on Tasks and Lists|Metadata on Tasks and Lists]].
+All fields in dataview have a **type**, which determines how dataview will render, sort, and operate on that field. Read more about how to create fields on [[./Adding Metadata|Adding Metadata]] and which information you have automatically available on [[./Metadata on pages|Metadata on pages]] and [[./Metadata on Tasks and Lists|Metadata on Tasks and Lists]].
 
 ## Why does the type matter?
 
@@ -13,7 +16,7 @@ If you have this file:
 
 ` date1:: 2021-02-26T15:15 date2:: 2021-04-17 18:00  | File                                    | date1                                                                                                  | date2 |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----- |
-| [[08/Syntax/Data Types.md\|Data Types]] | 2021-02-26T15:15 date2:: 2021-04-17 18:00  ```dataview TABLE date1, date2 WHERE file = this.file ``` ` | \-    |
+| [[08/Syntax/Data Types.md\|Data Types]] | 2021-02-26T15:15 date2:: 2021-04-17 18:00  ``\-`` ` | \-    |
  `
 
 You'll see the following output (depending on your Date + Time Format Setting for dataview):
@@ -22,7 +25,7 @@ You'll see the following output (depending on your Date + Time Format Setting fo
 |---|---|---|
 |Untitled 2|3:15 PM - February 26, 2021|2021-04-17 18:00|
 
-`date1` is recognized as a **Date** while `date2` is a normal **Text** to dataview, that's why `date1` is parsed differently for you. Find out more on [Dates below](https://blacksmithgu.github.io/obsidian-dataview/annotation/types-of-metadata/#date).
+ is recognized as a **Date** while  is a normal **Text** to dataview, that's why  is parsed differently for you. Find out more on [Dates below](https://blacksmithgu.github.io/obsidian-dataview/annotation/types-of-metadata/#date).
 
 ## Available Field Types
 
@@ -38,7 +41,7 @@ Multiline text
 
 Multiline text as a value is only possible via YAML Frontmatter and the pipe operator:
 
-`--- poem: |   Because I could not stop for Death,   He kindly stopped for me;   The carriage held but just ourselves   And Immortality. author: "[[Emily Dickinson]]" title: "Because I could not stop for Death" ---`
+`--- poem: |   Because I could not stop for Death,   He kindly stopped for me;   The carriage held but just ourselves   And Immortality. author: "[[Emily Dickinson|Emily Dickinson]]" title: "Because I could not stop for Death" ---`
 
 For inline fields, a line break means the end of the value.
 
@@ -77,11 +80,11 @@ When querying for these dates, you can access properties that give you a certain
 - field.second
 - field.millisecond
 
-For example, if you're interested in which month your date lies, you can access it via `datefield.month`:
+For example, if you're interested in which month your date lies, you can access it via :
 
 ` birthday:: 2001-06-11   `
 
-gives you back all birthdays happening this month. Curious about `date(now)`? Read more about it under [literals](https://blacksmithgu.github.io/obsidian-dataview/reference/literals/#dates).
+gives you back all birthdays happening this month. Curious about \-? Read more about it under [literals](https://blacksmithgu.github.io/obsidian-dataview/reference/literals/#dates).
 
 Displaying of date objects
 
@@ -99,25 +102,25 @@ Calculations with dates and durations
 
 Date and Duration types are compatible with each other. This means you can, for example, add durations to a date to produce a new date:
 
-`` departure:: 2022-10-07T15:15 length of travel:: 1 day, 3 hours  **Arrival**: 2022-10-07T15:15 length of travel:: 1 day, 3 hours  **Arrival**: `= this.departure + this.length-of-travel` ``\- ``
+`` departure:: 2022-10-07T15:15 length of travel:: 1 day, 3 hours  **Arrival**: `= this.departure + this.length-of-travel` ``
 
 and you get back a duration when calculating with dates:
 
-``release-date:: 2023-02-14T12:00  \- until release!!``
+``release-date:: 2023-02-14T12:00  `= this.release-date - date(now)` until release!!``
 
-Curious about `date(now)`? Read more about it under [literals](https://blacksmithgu.github.io/obsidian-dataview/reference/literals/#dates).
+Curious about \-? Read more about it under [literals](https://blacksmithgu.github.io/obsidian-dataview/reference/literals/#dates).
 
 ### Link
 
-Obsidian links like `[[Page]]` or `[[Page|Page Display]]`.
+Obsidian links like `[[Page|Page]]` or `[[Page|Page Display]]`.
 
-`Example:: [[A Page]] Example:: [[Some Other Page|Render Text]]`
+`Example:: [[A Page|A Page]] Example:: [[Some Other Page|Render Text]]`
 
 Links in YAML Frontmatter
 
-If you reference a link in frontmatter, you need to quote it, as so: `key: "[[Link]]"`. This is default Obsidian-supported behavior. Unquoted links lead to a invalid YAML frontmatter that cannot be parsed anymore.
+If you reference a link in frontmatter, you need to quote it, as so: `key: "[[Link|Link]]"`. This is default Obsidian-supported behavior. Unquoted links lead to a invalid YAML frontmatter that cannot be parsed anymore.
 
-`--- parent: "[[parentPage]]" ---`
+`--- parent: "[[parentPage|parentPage]]" ---`
 
 Please be aware that this is only a link for dataview, but not for Obsidian anymore - that means it won't show up in the outgoing links, won't be displayed on graph view and won't be updated on i.e. a rename.
 
@@ -137,7 +140,7 @@ Duplicated metadata keys in the same file lead to lists
 
 If you're using a metadata key twice or more in the same note, dataview will collect all values and give you a list. For example
 
-` grocery:: flour [...] grocery:: soap  - [[08/Syntax/Data Types.md|Data Types]]: flour [...] grocery:: soap  ```dataview LIST grocery WHERE file = this.file ``` `
+` grocery:: flour [...] grocery:: soap  - [[Data Types|Data Types]]: flour [...] grocery:: soap  ``\-`` `
  `
 
 will give you a **list** out of `flour` and `soap` back.
@@ -156,5 +159,5 @@ In queries, you can then access these child values via `obj.key1` etc:
 
 ` | File                                    | obj.key1 | obj.key2 | obj.key3 |
 | --------------------------------------- | -------- | -------- | -------- |
-| [[Data Types\|Data Types]] | \-       | \-       | \-       |
+| [[08/Syntax/Data Types.md\|Data Types]] | \-       | \-       | \-       |
  `

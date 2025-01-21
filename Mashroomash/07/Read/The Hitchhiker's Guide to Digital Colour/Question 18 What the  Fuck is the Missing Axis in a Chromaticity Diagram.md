@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2020/01/happy-little-locus-xyy.j
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:19:12
 duration: 8
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #18: What the  F*ck is the Missing Axis in a Chromaticity Diagram?
 
-Description:: We’ve touched on the importance of the CIE’s chromaticity model, and its relationship to visible light spectra as ***the*** single most important framework for pixel pushers to get a firm grasp on to understand all of colour. Some folks may also likely have come to realize that the two dimensional representation is missing some important information.
+We’ve touched on the importance of the CIE’s chromaticity model, and its relationship to visible light spectra as ***the*** single most important framework for pixel pushers to get a firm grasp on to understand all of colour. Some folks may also likely have come to realize that the two dimensional representation is missing some important information.
 
 That’s because that as wonderful as the CIE chromaticity two dimensional diagram is, it’s missing one crucial axis that should be made more apparent.
 

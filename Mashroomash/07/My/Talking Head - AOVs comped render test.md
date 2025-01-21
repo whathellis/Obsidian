@@ -7,7 +7,7 @@ published: 2024-09-20T16:22:02
 duration: 37
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "37s"]
+[time:: "37s"]
 # Talking Head - AOVs comped render test
 `````col
 ````col-md

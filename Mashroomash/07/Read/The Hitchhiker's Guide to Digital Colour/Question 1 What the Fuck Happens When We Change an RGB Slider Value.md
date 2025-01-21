@@ -5,7 +5,6 @@ site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-31
 duration: 5
 done: true
-word-goal: 2500
 ---
 # Question #1: What the F\*ck Happens When We Change an RGB Slider Value?
 

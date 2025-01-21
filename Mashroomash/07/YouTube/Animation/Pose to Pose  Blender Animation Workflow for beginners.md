@@ -5,9 +5,10 @@ channel: "[[Alex on Story]]"
 date: 2024-07-22T13:43:01
 published: 2023-07-16T21:13:30
 duration: 4785
-tags: 
+tags:
+  - video/animation/3D
 done: false
-cover: 
+cover: "[[Pasted image 20240722134324.jpg]]"
 ---
 [[Read it Later|Read it Later]] [time:: "1h 19m 45s"]
 # Pose to Pose : Blender Animation Workflow for beginners
@@ -20,11 +21,9 @@ flexGrow=1
 ````col-md
 flexGrow=1
 ===
-https://www.youtube.com/watch?v=p8Bi7k60IS0
 <iframe width="400" height="210" src="https://www.youtube-nocookie.com/embed/p8Bi7k60IS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ````
 `````
-Description:: The first 1,000 people to use the link will get a 1 month free trial of Skillshare: https://skl.sh/alexonstory07231
 
 Pose to Pose workflow is 1 of 3 main workflows in computer animation. Join me as I demonstrate the power of Pose to Pose Animation. This video aims to give you a solid understanding of the value of a good workflow. I use Blender for the tutorial, however Maya and any other animation software will have the same Pose to pose workflow.
 

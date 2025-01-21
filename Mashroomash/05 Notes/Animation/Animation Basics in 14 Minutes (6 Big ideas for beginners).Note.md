@@ -1,18 +1,14 @@
 ---
 date: 2024-07-19
 cssclasses:
-  - page-grid
   - daily
   - Thursday
   - page-light-yellow
 topics:
   - "[[Animation Principles|Animation Principles]]"
-q-type: article
-q-data:
-  leech-count: 1
-  due-at: 2024-07-24T18:00:00.000Z
+dg-publish: true
 ---
-[[../../07/YouTube/Animation/Animation Basics in 14 Minutes (6 Big ideas for beginners)|Animation Basics in 14 Minutes (6 Big ideas for beginners)]]
+[[Animation Basics in 14 Minutes (6 Big ideas for beginners)|Animation Basics in 14 Minutes (6 Big ideas for beginners)]]
 ### Ideas behind the animation
 
 >  The most important question you can ask yourself while you're animating is
@@ -23,28 +19,7 @@ q-data:
 >  If we make things closer together they move more slowly and if we make them further apart they move more quickly
 
 If I want to animate this  coin moving from one side of the piece of paper to the other i take a picture of it move it a little and then take another picture and then keep going until i get to the other side.
-`````col
-````col-md
-flexGrow=1
-===
-![[Videoframe_20240720_045236_com.huawei.himovie.overseas.jpg]]
-````
-````col-md
-flexGrow=1
-===
-![[Videoframe_20240720_045330_com.huawei.himovie.overseas.jpg]]
-````
-````col-md
-flexGrow=1
-===
-![[Videoframe_20240720_050631_com.huawei.himovie.overseas.jpg]]
-````
-````col-md
-flexGrow=1
-===
-![[Videoframe_20240720_050748_com.huawei.himovie.overseas.jpg]]
-````
-`````
+
 1. So if i ask myself [[Animation Basics in 14 Minutes (6 Big ideas for beginners).Note#^f81db2|How does this motion feel?]] i'd probably describe it as jumpy or jittery
 2. You can see that the coin moves a little bit more consistently across the screen, there's no more jumpiness at the moment. The coin moves across the screen in one second or 24 pictures.
 	- This motion feel I'd say smooth or consistent but maybe a little unnatural. The coin starts moving suddenly and then stops moving suddenly.
@@ -61,7 +36,7 @@ flexGrow=1
 ````col-md
 flexGrow=1
 ===
-![[Videoframe_20240720_051500_com.huawei.himovie.overseas.jpg]]
+
 ````
 `````
 > To make things slow down or speed up, we gradually get closer and closer together or further and further apart from each other.
@@ -127,11 +102,6 @@ flexGrow=1
 ===
 ![[Videoframe_20240720_065645_com.huawei.himovie.overseas.jpg]]
 ````
-````col-md
-flexGrow=1
-===
-![[Videoframe_20240720_065932_com.huawei.himovie.overseas.jpg]]
-````
 `````
 It helps add:
 - *weight*
@@ -149,7 +119,7 @@ flexGrow=1
 ````col-md
 flexGrow=1
 ===
-![[Videoframe_20240720_070346_com.huawei.himovie.overseas.jpg]]
+
 ````
 `````
 ### How to use them together

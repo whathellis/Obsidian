@@ -6,9 +6,7 @@ channel: "[[CrossMind Studio]]"
 cover: "[[Pasted image 20240712204645.jpg]]"
 tags:
   - playlist
-q-type: book
-q-data:
-  due-at: 2024-07-26T18:00:00.000Z
+  - video/3D/tutorial/blender
 ---
 `````col
 ````col-md

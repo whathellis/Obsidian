@@ -4,15 +4,12 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2019/03/28569-1v-ocykmreavtnivc6
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-31
 duration: 5
-topics: 
 done: true
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
 # Question #3: Does the F*cking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light?
 
-Description:: With the first couple of questions out of the way, we have a concrete, albeit simplified, understanding as to what happens in most DCC painting applications when [we change an RGB slider value](https://hg2dc.com/question-1/); we are changing the intensity of some colour of light along some undisclosed measurement system. It’s useful to think about the possible implications for an imager working in a DCC now that they have a firm idea that they are rendering light emissions on a display.
+With the first couple of questions out of the way, we have a concrete, albeit simplified, understanding as to what happens in most DCC painting applications when [we change an RGB slider value](https://hg2dc.com/question-1/); we are changing the intensity of some colour of light along some undisclosed measurement system. It’s useful to think about the possible implications for an imager working in a DCC now that they have a firm idea that they are rendering light emissions on a display.
 
 Trying to stick to the most simplistic core concepts, we will occasionally need to use some useful terms to keep ourselves on the same proverbial page¹. As mentioned before, an additive RGB light colour encoding model consists of three RGB *primaries*, and we will try to use that term going forward. As we discovered in the previous question, we change the ratios of intensities of the light emission when we change the values in a typical DCC application. But what about the actual colour, or in fancy pants colour science-y terms, *chromaticity*, that results from the changing our values? Specifically, we need to answer one important question…
 

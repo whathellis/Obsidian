@@ -3,6 +3,7 @@ cssclasses:
   - daily
   - page-purple
   - Wednesday
+dg-publish: true
 ---
 # 3D Animator Specialization
 

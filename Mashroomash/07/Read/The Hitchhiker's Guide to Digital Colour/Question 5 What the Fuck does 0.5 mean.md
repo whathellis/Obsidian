@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2019/05/bc5c1-1wslfbvitbaj0owqtl
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-04
 duration: 4
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #5: What the F*ck does 0.5 mean?
 
-Description:: Continuing along the analogy of mixing paints, the colours of the paints matter. If we ask two people to pick out three paints each, at random, and ask them to mix certain amounts according to a recipe, there is a zero percent chance the same colour would result between the two people using the identical recipe measurements. However, even if we ask them to pick out precisely identical coloured paints, we would still need them to have agreed upon a measurement system!
+Continuing along the analogy of mixing paints, the colours of the paints matter. If we ask two people to pick out three paints each, at random, and ask them to mix certain amounts according to a recipe, there is a zero percent chance the same colour would result between the two people using the identical recipe measurements. However, even if we ask them to pick out precisely identical coloured paints, we would still need them to have agreed upon a measurement system!
 
 I’ll get the question out early on this one. It’s a helluva important one…
 

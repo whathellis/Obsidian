@@ -7,7 +7,7 @@ published: 2024-10-20T02:00:17
 duration: 778
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "12m 58s"]
+[time:: "12m 58s"]
 # ZBrush 003 - sculpt
 `````col
 ````col-md

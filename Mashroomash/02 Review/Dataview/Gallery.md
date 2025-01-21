@@ -14,22 +14,19 @@ orientation: landscape
 # to be an array), then page-gallery will just use all the root
 # level options as a single unnamed view.
 views:
-  - name: Obsidin
-    from: '"08/Plugins"'
-    columns: 5
-  - name: Playlist
-    from: '"07/YouTube/3D/Playlist"'
-    columns: 4
   - name: Read
-    from: '"07/Read"'
+    from: '"07/Read/Stuff"'
     columns: 4
-  - name: Tutorial
-    from: '"07/YouTube/Watched/Tutorial"'
+  - name: Playlist
+    from: '"07/YouTube/Playlist"'
     columns: 4
   - name: Animation
     from: '"07/YouTube/Animation"'
     columns: 4
-  - name: Art
-    from: '"07/YouTube/Art"'
+  - name: Study
+    from: '"07/YouTube/Study"'
+    columns: 4
+  - name: Watched
+    from: '"07/YouTube/Watched"'
     columns: 4
 ```

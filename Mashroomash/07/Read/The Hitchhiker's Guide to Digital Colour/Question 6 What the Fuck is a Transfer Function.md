@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2019/05/e3524-1k29kohmsu2v8myc6a
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-04
 duration: 8
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #6: What the F*ck is a Transfer Function?
 
-Description:: Whoa. There’s a term that you probably haven’t bumped into before, eh? You’ve been pushing pixels for how long, and some bozo tosses a made-up term at you? You might even start to believe that this rubbish series of posts that promised to inform has cheated you, and instead just keeps looping back to the crap you don’t know.
+Whoa. There’s a term that you probably haven’t bumped into before, eh? You’ve been pushing pixels for how long, and some bozo tosses a made-up term at you? You might even start to believe that this rubbish series of posts that promised to inform has cheated you, and instead just keeps looping back to the crap you don’t know.
 
 First up, take heed reader… we are at least identifying the things that we don’t know. As it turns out, much of the problems with understanding digital colour comes from understanding that our knowledge stands *relative* to something. That is, when we first removed the rusty old boat that was covering the stinky well, and asked “[What the f\*ck happens when we change an RGB slider value?](https://hg2dc.com/question-1/)”, we discovered that we were detached from what the value *referred* to. What did it *control*? So sit down, buckle up, and prepare to hear *referred* quite a bit more in the coming inquiries…
 

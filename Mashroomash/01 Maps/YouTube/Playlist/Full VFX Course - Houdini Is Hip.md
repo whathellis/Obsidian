@@ -5,8 +5,8 @@ date: ""
 channel: 
 tags:
   - playlist
-  - video/3D/Houdini
-q-type: book
+  - video/3D/tutorial/Houdini
+cover: "[[maxresdefault (1) 3.jpg]]"
 ---
 `````col
 ````col-md

@@ -5,7 +5,8 @@ date: ""
 channel: "[[djtutorials]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/tutorial/blender
+cover: "[[maxresdefault (14) 2.jpg]]"
 ---
 `````col
 ````col-md

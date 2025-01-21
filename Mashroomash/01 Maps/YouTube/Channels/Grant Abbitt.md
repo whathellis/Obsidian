@@ -1,8 +1,8 @@
 ---
-tags:
-  - channel
-q-type: book
+tags: channel
+cover: ""
 ---
+!
 ### Playlists:
 - [x] [[../Playlist/Get Good at Blender|Get Good at Blender]]
 - [ ] [[../Playlist/Get Good at Blender 2.8|Get Good at Blender 2.8]]

@@ -6,7 +6,7 @@ Visualize your data in a heatmap calendar similar to the github activity calenda
 
 Useful for tracking progress for exercise, finances, social time, project progression, passions, vices etc.
 
-To be used with [[Obsidian Dataview|Obsidian Dataview]], but could be used standalone or with other plugins aswell (if you know some javascript).
+To be used with [[./Obsidian Dataview|Obsidian Dataview]], but could be used standalone or with other plugins aswell (if you know some javascript).
 
 Shows a black logo in light color mode and a white one in dark color mode.
 
@@ -95,7 +95,7 @@ Other Notes:
 See the EXAMPLE VAULT if you want to test out the examples.
 Week start day is configurable
 Date format is YYYY-MM-DD, if your daily note filename is something else, you can use JS to change it in the loop
-Use Obsidian CSS snippets for custom styling. See snippet examples.
+Use Obsidian [[CSS Snippets|CSS Snippets]] for custom styling. See snippet examples.
  
 
 Development (Windows):
@@ -125,15 +125,7 @@ See the beginning of the readme for the full code example.
 absolute minimum code example:
 
 ```
-\`dataviewjs
-
-const calendarData = {
-    entries: [],                
-}
-
-renderHeatmapCalendar(this.container, calendarData)
-
-```
+\\-``
 
  
 

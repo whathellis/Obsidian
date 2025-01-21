@@ -3,8 +3,9 @@ URL: https://www.youtube.com/playlist?list=PLjbOKiUgj0rKgcwoAOE3PIve9E8XeklKX
 done: false
 date: ""
 channel: "[[Tim Mcburnie - The Drawing Codex]]"
-tags: playlist
-q-type: book
+tags:
+  - playlist
+  - video/art
 ---
 #### [Creating Backgrounds](https://www.youtube.com/playlist?list=PLjbOKiUgj0rKgcwoAOE3PIve9E8XeklKX)
 [Tim Mcburnie - The Drawing Codex](https://www.youtube.com/@TheDrawingCodex)

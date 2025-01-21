@@ -7,7 +7,7 @@ published: 2024-08-20T23:00:07
 duration: 74
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "1m 14s"]
+[time:: "1m 14s"]
 # My Pathetic Attempt to Make a Talking Head Style Video - Blender 3D Animation
 `````col
 ````col-md

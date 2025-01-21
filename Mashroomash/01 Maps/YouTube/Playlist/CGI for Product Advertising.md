@@ -4,8 +4,9 @@ done: false
 date: ""
 channel: "[[CrossMind Studio]]"
 cover: "[[Pasted image 20240712204645.jpg]]"
-tags: playlist
-q-type: book
+tags:
+  - playlist
+  - video/animation/3D
 ---
 `````col
 ````col-md
@@ -20,14 +21,6 @@ flexGrow=1
 Hello Friends This is My first lecture in a series on 3d Production using software: Blender. In this lecture, I will take you through the process of using CGI for product advertisement using Blender 3D. Starting with the project planning and then moving on to 3D production, this series gives you a guided tour of the inner workings of software: Blender, covering the basics of the interface and how to achieve the results for production using simple methods. I will discuss the basics of Modeling, Lighting Setup, Animation and Fluid Simulation. Thank you for all the support and love, and waiting patiently. Welcome to the new tutorial series -CGI for Product Advertising Using Blender 3D. I hope you guys enjoy it, feel free to comment, and discuss among the community.Let me know if you have any questions, and Do share your version of this scene :)
 ````
 `````
-```page-gallery
-views:
-  - name: Obsidin
-    from: '"07/YouTube" AND [[Using CGI for Product Advertising]]'
-    columns: 4
-    orientation: landscape
-    sortBy: ['-published']
-```
 
 ```NiftyLinks
 url: https://youtu.be/cF970KKHsE0?si=axWIdISzVPV1m_8Z

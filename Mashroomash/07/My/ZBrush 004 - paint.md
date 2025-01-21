@@ -7,7 +7,7 @@ published: 2024-10-21T01:00:18
 duration: 340
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "5m 40s"]
+[time:: "5m 40s"]
 # ZBrush 004 - paint
 `````col
 ````col-md

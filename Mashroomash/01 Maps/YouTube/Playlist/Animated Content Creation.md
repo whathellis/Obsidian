@@ -3,8 +3,10 @@ URL: https://www.youtube.com/playlist?list=PLgO2ChD7acqGG21gwtZaNryQ9-fGVd7Ls
 done: false
 date: ""
 channel: "[[CrossMind Studio]]"
-tags: playlist
-q-type: book
+tags:
+  - playlist
+  - video/animation/3D
+cover: "[[hq720(9).jpg]]"
 ---
 `````col
 ````col-md

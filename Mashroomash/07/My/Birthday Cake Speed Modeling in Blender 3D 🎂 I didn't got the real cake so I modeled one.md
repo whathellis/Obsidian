@@ -8,7 +8,6 @@ duration: 1800
 tags: YouTube
 ---
 [time:: "30m"]
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Dq_sOpM1vos" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (Description:: I didn’t got the real cake on my birthday so I modeled one to make some kind of a present.)

@@ -5,7 +5,7 @@ date: 2024-09-14
 channel: "[[Grant Abbitt]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/tutorial/blender
 playlist: "[[Get Good at Blender]]"
 cover: "[[maxresdefault (8) 2.jpg]]"
 ---
@@ -16,7 +16,7 @@ flexGrow=1
 # [[Get Good at Blender]]
 - [8] Second part
 
-[[W37#24.09.14]]
+[[2024-W37#24.09.14]]
 ````
 ````col-md
 flexGrow=1

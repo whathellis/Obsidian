@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2020/01/srgb-display-p3-1976.png
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:18:21
 duration: 7
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #16: What the F*ck is the Triangle Thingy in the Chromaticity Diagram?
 
-Description:: Recall back to [Question #13 where we explored how chromaticities are discussed](https://hg2dc.com/question-13/). You may have wondered where that triangle went, and [why I removed it in the subsequent diagrams in Question #15](https://hg2dc.com/question-15/).
+Recall back to [Question #13 where we explored how chromaticities are discussed](https://hg2dc.com/question-13/). You may have wondered where that triangle went, and [why I removed it in the subsequent diagrams in Question #15](https://hg2dc.com/question-15/).
 
 Why did we have to learn about chromaticities instead of RGB values? Because, as you have hopefully learned from the preceding batch of questions, RGB is a *relative encoding model*, which means making comparisons becomes extremely confusing! How can we evaluate the Display P3 “green” value on your iPad Pro at 100% emission strength to the “green” value on one of your sRGB device, when the two values expressed in RGB are identical? We can’t!
 

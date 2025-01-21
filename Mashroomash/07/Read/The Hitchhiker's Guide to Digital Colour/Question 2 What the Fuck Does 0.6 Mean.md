@@ -5,7 +5,6 @@ site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-31
 duration: 6
 done: true
-word-goal: 2500
 ---
 # Question #2: What the F\*ck Does 0.6 Mean?
 
