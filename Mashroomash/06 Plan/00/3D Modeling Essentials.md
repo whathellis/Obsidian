@@ -1,5 +1,5 @@
 ---
-{}
+dg-publish: true
 ---
 - [Blog](https://www.cgspectrum.com/blog)
 - [Contact Us](https://www.cgspectrum.com/contact)
