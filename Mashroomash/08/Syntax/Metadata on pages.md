@@ -1,3 +1,6 @@
+---
+share: true
+---
 You can add fields to a markdown page (a note) in three different ways - via Frontmatter, Inline fields and Implicit fields. Read more about the first two possibilities in ["how to add metadata"](https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/).
 
 ## Implicit Fields
