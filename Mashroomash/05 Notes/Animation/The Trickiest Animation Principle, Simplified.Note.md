@@ -1,19 +1,15 @@
 ---
 date: 2024-07-19
 cssclasses:
-  - page-grid
   - daily
   - Thursday
   - page-light-yellow
 topics:
   - "[[Animation Principles|Animation Principles]]"
   - "[[Key Frames|Key Frames]]"
-q-type: article
-q-data:
-  leech-count: 1
-  due-at: 2024-07-24T18:00:00.000Z
+dg-publish: true
 ---
-[[../../07/YouTube/Animation/The Trickiest Animation Principle, Simplified|The Trickiest Animation Principle, Simplified]]
+[[The Trickiest Animation Principle, Simplified|The Trickiest Animation Principle, Simplified]]
 ### How much space should I put between these frames?
 #### The answer will depend on two things:
 1. How fast you want your object to move?
