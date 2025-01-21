@@ -5,7 +5,9 @@ date: ""
 channel: "[[Nexttut]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/character
+  - video/3D/sculpt
+cover: "[[maxresdefault (8) 3.jpg]]"
 ---
 `````col
 ````col-md
