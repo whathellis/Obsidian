@@ -3,6 +3,7 @@ URL: https://www.therookies.co/contests/groups/rookie-awards-2024/rules
 thumbnail: 
 site: "[[The Rookies]]"
 cover: ""
+dg-publish: true
 ---
 # Rookie Awards 2024
 
