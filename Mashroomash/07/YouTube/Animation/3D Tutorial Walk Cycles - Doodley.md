@@ -5,9 +5,10 @@ channel: "[[Doodley]]"
 date: 2024-07-22T14:11:02
 published: 2023-05-29T06:50:20
 duration: 2711
-tags: 
+tags:
+  - video/animation/3D
 done: false
-cover: 
+cover: "[[Pasted image 20240722141113.jpg]]"
 ---
 [[Read it Later|Read it Later]] [time:: "45m 11s"]
 # 3D Tutorial: Walk Cycles - Doodley
@@ -20,15 +21,10 @@ flexGrow=1
 ````col-md
 flexGrow=1
 ===
-https://www.youtube.com/watch?v=wgzQ2OmE2Ow
 <iframe width="400" height="210" src="https://www.youtube-nocookie.com/embed/wgzQ2OmE2Ow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ````
 `````
-Description:: Patreon: https://www.patreon.com/doodley
-Subscribe!  https://bit.ly/3rugbJ5
-Store: https://shop.doodley.org/
-More Videos: http://doodley.org/
---------------------------------------------------------------------------------------------------------------------------
+
 Full Stream VOD: https://youtu.be/5LQPprp1lZ8
 
 Edited by JandroAlem
@@ -50,7 +46,7 @@ https://joedanimation.gumroad.com/l/xhRK
 
 Gimberly uses kamone416's toon shader, which you can find here:
 https://kamone416.gumroad.com/l/hnddn
---------------------------------------------------------------------------------------------------------------------------
+
 0:00 Intro
 0:54 Tutorial Starts
 2:17 Foot Roll
@@ -83,4 +79,3 @@ https://kamone416.gumroad.com/l/hnddn
 41:47 Overlapping Action (Ponytail)
 43:22 Testing the Cycle
 44:48 Outro
-# Transcript
