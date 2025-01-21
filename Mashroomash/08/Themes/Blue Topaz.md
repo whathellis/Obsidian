@@ -1,3 +1,6 @@
+---
+share: true
+---
 # > Due to obsidian's policy of not being able to use online or local vault images.The option for related built-in online images has been removed, but custom settings are retained. Please set the URL for displaying background images by yourself.
 
 > 注意！由于 obsidian 的政策，不能使用在线或本地库里的图片，相关内置在线图片的选项已经删除，但保留自定义设置，需要显示背景图片请自行设置url。
