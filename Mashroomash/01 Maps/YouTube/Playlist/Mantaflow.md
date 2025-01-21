@@ -5,7 +5,8 @@ date:
 channel: "[[CrossMind Studio]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/tutorial/blender
+cover: "[[maxresdefault (6) 2.jpg]]"
 ---
 `````col
 ````col-md
