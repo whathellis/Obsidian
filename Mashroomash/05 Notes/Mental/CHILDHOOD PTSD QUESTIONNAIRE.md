@@ -5,12 +5,9 @@ cssclasses:
   - page-purple
 topics:
   - "[[PTSD|PTSD]]"
-q-type: todo-done
-q-data:
-  leech-count: 0
-  due-at: 2024-07-24T18:00:00.000Z
+dg-publish: true
 ---
-[[../../01 Maps/YouTube/Channels/Patrick Teahan|Patrick Teahan]]
+[[Patrick Teahan|Patrick Teahan]]
 # CHILDHOOD PTSD QUESTIONNAIRE FULL ASSESSMENT 
 #### ANSWER (YES, NO, OR MAYBE) 
 ## Apply the question to the course of your lifetime. The issue might be resolved but still say yes – it helps with your story. 
@@ -80,4 +77,4 @@ q-data:
 *Use this questionnaire as a tool to bring to treatment or to establish the need for treatment with a licensed behavioral health provider.*
 ^cf8fbc
 
-![[../../00 Daily/08/24.08.05#^39c68f|24.08.05 > ^39c68f]]
+![[../../00 Daily/08/2024-08-05#^39c68f|2024-08-05 > ^39c68f]]
