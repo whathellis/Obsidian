@@ -7,12 +7,9 @@ cssclasses:
   - page-light-yellow
 topics:
   - "[[Key Frames|Key Frames]]"
-q-type: article
-q-data:
-  leech-count: 1
-  due-at: 2024-07-24T18:00:00.000Z
+dg-publish: true
 ---
-[[../../07/YouTube/Animation/How to Keyframe Like a Pro! (Animation process for any software)|How to Keyframe Like a Pro! (Animation process for any software)]]
+[[How to Keyframe Like a Pro! (Animation process for any software)|How to Keyframe Like a Pro! (Animation process for any software)]]
 #### Key framing - Pose to pose
 `````col
 ````col-md
