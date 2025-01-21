@@ -1,3 +1,6 @@
+---
+share: true
+---
 ![](https://raw.githubusercontent.com/Bluemoondragon07/obsidian-light-and-bright-theme/HEAD/assets/main-image.png)
 
 A clean, weightless theme created to evoke an elegant, modern, cozy feel. This theme was heavily inspired by hydescarf's Mado Miniflow Theme and the Ultra Lobster Theme by kneecaps. This is also my first theme.
