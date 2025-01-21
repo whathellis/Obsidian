@@ -6,7 +6,7 @@ date: 2024-08-12
 published: 2021-02-27T17:00:06
 duration: 327
 tags:
-  - video/3D/texture/UV
+  - video/3D/4D
 done: true
 cover: "[[maxresdefault (8) 1.jpg]]"
 ---
