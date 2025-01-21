@@ -5,7 +5,8 @@ channel: "[[Louis du Mont]]"
 date: 2024-07-26T13:09:29
 published: 2020-05-20T23:30:15
 duration: 498
-tags: 
+tags:
+  - video/animation/rig
 done: false
 cover: "[[maxresdefault (17).jpg]]"
 ---
@@ -20,7 +21,6 @@ flexGrow=1
 ````col-md
 flexGrow=1
 ===
-https://www.youtube.com/watch?v=wttImbDwjJw
 <iframe width="400" height="210" src="https://www.youtube-nocookie.com/embed/wttImbDwjJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ````
 `````
