@@ -3,9 +3,6 @@ aliases:
   - "#YouTube"
 cssclasses:
   - wide
-q-priority: 0
-q-data:
-  due-at: 2024-07-26T18:00:00.000Z
 ---
 
 - [[../../07/My/ZBrush 004 - paint|ZBrush 004 - paint]]:  🕓5m 40s 📍24.10.21 01:10
