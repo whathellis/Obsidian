@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2020/05/50red-over-60green-30uni
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:21:56
 duration: 10
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #24: How the F*ck Do We Move a Red Pixel Down and Block Another Pixel’s Emission?
 
-Description:: ***Question #24: How can we move the red pixel from [Question #23](https://hg2dc.com/question-23) down and block the green pixel?***
+***Question #24: How can we move the red pixel from [Question #23](https://hg2dc.com/question-23) down and block the green pixel?***
 
 To answer the question, we need to build atop of the more recent subjects we have covered, and in particular, think about how light and geometry interact. Remember, as [Mr. Blinn](https://en.wikipedia.org/wiki/Jim_Blinn), [Mr. Smith](https://en.wikipedia.org/wiki/Alvy_Ray_Smith), [Mr. Catmull](https://en.wikipedia.org/wiki/Edwin_Catmull), [Mr. Porter](https://en.wikipedia.org/wiki/Tom_Porter_(computer_scientist)), and [Mr. Duff](https://en.wikipedia.org/wiki/Tom_Duff) have set forth, everything amounts to an abstracted model, frequently riddled with confusing Greek math-nerd glyphs for symbols.
 
