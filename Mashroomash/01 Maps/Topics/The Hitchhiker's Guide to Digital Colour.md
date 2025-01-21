@@ -4,7 +4,6 @@ done: false
 date: ""
 tags:
   - playlist
-q-type: book
 cover: ""
 ---
 !
@@ -22,7 +21,7 @@ flexGrow=1
 ````
 `````
 
-- [[../../07/YouTube/Color Management for CGI Artists|Color Management for CGI Artists]]:  🕓1217m 📍\- 📌24.08.06 15:08
+- [[../../07/YouTube/Study/Color Management for CGI Artists|Color Management for CGI Artists]]:  🕓1217m 📍\- 📌24.08.06 15:08
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 11 How the Fuck Can We Talk About “Colour”|Question 11 How the Fuck Can We Talk About “Colour”]]:  🕓6m 📍\- 📌24.08.22 18:08
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 12 How the Fuck Can We Talk About Light “Intensity”|Question 12 How the Fuck Can We Talk About Light “Intensity”]]:  🕓8m 📍\- 📌24.08.22 18:08
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 13 What the Fuck is a Chromaticity|Question 13 What the Fuck is a Chromaticity]]:  🕓10m 📍\- 📌24.08.22 18:08
@@ -45,7 +44,7 @@ flexGrow=1
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 30 What is the Fucking “Colour” of Light|Question 30 What is the Fucking “Colour” of Light]]:  🕓7m 📍\- 📌24.08.22 18:08
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 31 What the Fuck is Colour|Question 31 What the Fuck is Colour]]:  🕓14m 📍\- 📌24.08.22 18:08
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 32  Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light|Question 32  Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light]]:  🕓11m 📍\- 📌24.08.22 18:08
-- [[../../07/Read/3D/The Hitchhiker's Guide|The Hitchhiker's Guide]]:  🕓9m 📍[[./Color Management|Color Management]] 📌24.08.22 18:08
+- [[../../07/Read/Stuff/The Hitchhiker's Guide|The Hitchhiker's Guide]]:  🕓9m 📍[[./Color Management|Color Management]] 📌24.08.22 18:08
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 33 What the Fuck are the Colours of the Three Lights|Question 33 What the Fuck are the Colours of the Three Lights]]:  🕓9m 📍\- 📌24.08.22 18:08
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 1 What the Fuck Happens When We Change an RGB Slider Value|Question 1 What the Fuck Happens When We Change an RGB Slider Value]]:  🕓5m 📍\- 📌24.08.31
 - [[../../07/Read/The Hitchhiker's Guide to Digital Colour/Question 2 What the Fuck Does 0.6 Mean|Question 2 What the Fuck Does 0.6 Mean]]:  🕓6m 📍\- 📌24.08.31
