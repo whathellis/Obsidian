@@ -4,12 +4,13 @@ thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQv7O9QuKR
 site: "[[]]"
 date: 2024-08-15T17:37:27
 duration: 9
-topics: 
+topics:
+  - "[[Animation exercises|Animation exercises]]"
 done: false
-q-type: article
 cover: 
+dg-publish: true
 ---
-[[Read it Later|Read it Later]] [[../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # What should I animate? - pt.1 demo reel
 
 Description:: [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQv7O9QuKRmgzLIWuz1m6Lh64wfF3X5X1nRFeeGC7hBWRNo0eyOZNe0ySyE52e2qsAH0PHJ0F6FaG_hpq5bSoJY51-jc9vAieGpBuJ90rUCjWLTJNkreYnTV6lNf860uf5MkBaPXPNINAg/s400/ojsimpson.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQv7O9QuKRmgzLIWuz1m6Lh64wfF3X5X1nRFeeGC7hBWRNo0eyOZNe0ySyE52e2qsAH0PHJ0F6FaG_hpq5bSoJY51-jc9vAieGpBuJ90rUCjWLTJNkreYnTV6lNf860uf5MkBaPXPNINAg/s1600-h/ojsimpson.jpg)
@@ -34,7 +35,7 @@ Ok, you can counter this by saying: real life has deadlines, if you can't keep u
 
 True. But the reality is, you are a STUDENT, and with that comes the freedom of being able to make mistakes, to take your time and to focus on learning. That cut-throat mentality is a bit premature. Sure, keep an eye out and observe your fellow students and use their "superior" work as motivation, but don't get too worked up over it. And just because your semester is over, or you graduate, doesn't mean that your time is up and you have to stop working on your clips. Life is not over once you graduate. It keeps on going and so should you, keep animating.
 
-But again, try to pick something that's going to be fun to animate, because you will be spending a lot of [[../../07/Read/Time and effort|time on and putting a lot of effort]] into your clip.
+But again, try to pick something that's going to be fun to animate, because you will be spending a lot of [[Time and effort|time on and putting a lot of effort]] into your clip.
 
 I know, that still doesn't really tell you WHAT to animate though. This is obviously just my opinion and feel free to disagree, but consider the following guidelines:
 
@@ -86,7 +87,7 @@ Then think about composition, staging, camera. I'd have a widescreen aspect rati
 
 \- keep your shot short. Why? It's very time consuming to polish a long shot. Stay away from 15 to 20 second long shots. If, for whatever reason, your shot is that long, think about cutting it up into separate shots, make a sequence out of it. Look at [Matt's Force Unleashed demo](http://www.mattornstein.com/demo_reel.html). When Palpatine grabs and throws the apprentice away, you could show all of this in one shot. But it's more exciting the way it's cut on Matt's reel (and you don't want to bore a recruiter looking at your reel). It also forces you to think about shot flow, animating across a cut, timing and contrast within a sequence, etc. things you need to be aware of when working professionally.
 
-\- pick the right audio clip. Refer to [[../../07/Read/Audio Clip|this post]] for all the guidelines. In short, pick clips that people won't recognize. You don't want people to think about the movie and actors while watching your clip. Your clip has to stand on its own, without any distracting associations.
+\- pick the right audio clip. Refer to [[Audio Clip|this post]] for all the guidelines. In short, pick clips that people won't recognize. You don't want people to think about the movie and actors while watching your clip. Your clip has to stand on its own, without any distracting associations.
 
 Speaking of audio clips. I think a common misconception nowadays is the idea of a dialogue shot being the ultimate goal for a student. But I think that a good pantomime shot goes a long way. You're not bound to the audio, it's all about expressing feelings and thoughts through the body and the face without the help of sound.
 
