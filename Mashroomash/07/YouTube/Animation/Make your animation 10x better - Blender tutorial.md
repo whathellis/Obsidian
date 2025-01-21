@@ -5,7 +5,9 @@ channel: "[[Joey Carlino]]"
 date: 2024-07-22T13:45:12
 published: 2024-07-21T02:36:34
 duration: 1157
-tags: 
+tags:
+  - video/animation/3D
+  - video/3D/tutorial/blender
 done: false
 cover: 
 ---
