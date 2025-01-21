@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2024/02/one-disc.png
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:31:32
 duration: 11
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #32:  Does the F*cking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light?
 
-Description:: As we look back to the past two questions, it is hopefully more evident that no simple path as forwarded by “stimulus-as-colour” can aid in charting us successfully through the perils of the colour iceberg laden waters. The worst part is that the USS Colourimetry vessel is chocker full of flesh eating obsessed Colourimetric Stimulus Zombies on a hunt for brains to eat. In order to survive these perilous waters, we are going to need to finally jump off the ship, and swim to the USS Computational Neuroscience.
+As we look back to the past two questions, it is hopefully more evident that no simple path as forwarded by “stimulus-as-colour” can aid in charting us successfully through the perils of the colour iceberg laden waters. The worst part is that the USS Colourimetry vessel is chocker full of flesh eating obsessed Colourimetric Stimulus Zombies on a hunt for brains to eat. In order to survive these perilous waters, we are going to need to finally jump off the ship, and swim to the USS Computational Neuroscience.
 
 This post marks that moment where we plunge into the waters. It is with hope that the cold waters don’t claim the reader, but after all, anything is better than having one’s brain eaten alive in the Colourimetry Zombie Apocalypse horde.
 
