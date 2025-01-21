@@ -6,7 +6,7 @@ date: 2024-07-16T15:14:12
 published: 2020-08-28T03:02:20
 duration: 985
 tags:
-  - video/animation/theory
+  - video/soft/AE
 done: false
 cover: "[[Pasted image 20240716151436.jpg]]"
 ---
