@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2022/01/question-27-abney-effect
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:22:53
 duration: 10
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #27: What the F*ck is Perceptual Colour?
 
-Description:: Remember how I promised years ago that this series would supply the typical digital image maker with fundamental concepts to get a grasp on the complex world of digital colour? This post is the second half of bolting down two important distinctions that cascade into many other insights.
+Remember how I promised years ago that this series would supply the typical digital image maker with fundamental concepts to get a grasp on the complex world of digital colour? This post is the second half of bolting down two important distinctions that cascade into many other insights.
 
 [Question #26 probably feels like a massive departure](https://hg2dc.com/question-26) from the four questions prior that [culminated in Question #25’s discussion of what is alpha](https://hg2dc.com/question-25). In many ways, each question attempts to add a piece of understanding that can be re-assembled into useful weaponry, and this post is precisely such a piece. In fact, it’s the [other half to Question #26’s question about stimulus encoding values](https://hg2dc.com/question-26)1.
 
