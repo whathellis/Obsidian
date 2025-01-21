@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2020/08/straight-alpha-meme.jpg
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:22:05
 duration: 11
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #25: What the F*ck is Alpha?
 
-Description:: ***Question #25: What is alpha?***
+***Question #25: What is alpha?***
 
 ***Answer #25: Yet another dumb f\*cking Greek glyph label that a math nerd arbitrarily decided to use.***
 
