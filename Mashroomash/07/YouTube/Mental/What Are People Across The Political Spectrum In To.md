@@ -1,0 +1,195 @@
+---
+URL: https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-
+thumbnail: https://i.ytimg.com/vi/lL2ii_V5YkY/default.jpg
+channel: "[[Political Psych with Abby]]"
+date: 2024-07-23T20:06:17
+published: 2022-02-11T06:36:31
+duration: 1548
+tags: 
+done: false
+cover: 
+---
+[[Read it Later|Read it Later]] [time:: "25m 48s"]
+# What Are People Across The Political Spectrum In To?
+`````col
+````col-md
+flexGrow=1
+===
+![[Pasted image 20240723200634.jpg]]
+````
+````col-md
+flexGrow=1
+===
+https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-
+<iframe width="400" height="210" src="https://www.youtube-nocookie.com/embed/lL2ii_V5YkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+````
+`````
+Description:: Valentines Day Special ❤️
+
+Do people with different politics have different proclivities?
+
+Patreon: https://www.patreon.com/politicalpsych 
+
+Instagram: @politicalpsychwithabby
+
+Reddit: u/Political-psych-abby
+
+FYI: neither this channel nor my Instagram or reddit are debate accounts. I won't debate you in the comments, questions and comments are very welcome ❤️.
+
+Channels of creators who helped on this video:
+Mainly Mandy: https://www.youtube.com/c/MainelyMandy
+Luna: https://www.youtube.com/c/ThePeoplesBayonet 
+
+Sources: https://docs.google.com/document/d/1Y6mDxMpiS-wJwUWAlek8b9UQAaOD5weRwNErcC1VppY/edit?usp=sharing
+
+# Transcript
+[00:00](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=0) hello and welcome or maybe welcome back to political psych with abby i have a fun one for you today we're going to be talking about sexual preferences across the political spectrum 
+[00:09](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=9) i'm going to keep this at around pg-13 but like if you're one of my parents don't watch i don't want to find out if you can die from blushing so a while ago i was scrolling reddit and in the brand 
+[00:20](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=20) new sentence subreddit i saw this tweet what is it with the constant leftist obsession with sexual intercourse what sexual activity do leftists even in gagan 
+[00:31](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=31) communist manifesto masturbation sessions historical materialism hentai aoc body pillow and immediately my little science nerd brain goes wait i know something educational about this so 
+[00:44](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=44) i go and find this article i remembered about the sexual preferences of liberals and conservatives the article is called republicans and democrats don't just disagree about politics they have 
+[00:53](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=53) different sexual fantasies anyway it is a really interesting article along with that link i made a post asking if people wanted to see a video about this i got a lot of upvotes 
+[01:04](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=64) so here we are and that's just some of the excellent content you can see from checking me out on social media hint hint i hope that some of those who upvoted are here now anyway so it turns 
+[01:13](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=73) out sexual fantasies and romantic and sexual preferences do actually differ across the political spectrum and that is what this video is going to be about it is going to be a bit less serious and 
+[01:23](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=83) important than some of my other videos but it should still be fun and still educational consider it my valentine to you dear viewers this video is going to be about what people with different 
+[01:34](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=94) politics are into sexually and the next video which will come out in a few weeks is going to be about dating across party lines if you want to make sure you catch that 
+[01:43](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=103) one too make sure to subscribe and hit the bell just a few caveats before we dive in basically all of this stuff is in the british or american context that is what i could find research on 
+[01:54](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=114) conveniently those are also the two places i have experienced living and dating in although your access to my personal experiences and desires will be limited 
+[02:03](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=123) by the fact that i'm from new england and puritan shame and repression runs deep even if you're not christian i'm not going to be talking so much about how people's sexual orientation and 
+[02:12](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=132) gender identity affects their voting although it often does you'd probably be unsurprised to know that lgbt people more frequently vote for parties that don't actively seek to suppress them and 
+[02:23](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=143) this carries over in both the us and uk women also tend to vote for more socially liberal parties in both the us and uk although this effect is bigger in the us 
+[02:34](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=154) i would suggest that part of the reason for this is that women's reproductive rights are a more contentious issue in the us anyway enough stating the obvious let's get to the fun bits let's start 
+[02:43](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=163) with the u.s because youtube tells me most of you are from there and i want to make the analytics bots like me there have not been many studies on the varying sexual fantasies of democrats 
+[02:53](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=173) and republicans fortunately i do have the work of justin lee miller to draw on he surveyed 4175 americans from all 50 states his work is documented in the book tell me 
+[03:05](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=185) what you want i got my copy from the local library but i did have to special request it to be sent to my branch because you can't expect every branch to have all the sex books he also wrote a 
+[03:15](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=195) politico article about this if you'd rather your internet provider know you're interested in this rather than your librarian anyway lee miller found that republicans were more likely to 
+[03:24](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=204) fantasize about sex outside of marriage infidelity orgies partner swapping key parties and swinging lee miller theorizes that this is because non-monogamy is extra taboo for 
+[03:34](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=214) republicans and that's hot for some people republicans also had more voyeuristic fantasies such as visiting strip clubs and cuckolding kudos to the reddit commenter who read the article i 
+[03:45](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=225) posted and said so that's why they often call people cucks they are projecting i'm not gonna say that's true but it is certainly plausible the cuckolding 
+[03:55](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=235) aspect does sort of feed back into the non-monogamy thing also republicans are also more likely to fantasize about large penises this might be due to an increased interest in sexual novelties 
+[04:05](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=245) and taboos however it might be that republicans see big dicks as a symbol of the power and toughness they value republicans are also more likely to have fantasies containing their younger 
+[04:16](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=256) selves lee miller thinks this might be a way of reducing guilt and anxiety as your past self is not really you in the same way i think part of it might be 
+[04:24](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=264) that republicans tend to skew older democrats were more likely to fantasize about bdsm the largest divide between democrats and republicans was in the masochism aspect deriving pleasure from 
+[04:35](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=275) the experience of pain in political lee miller theorizes that this also relates to taboos as equality is a big aspect of democratic values to me that does not really explain why the biggest 
+[04:45](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=285) difference is in masochism as this does not relate directly to inequality i think part of it might be that liberals tend to put more weight on the harm moral foundation so hurting or being 
+[04:55](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=295) hurt may be more taboo for them honestly that is just an educated guess though if you want to know more about moral foundations theory check out my video on attitude formation interestingly in his 
+[05:05](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=305) book lee miller puts forward a second theory for democrats being more likely to fantasize about bdsm he argues that democrats are attempting to fulfill psychological needs because they have 
+[05:15](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=315) less of a need to escape societal restrictions than republicans do in this case the psychological need is escaping self-awareness i think both of lee miller's theories might be true but it 
+[05:25](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=325) is weird that he presents different theories in politico and his own book democrats were more likely to fantasize about intimacy and social bonding emailer figures that this too is 
+[05:34](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=334) motivated by a psychological need in this case feeling validated and loved democrats are also more likely to have gender bending fantasies lee miller theorizes that this is sort 
+[05:45](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=345) of a chicken and egg thing because people with as he puts it gender bending interests may be more likely to be drawn to a party more accepting of that however it 
+[05:55](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=355) may also be that in a party that espouses gender equality more people are willing to acknowledge this part of themselves republicans and democrats fantasize about politicians to 
+[06:06](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=366) a fairly equal degree about 1 in 10 from either party has ever fantasized about a politician these fantasies do sometimes reach across the aisle sarah palin was a very 
+[06:16](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=376) popular fantasy on both sides of the aisle but more so with republicans to quote lee miller writing about his findings in politico following palin the next most frequent mentioned politicians 
+[06:26](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=386) in republican fantasies were john f kennedy bill clinton and nikki haley well after palin democrats fantasized about barack obama bill clinton and hillary clinton note that my data were 
+[06:37](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=397) collected in 2014 and 2015 before the trump presidency began and only into the early days of his campaign at that time i received only one fantasy about donald trump in the entire data 
+[06:48](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=408) set interestingly straight people were more likely to fantasize about politicians at first it would seem that men fantasize more about republicans and women about democrats but mostly that is 
+[06:59](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=419) just an artifact of which specific politicians people are into it's not so much that men are into republicans as that they are into sarah palin with women it's mostly just that clinton 
+[07:09](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=429) obama and jfk are the presidents in living memory that people think of as attractive or sexual now let's see if these fantasies actually play out in real world actions well republicans may 
+[07:20](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=440) cheat more a study based on the ashley madison data leaks found that they were more likely to use the cheating-oriented website than democrats libertarians were more likely than republicans but given 
+[07:30](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=450) the typical use of the term libertarian in america it is likely that many of these libertarians vote republican however a temmie crabtree and mcdermott found that those who cheated more were 
+[07:39](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=459) more likely to have liberal social attitudes although liberal social attitudes don't always mean someone is not a republican i think the likely reason these studies had varying but not 
+[07:49](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=469) necessarily conflicting outcomes is that one is a self-report while the other is based off of data from a specific website data about real behaviors is often better than self-report data 
+[07:59](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=479) however in this case the ashley madison data is flawed as it comes from one website so maybe republicans cheat more or maybe they are just more likely to use ashley madison to do it but what 
+[08:10](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=490) about forms of non-monogamy other than cheating before i go into this i should explain that polyamory means having romantic or sexual relationships with more than one 
+[08:19](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=499) person and swinging is about sexual experiences outside your primary relationship as far as my very monogamous self can tell polyamory has a relationship component and swinging is 
+[08:30](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=510) more about sexual experiences with people other than your romantic partner while zarini at all did find that those involved in polyamorous relationships were less likely to be republicans 
+[08:41](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=521) although they admit that republicans were underrepresented in both the monogamous and non-monogamous samples they used the data on the political leanings of swingers is somewhat more 
+[08:50](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=530) mixed and i was not able to track down sources as robust as i would like with some sources saying that they're more likely to be democrats and some saying that they are more likely to be 
+[08:59](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=539) republicans but they are more likely to be republicans than polyamorous people at least according to the sources i could find so it is not necessarily that republicans are less monogamous 
+[09:08](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=548) generally but more that they approach non-monogamy differently than democrats do fantasies also have some connection to reality for democrats according to hitemi crabtree and mcdermott those who 
+[09:19](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=559) engage in more s m are more likely to be democrats socially liberal and to have voted for obama i can't tell you if democrats are more likely to engage in bondage and domination because the study 
+[09:30](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=570) on fantasies i'm using for this video measured different things than the study on actual sexual behaviors this can make comparison a bit difficult that being said a study on behaviors by hateme 
+[09:41](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=581) crabtree and mcdermott did find a number of interesting differences in the sexual behavior of republicans and democrats that go beyond the scope of lee miller's study on fantasies 
+[09:51](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=591) overall republicans and those who are socially more conservative ideologically tend to be more sexually conservative attempting it all found that democrats as opposed to republicans 
+[10:01](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=601) masturbate more and those who masturbate more tend to be more liberal on all attitude dimensions maybe that's why conservatives are so keen on nofap only kidding masturbating probably does not 
+[10:12](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=612) make you more liberal democrats also typically had more sexual partners over the course of a lifetime interestingly republicans were found to be more likely to kiss on the mouth republicans also 
+[10:22](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=622) engaged in more face-to-face missionary sex republicans were also more likely to report being overall satisfied with their sex lives or chicken all found that while conservatives frequently 
+[10:32](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=632) report more happiness liberals display more so it is hard to tell who's actually happier similar effects may be present in this specific aspect of happiness and satisfaction that being 
+[10:43](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=643) said if conservatives want to go off and have amazing sex with each other and leave the rest of us alone i am all for it itaminal found a lot of things that align more with specific attitude 
+[10:52](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=652) leanings than party for example those who engaged in more oral sex are more conservative on outgroup punishment attitudes meaning they are anti-immigration pro-death penalty etc 
+[11:04](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=664) but more socially liberal as in supporting gay rights pro-choice that kind of thing those who have more sex with a woman on top are more conservative on out-group punishment 
+[11:14](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=674) attitudes and more likely to vote for romney and more socially liberal that's a bit of an odd mix those who have more doggy style sex are also more conservative on out-group punishment 
+[11:24](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=684) attitudes but more socially liberal sex toy users are more likely to identify as liberal and have liberal social attitudes those who engage in more mouth-to-breast contact which is such a 
+[11:34](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=694) weirdly clinical term were more likely to vote for romney more conservative-on-out group punishment and economic attitudes but also more socially liberal people who engaged in 
+[11:44](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=704) more hand-to-breast contact were more likely to vote for romney self-report as conservative and be more conservative on out-group punishment and economic attitudes those who had their genitalia 
+[11:55](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=715) touched more by others or touched others genitalia more as the study unsexily puts it were more likely to be conservative on all dimensions except national security i.e military spending 
+[12:06](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=726) warrantless searches etc and social attitudes most risky sexual behaviors were correlated to being liberal on social issues those with a later first sexual experience were more likely to 
+[12:17](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=737) have conservative social and national security attitudes and to have conservative social attitudes but to have liberal out group punishment attitudes it is interesting how many of 
+[12:27](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=747) these sexual practices were nuanced beyond democrats and republicans in their correlations maybe someone should devise new political typology for research based on 
+[12:37](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=757) trends and sexual habits am i kidding even i don't know moving on to the uk i want to talk about what people think of the sexuality of people in different political parties i cannot 
+[12:47](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=767) find something on this subject for the u.s but if someone does know of an article or a book i'd love to see it fortunately there is a really interesting yougov study into what 
+[12:55](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=775) british people think that members of different political parties fantasize about and do sexually this study and a lot of what i discussed in this section are described in sex lies in the ballot 
+[13:05](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=785) box and more sex lies in the ballot box both of which i had to purchase for this video if you want to fund things like that and help me not make negative money doing this i will link my patreon below 
+[13:16](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=796) anyway back on topic the first thing we can figure out from this data is that british people generally have very strong opinions on the sexual proclivities of their countrymen and how 
+[13:25](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=805) these vary by party they also seem to think that members of any political party are sexually odd compared to the general public for the benefit of my primarily non-british 
+[13:34](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=814) audience i will now give a slap dash summary of what parties i'll be mentioning here this is based purely on the impressions i got by living in scotland for four years in england for a 
+[13:43](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=823) year if you're a brit with a better explanation do feel free to put it in the comments this is by no means a complete list of parties and does not include parties that are only 
+[13:52](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=832) significant in scotland wales or northern ireland alright let us start left to right although there is arguably more nuance than just a spectrum if you care about that sort of thing check out 
+[14:02](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=842) my video on the political compass on the left we have labor sometimes compared to the us democratic party but i find that especially on economic issues they will at least present 
+[14:12](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=852) themselves as left of the democrats they are one of the two biggest parties then we have the liberal democrats often called the lib dems basically they are between labor and the tories slash 
+[14:23](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=863) conservatives in the u.s this is probably what a lot of less progressive democrats would be then we have the conservatives often called the tories the right of the two major parties some 
+[14:33](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=873) people will compare them to the republicans but they aren't just far right on all issues even if you get the sense that a lot of them would like to be for instance in a country that has 
+[14:42](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=882) had universal health care for almost three quarters of a century you can't be a popular political party and be opposed to universal health care i want to be clear about my bias here while i never 
+[14:51](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=891) voted in the uk election i tend to be fairly left-leaning and do have my own opinions on uk politics so while tories are different from republicans i am still not a fan anyway the other party 
+[15:02](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=902) mentioned in this research is ukip or the uk independence party their primary aim was getting the uk to leave the eu which has now occurred the party has largely ceased to be much of an 
+[15:13](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=913) electoral presence post-brexit i should also mention that ukip has a not unearned reputation for extreme racism and xenophobia anyway back to brits judging each other sexually births tend 
+[15:24](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=924) to think of tories as sexually dominant boring unusual and bad okay if that all turned out to be true there would be completely apolitical reasons not to sleep with tories we will get into if 
+[15:35](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=935) this is true in a bit ritz don't tend to think of tories as sexually infrequent lazy short lasting or varied people think that tories fantasize about sex with members of parliament this is 
+[15:46](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=946) funnier if you've seen pictures of tory mps before but i don't want to kink shame here anyway they also think that tories are more likely to fantasize about cross-dressing spanking blindfolds 
+[15:57](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=957) and bondage brits generally think that tories are less likely to fantasize about receiving oral sex sex with a pop rock movie or tv star and passionate kissing moving on to what brits think of 
+[16:08](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=968) the sexuality of labor voters they tend to think that labor voters are more likely to be good rough frequent and confident in bed they think labor voters are less likely to be conventional 
+[16:18](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=978) infrequent shy and short lasting in bed good for you labor voters you don't win elections but at least your fellow brits seem to think you're pretty good at sex people think that labor voters are more 
+[16:30](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=990) likely to fantasize about sex with an mp but not to the same extent as tories actually brit seemed to think that being a member of any political party makes you more likely than average to 
+[16:40](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1000) fantasize about sex with a member of parliament brits also thinks that labour party members are more likely to fantasize about someone from a different ethnic group 
+[16:49](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1009) wait is that why certain brits are so suspicious of labor voters motives for being pro-immigration do they think not being a massive xenophobe is like a kink thing brits also think labor voters are 
+[17:01](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1021) more likely to fantasize about crossdressing brits think that labor supporters are less likely to fantasize about oral sex sex with a pop rock movie or tv star and two women one man 
+[17:12](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1032) threesomes ok on to the liberal democrats lib dems are viewed as more likely than average to be boring submissive slow and gentle and less likely to be conventional consistent 
+[17:23](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1043) lazy infrequent and fast if you know anything about the cameron clegg coalition it makes sense why brits would see tories as dominant and lib dumps as submissive they think that lib dems are 
+[17:34](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1054) more likely to fantasize about cross-dressing homosexual sex and bondage brits also think that lib dems are less likely to fantasize about receiving oral sex sex with a pop rock 
+[17:45](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1065) movie or tv star and passionate kissing okay on to ukip brits think that ukip voters are more likely to be dominant rough bad and unusual and bad and less likely to be conventional infrequent 
+[17:57](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1077) consistent lazy or good they think that you kept voters are more likely to fantasize about cross-dressing actually interestingly that's true for all the political groups so i guess brits just 
+[18:07](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1087) think being political makes you into cross-dressing or maybe different brits all think that members of specific parties maybe their political opponents are into cross-dressing but it comes out 
+[18:19](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1099) as this wider trend there is of course nothing wrong with cross-dressing but a lot of people want to ascribe what they see as a deviant to their political enemies ritz also think that ukip voters 
+[18:29](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1109) are more likely to fantasize about sex with a transsexual that's the studies phrasing not mine i don't think that those that conducted the survey meant anything offensive by 
+[18:40](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1120) it and the study was conducted in 2014 but i do want to make people aware that this term is outdated and not currently widely used if i were to conduct the study now i would probably use the term 
+[18:51](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1131) trans or transgender the study uses the outdated term a few more times but i've been told i should probably only say it once so i will be saying trans from here on 
+[19:01](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1141) out but do be aware that the study uses different terminology moving on brits also think ukip voters are more likely than average to fantasize about receiving anal sex and bondage they 
+[19:12](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1152) think that ukip voters are less likely to fantasize about passionate kissing receiving oral sex sex with a pop or rock star threesomes and wearing sexy outfits okay 
+[19:22](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1162) let's see if brits actually understand each other and guessed correctly let's start with sexual fantasies the only fantasy that was actually more common among conservatives than in the general 
+[19:32](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1172) population was sex with a sports star a number of fantasies were less common among conservatives such as passionate kissing threesomes spanking orgies sex with someone from a different ethnicity 
+[19:43](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1183) and sex with a stranger a great number of sexual fantasies were over-represented among labor supporters including sex outdoors sex with a stranger sex with a movie or tv star sex 
+[19:54](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1194) with someone else's partner oral sex both giving and receiving passionate kissing role play spanking and wearing sexy outfits no fantasies were underrepresented among labor supporters 
+[20:05](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1205) lib dem supporters were more likely to fantasize about sex with someone from a different ethnicity watching someone masturbate bondage filming themselves having sex and sex with a trans person 
+[20:15](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1215) as with labor no fantasies are underrepresented among lib dem supporters as an aside i do want to say that fantasizing about people from marginalized groups can include 
+[20:24](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1224) problematic fetishization discussing the exact ethics of that sort of thing really falls outside my area of expertise and the scope of this video i don't really have much productive to add 
+[20:34](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1234) to the conversation on that topic but i want you all to be aware that that conversation exists okay back to what variously political brits fantasize about 
+[20:43](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1243) okay last and honestly least let's talk about ukip ukip supporters are more likely to fantasize about using a vibrator or dildo there are no fantasies underrepresented among ukip supporters 
+[20:54](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1254) so i guess no one's fantasies were predicted very well by the general populace we can also see that those who lean conservative tend to have more conservative and less varied fantasies 
+[21:03](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1263) but to what extent does this translate into brit's actual sex lives this trend towards conservatives being more sexually conservative does carry over tories are more likely to describe 
+[21:12](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1272) themselves as sexually consistent conventional and frequent they are less likely to self-describe as shy their only sexually over-represented behavior is sex with a member of parliament maybe 
+[21:22](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1282) this is how tories are actually keeping their base happy they certainly aren't doing it with sensible policies a ton of sexual behaviors were underrepresented among tories including 
+[21:31](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1291) sex with someone significantly older sex with someone of a different ethnicity sex with someone else's partner two man one woman threesomes using a vibrator dildo watching someone masturbate 
+[21:42](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1302) wearing sexy outfits and watching others have sex labor supporters were more likely to describe themselves as sexually long-lasting exciting and varied and less likely describe 
+[21:52](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1312) themselves as fast in practice they were more likely than others to have sex with someone significantly older although that might be because labor voters skew younger they were more likely to have 
+[22:01](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1321) sex with a movie or tv star more likely to have a threesome and more likely to engage in bondage there was nothing they were less likely to do lib dems were more likely to describe 
+[22:11](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1331) themselves as good fast and shy and less likely to describe themselves as frequent they are more likely than others to have sex with someone of a different ethnicity engage in passionate 
+[22:19](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1339) kissing erotic massage take part in an orgy watch others have sex and to have sex with a trans person digression here about passionate kissing how does this end up over and 
+[22:29](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1349) underrepresented do a lot of people out there have sex without passionate kissing am i some sort of old-fashioned romantic here does passionate kissing not mean what i think it means i know 
+[22:40](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1360) brits are allegedly repressed but these are the people who came up with the term snogging i've snagged a few brits in my day for multiple parties even anyway on to ukip they are more likely to describe 
+[22:51](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1371) themselves sexually as lazy and less likely to describe themselves as frequent they are more likely to use vibrators and dildos and less likely to have sex with someone considerably 
+[23:00](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1380) younger surprising given the average age of a ukip voter so what does all of this tell us it shows us that in the uk those who are more politically conservative are often also more sexually 
+[23:11](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1391) conservative it also shows us that there are significant sexual differences across political divides these results don't show us that sexual preferences impact voting instead they are likely 
+[23:22](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1402) impacted by many of the same factors of personality and temperament and demographics that impact voting i talked more about this sort of thing in my video on attitude formation to quote 
+[23:31](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1411) from sex lies in the ballot box no one is arguing that voters are more or less likely to be attracted to parties as a result of this behavior do not expect slogans such as vote conservative we're 
+[23:42](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1422) less likely to be keen on spanking but the differences in personality values and outlook expressed in politics are also found in many other aspects of life including the bedroom i do however 
+[23:53](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1433) think it's important to mention that our shall we say mammalian drives can impact voting a bit for example this same source mentions that the attractiveness of potential members of parliament does 
+[24:04](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1444) matter especially to opposite sex voters women in particular vote on attractiveness more than men alright so we've plumbed the depth of the human id in two different countries what have we 
+[24:15](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1455) learned well we have learned that those who are more politically conservative tend to be more sexually conservative but we have also learned that the relationship between politics and 
+[24:24](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1464) sexuality is more complex than that we have learned that the particularities vary by country as in the trends in the sexuality of people on the right or the left in the u.s and the uk are different 
+[24:36](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1476) what this probably all means is that both our sexuality and our politics are tied to things like personality and temperament that are core to who we are as people that being said it is 
+[24:45](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1485) important to keep in mind that your politics and your sexuality have very different impacts upon the world your sexuality should and mostly does only affect you and a few consenting others 
+[24:55](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1495) your politics can affect the whole world whether others like it or not albeit typically in a small way that is why making fun of someone's sexual preferences is typically a dick move but 
+[25:05](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1505) criticizing someone's politics is not thanks for watching i really appreciate it if you'd like comment subscribe hit the bell all that kind of thing you can check me out on all sorts of social 
+[25:15](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1515) media and on my brand new patreon thanks again to joseph for editing the script and special thanks for this video go to luna mainly mandy and the chicago public library system these cats are mandy's 
+[25:27](https://youtu.be/lL2ii_V5YkY?si=6vRSoWCQUXQH79C-&t=1527) cats aren't they just so cute thanks to nachi for being my very first patron thanks for watching see you next time you 

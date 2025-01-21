@@ -1,0 +1,32 @@
+---
+done: false
+---
+
+- [ ] May 2024
+- [ ] 2023 09
+- [ ] 296 - 2023
+	- [x] Portrait ➕ 2024-09-20
+	- [x] Mask ➕ 2024-09-24 
+- [ ] 299
+- [ ] 301
+- [ ] 303
+- [ ] 305
+- [ ] 306 - 2023
+	- [ ] Houdini
+	- [x] Stylized character ➕ 2024-09-20
+	- [x] Modeling portfolio ➕ 2024-09-23
+- [ ] 307 - 2024
+- [ ] 308
+- [ ] 309
+	- [ ] Game asset
+	- [ ] Reptilian creature
+	- [ ] Render engines
+- [ ] 310
+- [ ] 311 - 05
+	- [ ] Animal
+	- [x] A character with stylized texturing ➕ 2024-09-23
+	- [ ] Still-life
+- [ ] 312 - June
+- [ ] 313 - July
+- [ ] 314 - August
+	- [ ] Witch
