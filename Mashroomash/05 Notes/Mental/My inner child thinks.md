@@ -5,12 +5,9 @@ cssclasses:
   - Sunday
 topics:
   - "[[Inner Child|Inner Child]]"
-q-type: todo
-q-data:
-  leech-count: 3
-  due-at: 2024-08-05T18:00:00.000Z
+dg-publish: true
 ---
-[[../../01 Maps/YouTube/Channels/Patrick Teahan|Patrick Teahan]]
+[[Patrick Teahan|Patrick Teahan]]
 # My inner child thinks…?
 
 ## Week of 5/28/23 Journal Prompts
