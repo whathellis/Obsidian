@@ -6,7 +6,7 @@ date: 2024-07-30
 published: 2021-07-23T04:14:50
 duration: 1837
 tags:
-  - video/animation/3D/rig
+  - video/animation/rig
 done: true
 cover: "[[maxresdefault (16).jpg]]"
 ---
