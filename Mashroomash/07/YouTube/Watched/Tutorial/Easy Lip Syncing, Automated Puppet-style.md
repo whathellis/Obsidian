@@ -7,6 +7,7 @@ published: 2020-06-20T08:30:33
 duration: 581
 tags:
   - video/3D/tutorial
+  - video/animation/rig
 done: true
 cover: "[[maxresdefault (15).jpg]]"
 ---
