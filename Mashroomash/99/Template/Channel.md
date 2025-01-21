@@ -1,6 +1,5 @@
 ---
-tags:
-  - channel
+tags: []
 ---
 `````col
 ````col-md
