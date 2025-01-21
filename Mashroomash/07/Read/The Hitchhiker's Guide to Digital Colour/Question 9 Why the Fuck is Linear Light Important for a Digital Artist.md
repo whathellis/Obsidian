@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2019/07/1f911-1-skzxsakx8-7yv7zh
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-09
 duration: 6
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #9: Why the F*ck is Linear Light Important for a Digital Artist?
 
-Description:: [In our last question, we took a quick dive into discussing what a particular type of linear, *display linear*, is related to.](https://hg2dc.com/question-8/) What we haven’t discussed yet, is why there has been all of this talk about linear in the first place. Why do linear versus nonlinear encodings matter if you’ve been happily painting in Photoshop or Affinity’s tools and not giving a crap about this rubbish? We’ll try to skip getting into the math and use a simple visual demonstration to hammer our point home.
+[In our last question, we took a quick dive into discussing what a particular type of linear, *display linear*, is related to.](https://hg2dc.com/question-8/) What we haven’t discussed yet, is why there has been all of this talk about linear in the first place. Why do linear versus nonlinear encodings matter if you’ve been happily painting in Photoshop or Affinity’s tools and not giving a crap about this rubbish? We’ll try to skip getting into the math and use a simple visual demonstration to hammer our point home.
 
 So, let’s break the question out…
 
