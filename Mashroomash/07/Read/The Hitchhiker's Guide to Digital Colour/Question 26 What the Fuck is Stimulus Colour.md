@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2022/01/60vn01.jpg
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:22:38
 duration: 7
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #26: What the F*ck is Stimulus Colour?
 
-Description:: Phew… it’s been a while dear friend. And with that repose away from the insanity of digital colour, it seems fitting to do a bit of revisionist history tour and look back to what we’ve covered. Why? Because I’ve totally f\*cking lied to you.
+Phew… it’s been a while dear friend. And with that repose away from the insanity of digital colour, it seems fitting to do a bit of revisionist history tour and look back to what we’ve covered. Why? Because I’ve totally f\*cking lied to you.
 
 Remember way, way, way back where we first started trying to peel off the layers of confusion and outright bullsh\*t? Remember back to Question #1 where I said we were manipulating light emissions? That was only a half truth.
 
