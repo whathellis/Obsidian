@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2019/06/eb077-1q5b2r_r312diag5ok
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-04
 duration: 7
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #7: What the F*ck Does “Linear” Mean?
 
-Description:: This is perhaps one of the most ugly questions we are going to tackle, and I’ll warn you up front, it’s *very* ugly. The good news is that we are going to smash up a bunch of bogus misinformation in this question. The bad news is, much like all of these damn questions, is that there will be more questions left in the rubble.
+This is perhaps one of the most ugly questions we are going to tackle, and I’ll warn you up front, it’s *very* ugly. The good news is that we are going to smash up a bunch of bogus misinformation in this question. The bad news is, much like all of these damn questions, is that there will be more questions left in the rubble.
 
 [The previous Question #6](https://hg2dc.com/question-6/), we started chipping away at what a transfer function is. Let’s recap a little bit:
 
