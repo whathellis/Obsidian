@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2022/11/6zwk7s.jpg
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:28:36
 duration: 4
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #29: What the F*ck is Intensity, Again?
 
-Description:: Following on from [Question #28’s Rashomon inspired retelling](https://hg2dc.com/2022/08/11/question-28-what-the-fck-is-the-difference-between-affect-and-effect-and-what-the-fck-is-rashomon/), we are going to look again at what [Question #2](https://hg2dc.com/2019/03/24/question-2/) brought to the table, and pick it apart.
+Following on from [Question #28’s Rashomon inspired retelling](https://hg2dc.com/2022/08/11/question-28-what-the-fck-is-the-difference-between-affect-and-effect-and-what-the-fck-is-rashomon/), we are going to look again at what [Question #2](https://hg2dc.com/2019/03/24/question-2/) brought to the table, and pick it apart.
 
 [Question #2](https://hg2dc.com/2019/03/24/question-2/) asked:
 
