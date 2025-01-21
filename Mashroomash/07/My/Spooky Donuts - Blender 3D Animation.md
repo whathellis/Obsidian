@@ -7,7 +7,7 @@ published: 2024-08-06T23:00:12
 duration: 24
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "24s"]
+[time:: "24s"]
 # Spooky Donuts - Blender 3D Animation
 `````col
 ````col-md
