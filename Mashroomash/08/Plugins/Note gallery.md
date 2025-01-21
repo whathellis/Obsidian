@@ -1,3 +1,6 @@
+---
+share: true
+---
 # What is it?
 
 Note Gallery is a [super-fast] masonry style note gallery for [Obsidian](https://obsidian.md/).
@@ -78,7 +81,7 @@ breakpoints:         # optional: allows to set breakpoints for number of columns
 
 ## Responsive Breakpoints
 
-Different columns can be specified by passing an object containing key's of the window widths and their value as the number of columns. To have a fallback value, use the `default` key.
+Different columns can be specified by passing an object containing key's of the window widths and their value as the number of columns. To have a fallback value, use the  key.
 
 ```
 breakpoints:
