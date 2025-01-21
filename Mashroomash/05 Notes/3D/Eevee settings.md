@@ -6,8 +6,8 @@ cssclasses:
   - Sunday
 topics:
   - "[[Raytracing|Raytracing]]"
-  - "[[Blender tutorial|Blender tutorial]]"
-q-type: article
+  - "[[Blender|Blender]]"
+dg-publish: true
 ---
 [[../../07/YouTube/Watched/Soft/Will Eevee 2.0 Replace Cycles - Blender 4.2|Will Eevee 2.0 Replace Cycles - Blender 4.2]]
 #### Scene
