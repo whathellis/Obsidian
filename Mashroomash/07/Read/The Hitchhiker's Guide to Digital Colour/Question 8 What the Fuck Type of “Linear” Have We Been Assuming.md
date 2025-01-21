@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2019/06/40268-1w8o68p7-xvli2qccm
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-09
 duration: 5
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #8: What the F*ck Type of “Linear” Have We Been Assuming?
 
-Description:: I’m going to spoil our trend of not answering questions with an actual answer, that is somewhat not-too-secretly buried it the question itself. That is, this isn’t even a question, but more of a pit stop in the glossary. Specifically, the four previous questions culminate in the term we are going to Achievement Unlock:
+I’m going to spoil our trend of not answering questions with an actual answer, that is somewhat not-too-secretly buried it the question itself. That is, this isn’t even a question, but more of a pit stop in the glossary. Specifically, the four previous questions culminate in the term we are going to Achievement Unlock:
 
 1.  [Back at Question #2](https://hg2dc.com/question-2/), we were able to discover the arbitrary nature of RGB code value triplets. We focused on the idea that in some instances, the code values represent a ratio, and specifically, a ratio between some minimum and some maximum.
 2.  [At Question #5](https://hg2dc.com/question-5/), we dug a little deeper. We revealed that code values could be ratios, and hinted that the nature of the ratios could be related to a whole, such as with a percentage, or with regards to ratios between each code value.
