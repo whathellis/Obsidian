@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2024/07/gamut-expansion-high-art
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:32:50
 duration: 9
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #33: What the F*ck are the Colours of the Three Lights?
 
-Description:: With the past several posts, the astute mind will have already arrived at the answer to the headline question here, so in an effort to add some value to the short answer of “There is no colour in the discrete scalar samples of stimuli”, let’s try to explore the surface of the problem with a degree of curiosity, and in doing so, perhaps elucidate something crucially important to visual cognition.
+With the past several posts, the astute mind will have already arrived at the answer to the headline question here, so in an effort to add some value to the short answer of “There is no colour in the discrete scalar samples of stimuli”, let’s try to explore the surface of the problem with a degree of curiosity, and in doing so, perhaps elucidate something crucially important to visual cognition.
 
 ***Question #33: What are the actual colours of the three RGB lights?***
 
