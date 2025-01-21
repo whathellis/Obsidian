@@ -1,17 +1,14 @@
 ---
 cssclasses:
   - daily
-  - page-black
   - Wednesday
+  - page-black
 date: 2024-07-20
 topics:
   - "[[BRDF|BRDF]]"
   - "[[BSDF|BSDF]]"
   - "[[PBR|PBR]]"
-q-type: article
-q-data:
-  leech-count: 1
-  due-at: 2024-07-24T18:00:00.000Z
+dg-publish: true
 ---
 [[../../07/YouTube/Study/The Secret Behind Photorealistic And Stylized Graphics|The Secret Behind Photorealistic And Stylized Graphics]][^1]
 
