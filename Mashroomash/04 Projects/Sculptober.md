@@ -32,7 +32,7 @@ flexGrow=1
 ````col-md
 flexGrow=1
 ===
-[[ImagineFX]]
+[[To Read#ImagineFX]]
 - [ ] timelapse
 - [ ] render
 - [ ] edited video
