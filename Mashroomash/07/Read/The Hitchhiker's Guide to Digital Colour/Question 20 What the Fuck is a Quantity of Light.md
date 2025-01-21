@@ -4,16 +4,13 @@ thumbnail: https://hg2dc.com/wp-content/uploads/2020/04/and-now-for-something-co
 site: "[[The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:19:57
 duration: 5
-topics: 
 done: false
-cover: 
 playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #20: What the F*ck is a Quantity of Light?
 
-Description:: We’ve been talking about radiometric light ratios here for the most part, specifically regarding the final output from a display. In an effort to understand the subsequent questions that follow this one, we are going to need to fill in some further details about what “a quantity of light” means in a way that will visually make sense for a typical image maker.
+We’ve been talking about radiometric light ratios here for the most part, specifically regarding the final output from a display. In an effort to understand the subsequent questions that follow this one, we are going to need to fill in some further details about what “a quantity of light” means in a way that will visually make sense for a typical image maker.
 
 ***Question #20: What is a quantity of light?***
 
