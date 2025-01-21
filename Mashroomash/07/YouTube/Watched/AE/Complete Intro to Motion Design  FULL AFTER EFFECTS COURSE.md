@@ -6,7 +6,6 @@ date: 2024-11-09
 published: 2022-08-01T23:00:13
 duration: 8112
 tags:
-  - video/animation/motion
   - video/soft/AE
 done: true
 cover: "[[maxresdefault (2) 1.jpg]]"
