@@ -3,15 +3,17 @@ share: true
 cssclasses:
   - wide
 ---
-[[Hotkeys|Hotkeys]] 
-[[Cssclasses|Cssclasses]]
-[[Page Colors.canvas|Colors]]
+[[./Hotkeys|Hotkeys]] 
+[[../99/CSS/Cssclasses|Cssclasses]]
+[[../Page Colors.canvas|Colors]]
+
+> ƒɵʎ⁰∫⨍θΩ™•º⌂ʘ→↜↪↻↷▢▶●◉○◓◒◑◐◕◔◶◵◴◷◯⊙⊕⊗①②③④⑤⑥⒋⒈⫗✅🟥🟧🟨🟩🟪🟦ಠ╭╮ಠ(＃°Д°):Pヾ(≧▽≦*)o╰(*°▽°*)╯\(￣︶￣*\))(👉ﾟヮﾟ)👉＼(ﾟｰﾟ＼)( ﾉ ﾟｰﾟ)ﾉ(ಥ _ ಥ)¯\_(ツ)_/¯(┬┬﹏┬┬)(´。＿。｀)ಥ_ಥ(ノ｀Д)ノ┳━┳ ノ( ゜-゜ノ)(╯°□°）╯︵ ┻━┻ಠ_ಠ
+
 `````col
 ````col-md
 flexGrow=2
 ===
-ƒɵʎ⁰∫⨍θΩ
-- [ ] Todo
+- [ ] Todo 
 - [x] Done
 - [-] Cancelled
 - [r] r Important
