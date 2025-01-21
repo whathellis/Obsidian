@@ -4,7 +4,7 @@ done: false
 channel: "[[Grant Abbitt]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/character
 ---
 
 `````col
