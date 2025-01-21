@@ -3,6 +3,7 @@ cssclasses:
   - daily
   - Wednesday
   - page-cyan
+dg-publish: true
 ---
 # 3D Modeling Degree
 
