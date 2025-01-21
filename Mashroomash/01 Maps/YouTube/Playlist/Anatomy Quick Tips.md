@@ -5,9 +5,7 @@ date: ""
 channel: "[[Sinix Design]]"
 tags:
   - playlist
-q-type: book
-q-data:
-  due-at: 2024-07-26T18:00:00.000Z
+  - video/art
 ---
 `````col
 ````col-md
