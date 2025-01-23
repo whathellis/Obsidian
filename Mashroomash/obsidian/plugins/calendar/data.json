@@ -2,9 +2,9 @@
   "shouldConfirmBeforeCreate": true,
   "weekStart": "monday",
   "wordsPerDot": 250,
-  "showWeeklyNote": false,
-  "weeklyNoteFormat": "YY.MM.DD [w:]ww",
-  "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "Daily",
-  "localeOverride": "system-default"
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "YYYY-[W]WW",
+  "weeklyNoteTemplate": "06 Plan/06/Week",
+  "weeklyNoteFolder": "06 Plan/03",
+  "localeOverride": "en"
 }

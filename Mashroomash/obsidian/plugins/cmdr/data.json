@@ -10,27 +10,57 @@
       "mode": "any"
     },
     {
-      "id": "obsidian-tasks-plugin:edit-task",
-      "icon": "pencil",
-      "name": "Tasks: Create or edit task",
+      "id": "editor:insert-embed",
+      "icon": "lucide-sticky-note",
+      "name": "Add embed",
       "mode": "any"
     },
     {
-      "id": "markdown:add-metadata-property",
-      "icon": "lucide-plus-circle",
-      "name": "Add file property",
+      "id": "multi-column-markdown:insert-multi-column-region",
+      "icon": "align-start-horizontal",
+      "name": "Insert Multi-Column",
       "mode": "any"
     },
     {
-      "id": "markdown:clear-metadata-properties",
-      "icon": "lucide-package-x",
-      "name": "Clear file properties",
+      "id": "bookmarks:bookmark-current-section",
+      "icon": "lucide-bookmark-plus",
+      "name": "Bookmark block",
+      "mode": "any"
+    },
+    {
+      "id": "nifty-links:create-nifty-links",
+      "icon": "external-link",
+      "name": "Create Nifty Link",
       "mode": "any"
     },
     {
       "id": "file-explorer:new-file",
       "icon": "lucide-file-plus",
       "name": "Create new note",
+      "mode": "any"
+    },
+    {
+      "id": "insert-template",
+      "icon": "lucide-copy",
+      "name": "Insert template",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-new-tab",
+      "icon": "pen-tool",
+      "name": "Excalidraw",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-popout",
+      "icon": "pen-tool",
+      "name": "Excalidraw POPOUT",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-chartsview-plugin:chartsview-wizard",
+      "icon": "pie-chart",
+      "name": "Charts View: Wizard",
       "mode": "any"
     }
   ],
@@ -46,9 +76,28 @@
       "icon": "lucide-minimize-2",
       "name": "Fold all headings and lists",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-excalidraw-plugin:Downloaded/Scribble Helper",
+      "icon": "activity",
+      "name": "Excalidraw: (Script) Downloaded/Scribble Helper",
+      "mode": "any"
+    },
+    {
+      "id": "writing-goals:view-writing-goal-stats",
+      "icon": "flag-triangle-right",
+      "name": "Writing Goals: View all your writing goal stats",
+      "mode": "any"
     }
   ],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "ytranscript:transcript-from-prompt",
+      "icon": "video",
+      "name": "YTranscript: Get YouTube transcript from url prompt",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
@@ -76,13 +125,31 @@
       "icon": "lucide-code-2",
       "name": "Toggle Live Preview/Source mode",
       "mode": "any"
+    },
+    {
+      "id": "dataview:dataview-force-refresh-views",
+      "icon": "bug",
+      "name": "Dataview: Force Refresh All Views and Blocks",
+      "mode": "any"
+    },
+    {
+      "id": "writing-goals:add-writing-goal",
+      "icon": "flag-triangle-right",
+      "name": "Add or update a writing goal",
+      "mode": "any"
     }
   ],
   "macros": [],
   "explorer": [],
   "hide": {
-    "statusbar": [],
-    "leftRibbon": []
+    "statusbar": [
+      "obsidian-toggl-integration",
+      "obsidian-toggl-integration",
+      "yesterday"
+    ],
+    "leftRibbon": [
+      "Link Tree"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {

@@ -1,0 +1,3029 @@
+{
+  "checkpoints": {
+    "08/Themes/README.md": {
+      "mtime": 1719928534560,
+      "wordCount": 261,
+      "fileSize": 1688
+    },
+    "08/Themes/Royal Velvet Obsidian Theme.md": {
+      "mtime": 1719928534569,
+      "wordCount": 228,
+      "fileSize": 1981
+    },
+    "08/Themes/Vicious.md": {
+      "mtime": 1721755011224,
+      "wordCount": 686,
+      "fileSize": 5389
+    },
+    "08/Themes/Blue Topaz.md": {
+      "mtime": 1719928534540,
+      "wordCount": 346,
+      "fileSize": 6318
+    },
+    "08/Themes/PLN.md": {
+      "mtime": 1721758577917,
+      "wordCount": 681,
+      "fileSize": 4884
+    },
+    "08/Themes/Light & Bright.md": {
+      "mtime": 1719928534544,
+      "wordCount": 225,
+      "fileSize": 1562
+    },
+    "08/Themes/Chime.md": {
+      "mtime": 1720435639325,
+      "wordCount": 447,
+      "fileSize": 3721
+    },
+    "08/Syntax/DQL, JS and Inlines.md": {
+      "mtime": 1719928534480,
+      "wordCount": 735,
+      "fileSize": 5800
+    },
+    "08/Syntax/Metadata on Tasks and Lists.md": {
+      "mtime": 1720009525930,
+      "wordCount": 824,
+      "fileSize": 5752
+    },
+    "08/Syntax/Dataview.md": {
+      "mtime": 1719928534441,
+      "wordCount": 1120,
+      "fileSize": 8846
+    },
+    "08/Syntax/Metadata on pages.md": {
+      "mtime": 1719928534466,
+      "wordCount": 427,
+      "fileSize": 3032
+    },
+    "08/Syntax/Dataview Query Language.md": {
+      "mtime": 1720807152338,
+      "wordCount": 10808,
+      "fileSize": 82676
+    },
+    "08/Syntax/Data Types.md": {
+      "mtime": 1719928534425,
+      "wordCount": 1068,
+      "fileSize": 7283
+    },
+    "08/Syntax/Basic formatting syntax.md": {
+      "mtime": 1720009234073,
+      "wordCount": 1479,
+      "fileSize": 11977
+    },
+    "08/Syntax/Advanced formatting syntax.md": {
+      "mtime": 1719928534445,
+      "wordCount": 613,
+      "fileSize": 5396
+    },
+    "08/Syntax/Adding Metadata.md": {
+      "mtime": 1721594299378,
+      "wordCount": 1179,
+      "fileSize": 7849
+    },
+    "08/Plugins/Yesterday.md": {
+      "mtime": 1720424312392,
+      "wordCount": 425,
+      "fileSize": 3332
+    },
+    "08/Plugins/Tracker.md": {
+      "mtime": 1722312372646,
+      "wordCount": 2312,
+      "fileSize": 26807
+    },
+    "08/Plugins/Writing Goals.md": {
+      "mtime": 1723019282134,
+      "wordCount": 806,
+      "fileSize": 6519
+    },
+    "08/Plugins/Style Settings.md": {
+      "mtime": 1719928534507,
+      "wordCount": 1926,
+      "fileSize": 14539
+    },
+    "08/Plugins/ReadItLater.md": {
+      "mtime": 1720891566159,
+      "wordCount": 761,
+      "fileSize": 7089
+    },
+    "08/Plugins/QuickAdd.md": {
+      "mtime": 1720594750198,
+      "wordCount": 259,
+      "fileSize": 2177
+    },
+    "08/Plugins/Toggl Track.md": {
+      "mtime": 1723716478723,
+      "wordCount": 1134,
+      "fileSize": 9381
+    },
+    "08/Plugins/Obsidian Dataview.md": {
+      "mtime": 1720435665681,
+      "wordCount": 962,
+      "fileSize": 8034
+    },
+    "08/Plugins/Page Gallery.md": {
+      "mtime": 1719928534497,
+      "wordCount": 708,
+      "fileSize": 5780
+    },
+    "08/Plugins/Note gallery.md": {
+      "mtime": 1719928534491,
+      "wordCount": 633,
+      "fileSize": 4203
+    },
+    "08/Plugins/Multi-Column Markdown.md": {
+      "mtime": 1721756871668,
+      "wordCount": 2745,
+      "fileSize": 18174
+    },
+    "08/Plugins/Mood Tracker.md": {
+      "mtime": 1721758379685,
+      "wordCount": 392,
+      "fileSize": 2804
+    },
+    "08/Plugins/Habit Tracker 21.md": {
+      "mtime": 1721758386408,
+      "wordCount": 299,
+      "fileSize": 2016
+    },
+    "08/Plugins/Heatmap Calendar.md": {
+      "mtime": 1721308278968,
+      "wordCount": 945,
+      "fileSize": 6944
+    },
+    "08/Plugins/Columns.md": {
+      "mtime": 1720435750810,
+      "wordCount": 1356,
+      "fileSize": 8721
+    },
+    "08/Plugins/Charts View.md": {
+      "mtime": 1721758507028,
+      "wordCount": 825,
+      "fileSize": 8987
+    },
+    "08/Plugins/Aosr.md": {
+      "mtime": 1722689803457,
+      "wordCount": 3227,
+      "fileSize": 21593
+    },
+    "08/Markdown.md": {
+      "mtime": 1737400227555,
+      "wordCount": 441,
+      "fileSize": 2500
+    },
+    "08/Hotkeys.md": {
+      "mtime": 1721404943467,
+      "wordCount": 74,
+      "fileSize": 327
+    },
+    "99/Untitled 2.md": {
+      "mtime": 1737533286743,
+      "wordCount": 832,
+      "fileSize": 6871
+    },
+    "99/Untitled.md": {
+      "mtime": 1737533286851,
+      "wordCount": 333,
+      "fileSize": 3272
+    },
+    "99/Excalidraw/Scripts/Downloaded/Scribble Helper.md": {
+      "mtime": 1737533286590,
+      "wordCount": 1354,
+      "fileSize": 15171
+    },
+    "99/Excalidraw/Scripts/Downloaded/Set Font Family.md": {
+      "mtime": 1737533286641,
+      "wordCount": 58,
+      "fileSize": 798
+    },
+    "99/CSS/Page View.md": {
+      "mtime": 1737533286585,
+      "wordCount": 15,
+      "fileSize": 97
+    },
+    "99/CSS/Pen Colors.md": {
+      "mtime": 1737533286573,
+      "wordCount": 37,
+      "fileSize": 267
+    },
+    "99/CSS/Page Colors.md": {
+      "mtime": 1737533286580,
+      "wordCount": 56,
+      "fileSize": 450
+    },
+    "99/CSS/Cssclasses.md": {
+      "mtime": 1737533286562,
+      "wordCount": 123,
+      "fileSize": 831
+    },
+    "99/Untitled 1.md": {
+      "mtime": 1737533286724,
+      "wordCount": 21,
+      "fileSize": 140
+    },
+    "99/Untitled 3.md": {
+      "mtime": 1737533286751,
+      "wordCount": 19,
+      "fileSize": 136
+    },
+    "99/Template/Read.md": {
+      "mtime": 1737533286711,
+      "wordCount": 19,
+      "fileSize": 138
+    },
+    "99/Template/Project.md": {
+      "mtime": 1737533286706,
+      "wordCount": 72,
+      "fileSize": 344
+    },
+    "99/Template/Skincare.md": {
+      "mtime": 1737533286716,
+      "wordCount": 27,
+      "fileSize": 189
+    },
+    "99/Template/Plan.md": {
+      "mtime": 1737533286699,
+      "wordCount": 37,
+      "fileSize": 216
+    },
+    "99/Template/note.Note.md": {
+      "mtime": 1737533286694,
+      "wordCount": 16,
+      "fileSize": 112
+    },
+    "99/Template/Month.md": {
+      "mtime": 1737533286689,
+      "wordCount": 42,
+      "fileSize": 389
+    },
+    "99/Template/Playlist.md": {
+      "mtime": 1737533286720,
+      "wordCount": 45,
+      "fileSize": 344
+    },
+    "99/Template/Goal.md": {
+      "mtime": 1737533286667,
+      "wordCount": 31,
+      "fileSize": 182
+    },
+    "99/Template/excalidraw.md": {
+      "mtime": 1737533286685,
+      "wordCount": 63,
+      "fileSize": 1259
+    },
+    "99/Template/Col.md": {
+      "mtime": 1737533286661,
+      "wordCount": 14,
+      "fileSize": 103
+    },
+    "99/Template/Daily.md": {
+      "mtime": 1737533286673,
+      "wordCount": 82,
+      "fileSize": 495
+    },
+    "99/Template/Channel.md": {
+      "mtime": 1737533286655,
+      "wordCount": 67,
+      "fileSize": 439
+    },
+    "99/Life.md": {
+      "mtime": 1737533286649,
+      "wordCount": 101,
+      "fileSize": 678
+    },
+    "07/Read/Stuff/Visual Color Comparison.md": {
+      "mtime": 1736778391939,
+      "wordCount": 3429,
+      "fileSize": 23851
+    },
+    "07/Read/Stuff/The Hitchhiker's Guide.md": {
+      "mtime": 1730451649466,
+      "wordCount": 52336,
+      "fileSize": 350271
+    },
+    "07/Read/Stuff/Bespoke Synth Reference.md": {
+      "mtime": 1736777768474,
+      "wordCount": 12257,
+      "fileSize": 96158
+    },
+    "07/Read/Stuff/The Hitchhiker's guide to understanding digital 3D model file formats.md": {
+      "mtime": 1736778484358,
+      "wordCount": 2668,
+      "fileSize": 18251
+    },
+    "07/Read/Stuff/BoJack Horseman.md": {
+      "mtime": 1730451649601,
+      "wordCount": 4348,
+      "fileSize": 27099
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 7 What the Fuck Does “Linear” Mean.md": {
+      "mtime": 1736614540387,
+      "wordCount": 1550,
+      "fileSize": 9816
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 8 What the Fuck Type of “Linear” Have We Been Assuming.md": {
+      "mtime": 1736614543488,
+      "wordCount": 1137,
+      "fileSize": 7395
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 6 What the Fuck is a Transfer Function.md": {
+      "mtime": 1736614537334,
+      "wordCount": 1786,
+      "fileSize": 11009
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 9 Why the Fuck is Linear Light Important for a Digital Artist.md": {
+      "mtime": 1736614547457,
+      "wordCount": 1213,
+      "fileSize": 8048
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 32  Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light.md": {
+      "mtime": 1736614633370,
+      "wordCount": 2599,
+      "fileSize": 22168
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 5 What the Fuck does 0.5 mean.md": {
+      "mtime": 1736614534607,
+      "wordCount": 893,
+      "fileSize": 5604
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 33 What the Fuck are the Colours of the Three Lights.md": {
+      "mtime": 1736614637226,
+      "wordCount": 1980,
+      "fileSize": 16777
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 4 What the Fuck are the Colours of the Three Lights.md": {
+      "mtime": 1736614531702,
+      "wordCount": 1203,
+      "fileSize": 7350
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 31 What the Fuck is Colour.md": {
+      "mtime": 1736614629989,
+      "wordCount": 3247,
+      "fileSize": 25508
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 30 What is the Fucking “Colour” of Light.md": {
+      "mtime": 1736614626987,
+      "wordCount": 1508,
+      "fileSize": 10392
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 3 Does the Fucking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light.md": {
+      "mtime": 1736614528581,
+      "wordCount": 1026,
+      "fileSize": 6318
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 28 What the Fuck is the Difference Between Affect and Effect (And What the Fck is Rashomon).md": {
+      "mtime": 1736614620056,
+      "wordCount": 1364,
+      "fileSize": 9265
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 27 What the Fuck is Perceptual Colour.md": {
+      "mtime": 1736614617138,
+      "wordCount": 2171,
+      "fileSize": 14711
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 29 What the Fuck is Intensity, Again.md": {
+      "mtime": 1736614623947,
+      "wordCount": 828,
+      "fileSize": 5606
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 26 What the Fuck is Stimulus Colour.md": {
+      "mtime": 1736614614185,
+      "wordCount": 1495,
+      "fileSize": 10552
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 25 What the Fuck is Alpha.md": {
+      "mtime": 1736614611205,
+      "wordCount": 2396,
+      "fileSize": 16097
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 24 How the Fuck Do We Move a Red Pixel Down and Block Another Pixel’s Emission.md": {
+      "mtime": 1736614606460,
+      "wordCount": 2317,
+      "fileSize": 15485
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 23 How the Fuck Do We Move a Red Pixel Down Over Another Colour.md": {
+      "mtime": 1736614599226,
+      "wordCount": 1201,
+      "fileSize": 8189
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 22 How the Fuck do we Move a Red Pixel.md": {
+      "mtime": 1736614594995,
+      "wordCount": 1335,
+      "fileSize": 8734
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 21 How the Fuck do we Put a Red Pixel on the Screen.md": {
+      "mtime": 1736614585810,
+      "wordCount": 2617,
+      "fileSize": 17055
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 20 What the Fuck is a Quantity of Light.md": {
+      "mtime": 1736614582089,
+      "wordCount": 1096,
+      "fileSize": 7094
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 2 What the Fuck Does 0.6 Mean.md": {
+      "mtime": 1736614516551,
+      "wordCount": 1200,
+      "fileSize": 7074
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 18 What the  Fuck is the Missing Axis in a Chromaticity Diagram.md": {
+      "mtime": 1736614574838,
+      "wordCount": 1667,
+      "fileSize": 10549
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 19 What the Fuck is a “Gamut”.md": {
+      "mtime": 1736614577704,
+      "wordCount": 1215,
+      "fileSize": 7880
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 17 What the Fuck is a Colour Space.md": {
+      "mtime": 1736614571891,
+      "wordCount": 811,
+      "fileSize": 5862
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 16 What the Fuck is the Triangle Thingy in the Chromaticity Diagram.md": {
+      "mtime": 1736614568150,
+      "wordCount": 1658,
+      "fileSize": 11223
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 14 What the Fuck is “White”.md": {
+      "mtime": 1736614562063,
+      "wordCount": 1224,
+      "fileSize": 8007
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 15 What the Fuck is “Perceptually Uniform”.md": {
+      "mtime": 1736614565231,
+      "wordCount": 1285,
+      "fileSize": 8701
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 12 How the Fuck Can We Talk About Light “Intensity”.md": {
+      "mtime": 1736614555797,
+      "wordCount": 1853,
+      "fileSize": 12269
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 13 What the Fuck is a Chromaticity.md": {
+      "mtime": 1736614558729,
+      "wordCount": 2163,
+      "fileSize": 14348
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 11 How the Fuck Can We Talk About “Colour”.md": {
+      "mtime": 1736614553217,
+      "wordCount": 1256,
+      "fileSize": 8102
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 10 Why the Fuck Do We Bother With Linear and Nonlinear Encodings At All.md": {
+      "mtime": 1736614550437,
+      "wordCount": 2000,
+      "fileSize": 12691
+    },
+    "07/Read/The Hitchhiker's Guide to Digital Colour/Question 1 What the Fuck Happens When We Change an RGB Slider Value.md": {
+      "mtime": 1736614516493,
+      "wordCount": 1006,
+      "fileSize": 6007
+    },
+    "07/Read/3D/PBR Guide.md": {
+      "mtime": 1730451649430,
+      "wordCount": 4103,
+      "fileSize": 27410
+    },
+    "07/Read/3D/USD Terms and Concepts — Universal Scene Description 24.08 documentation.md": {
+      "mtime": 1736611033648,
+      "wordCount": 19927,
+      "fileSize": 192791
+    },
+    "07/Read/3D/LearnOpenGL - Theory.md": {
+      "mtime": 1730451649412,
+      "wordCount": 5963,
+      "fileSize": 40456
+    },
+    "07/Read/3D/Usd Asset Guide - Houdini and CG tips.md": {
+      "mtime": 1732705139434,
+      "wordCount": 4102,
+      "fileSize": 44103
+    },
+    "07/Read/3D/KineFX.md": {
+      "mtime": 1732705146271,
+      "wordCount": 415,
+      "fileSize": 3100
+    },
+    "07/Read/3D/APEX graphs.md": {
+      "mtime": 1730451649474,
+      "wordCount": 11531,
+      "fileSize": 89147
+    },
+    "07/Read/3D/Introduction to USD — Universal Scene Description 24.08 documentation.md": {
+      "mtime": 1730451651390,
+      "wordCount": 3426,
+      "fileSize": 28210
+    },
+    "07/YouTube/Watched/Tutorial/EASIEST Way to Make Painterly Animations in Blender 3D (Procedural Shader).md": {
+      "mtime": 1730451651871,
+      "wordCount": 2984,
+      "fileSize": 20561
+    },
+    "07/YouTube/Watched/Tutorial/Cinema 4D Tutorial - Rigging & Animating a Hand.md": {
+      "mtime": 1736782060154,
+      "wordCount": 260,
+      "fileSize": 1877
+    },
+    "07/YouTube/Watched/Tutorial/Easy Lip Syncing, Automated Puppet-style.md": {
+      "mtime": 1736781988661,
+      "wordCount": 229,
+      "fileSize": 2606
+    },
+    "07/YouTube/Watched/Tutorial/Maya 2024 Course.md": {
+      "mtime": 1736781625427,
+      "wordCount": 69,
+      "fileSize": 678
+    },
+    "07/YouTube/Watched/Tutorial/Easy Mouth Rig in Blender.md": {
+      "mtime": 1736781988723,
+      "wordCount": 285,
+      "fileSize": 3170
+    },
+    "07/YouTube/Watched/Tutorial/Blender 2D-3D for beginners, drawing and animating with greasepencil (blender 2.8) - Part 1.md": {
+      "mtime": 1730451651838,
+      "wordCount": 316,
+      "fileSize": 2460
+    },
+    "07/YouTube/Watched/Tutorial/Cinema 4D Tutorial - Box Modeling a Cartoon Hand.md": {
+      "mtime": 1730451651859,
+      "wordCount": 244,
+      "fileSize": 1823
+    },
+    "07/YouTube/Watched/Tutorial/Cinema 4D QuickTip - UV Unwrapping the Easy Way.md": {
+      "mtime": 1736779351254,
+      "wordCount": 251,
+      "fileSize": 1793
+    },
+    "07/YouTube/Watched/Tutorial/Blender 2D-3D for beginners, drawing and animating with greasepencil - Part 2.md": {
+      "mtime": 1730451651845,
+      "wordCount": 319,
+      "fileSize": 2472
+    },
+    "07/YouTube/Watched/Texture/Substance Designer  - Stylized Water Material.md": {
+      "mtime": 1736781205421,
+      "wordCount": 49,
+      "fileSize": 502
+    },
+    "07/YouTube/Watched/Texture/Stylized Textures Tutorial  Hand-Painted Style in Substance Painter.md": {
+      "mtime": 1736781228481,
+      "wordCount": 7758,
+      "fileSize": 53436
+    },
+    "07/YouTube/Watched/Texture/Years Of Blender Texture Knowledge in 57 Minutes.md": {
+      "mtime": 1737396995323,
+      "wordCount": 39,
+      "fileSize": 376
+    },
+    "07/YouTube/Watched/Texture/Skin Texturing Tutorial in Substance Painter  Files available.md": {
+      "mtime": 1736781228457,
+      "wordCount": 161,
+      "fileSize": 1754
+    },
+    "07/YouTube/Watched/Texture/Texture Baking - Blender 3d vs. Substance Painter vs. Marmoset Toolbag.md": {
+      "mtime": 1736781373744,
+      "wordCount": 163,
+      "fileSize": 1532
+    },
+    "07/YouTube/Watched/AE/Cinema 4D Tutorial - Z-Depth Pass (Octane & After Effects).md": {
+      "mtime": 1736781707757,
+      "wordCount": 212,
+      "fileSize": 1734
+    },
+    "07/YouTube/Watched/AE/Complete Intro to Motion Design  FULL AFTER EFFECTS COURSE.md": {
+      "mtime": 1736781968953,
+      "wordCount": 633,
+      "fileSize": 5217
+    },
+    "07/YouTube/Watched/AE/After Effects Workflow for AgX & ACES.md": {
+      "mtime": 1736781711571,
+      "wordCount": 279,
+      "fileSize": 2093
+    },
+    "07/YouTube/Watched/Soft/Will Eevee 2.0 Replace Cycles - Blender 4.2.md": {
+      "mtime": 1736781607727,
+      "wordCount": 2961,
+      "fileSize": 20607
+    },
+    "07/YouTube/Tutorial/ZBrush Guides： Make it Happen in ZBrush! – Pablo Munoz Gomez – ZBrush 2022.md": {
+      "mtime": 1736781569738,
+      "wordCount": 61,
+      "fileSize": 510
+    },
+    "07/YouTube/Tutorial/ZBrush Guides： Pablo Muñoz Gómez' VDM Facial Anatomy.md": {
+      "mtime": 1736781573774,
+      "wordCount": 55,
+      "fileSize": 487
+    },
+    "07/YouTube/Tutorial/The ULTIMATE Guide for Creating Grass and Vegetation For Video Games 🌱.md": {
+      "mtime": 1736781228546,
+      "wordCount": 817,
+      "fileSize": 5541
+    },
+    "07/YouTube/Tutorial/You might be doing HAIR Materials WRONG... Here's How to Fix it!.md": {
+      "mtime": 1736781564525,
+      "wordCount": 297,
+      "fileSize": 2748
+    },
+    "07/YouTube/Tutorial/Tutorial Cartoon head in Blender (A to Z).md": {
+      "mtime": 1730451650769,
+      "wordCount": 273,
+      "fileSize": 2190
+    },
+    "07/YouTube/Tutorial/The Simplest Guide to Ps1 Graphics In Blender.md": {
+      "mtime": 1730451650322,
+      "wordCount": 3419,
+      "fileSize": 22828
+    },
+    "07/YouTube/Tutorial/Tutorial Sculpting Mouths in ZBrush  Step by Step.md": {
+      "mtime": 1730452358506,
+      "wordCount": 119,
+      "fileSize": 1369
+    },
+    "07/YouTube/Tutorial/Mastering Stylized PBR Texturing Using Substance Painter.md": {
+      "mtime": 1736781332760,
+      "wordCount": 265,
+      "fileSize": 2283
+    },
+    "07/YouTube/Tutorial/Product Design in Blender Headphones [Full Process].md": {
+      "mtime": 1736607948126,
+      "wordCount": 314,
+      "fileSize": 2463
+    },
+    "07/YouTube/Tutorial/The magic planet - Live tutorial, 2D3D animation with Blender.md": {
+      "mtime": 1730451650315,
+      "wordCount": 104,
+      "fileSize": 971
+    },
+    "07/YouTube/Tutorial/How to Improve Your 3D Presentations.md": {
+      "mtime": 1736781625227,
+      "wordCount": 164,
+      "fileSize": 1743
+    },
+    "07/YouTube/Tutorial/How to Create Ghibli Clouds in 3D - Blender Volumetrics Tutorial.md": {
+      "mtime": 1730451650188,
+      "wordCount": 6918,
+      "fileSize": 47814
+    },
+    "07/YouTube/Tutorial/Halloween Special  Full Twitch Livestream.md": {
+      "mtime": 1736781488044,
+      "wordCount": 161,
+      "fileSize": 1704
+    },
+    "07/YouTube/Tutorial/How to Design Sci-Fi Creature for STARFIELD - Full Twitch Livestream.md": {
+      "mtime": 1736781518533,
+      "wordCount": 59,
+      "fileSize": 499
+    },
+    "07/YouTube/Tutorial/Foliage from Particles in Blender.md": {
+      "mtime": 1730451650175,
+      "wordCount": 354,
+      "fileSize": 2885
+    },
+    "07/YouTube/Tutorial/CREATE PROCEDURAL LOW-POLY WORLDS - 3D Laboratory Twitch Stream!.md": {
+      "mtime": 1730451650150,
+      "wordCount": 98,
+      "fileSize": 997
+    },
+    "07/YouTube/Tutorial/Create a Fantasy Environment with Flat Lighting  Blender 2.82.md": {
+      "mtime": 1730451650133,
+      "wordCount": 4766,
+      "fileSize": 36966
+    },
+    "07/YouTube/Tutorial/Create a Room Portfolio with Three.js and Blender  [Awwwards' Sites Recreated].md": {
+      "mtime": 1730451651204,
+      "wordCount": 574,
+      "fileSize": 4557
+    },
+    "07/YouTube/Tutorial/Creating Realistic Hair with Maya XGen.md": {
+      "mtime": 1736781625011,
+      "wordCount": 131,
+      "fileSize": 1711
+    },
+    "07/YouTube/Tutorial/Birthday Livestream! World of Warcraft Fan Art - Xal'atath, Blade of the Black Empire.md": {
+      "mtime": 1736781425179,
+      "wordCount": 62,
+      "fileSize": 515
+    },
+    "07/YouTube/Tutorial/Are You Using Blender's Hair Assets.md": {
+      "mtime": 1736781414691,
+      "wordCount": 282,
+      "fileSize": 2612
+    },
+    "07/YouTube/Tutorial/Arcane Tutorial Part 2  Deep Dive Into the Arcane Look and Camera Projections (Blender 3.0  EEVEE).md": {
+      "mtime": 1736776010163,
+      "wordCount": 236,
+      "fileSize": 2020
+    },
+    "07/YouTube/Tutorial/Blender3D - Morph between objects using Geometry nodes.md": {
+      "mtime": 1736776272890,
+      "wordCount": 169,
+      "fileSize": 1378
+    },
+    "07/YouTube/Tutorial/Arcane Style Tutorial Part 1 Hair (Blender 3.0  EEVEE).md": {
+      "mtime": 1736776466666,
+      "wordCount": 157,
+      "fileSize": 1440
+    },
+    "07/YouTube/Tutorial/2D to 3D with Cinema 4D Lite.md": {
+      "mtime": 1730451650011,
+      "wordCount": 8540,
+      "fileSize": 68946
+    },
+    "07/YouTube/Playlist/Motion Graphic Abstract - Blender RBD  Simulation - Chapter 3.md": {
+      "mtime": 1730451650609,
+      "wordCount": 199,
+      "fileSize": 1862
+    },
+    "07/YouTube/Playlist/Totem Simulation -Animated Rigid Body - Blender Physics - RBD Chapter 2.md": {
+      "mtime": 1730451650630,
+      "wordCount": 213,
+      "fileSize": 2120
+    },
+    "07/YouTube/Playlist/SUBSTANCE PAINTER TUTORIAL - How to TEXTURE a 3D character ! - Part 3.md": {
+      "mtime": 1736781228306,
+      "wordCount": 4176,
+      "fileSize": 25699
+    },
+    "07/YouTube/Playlist/Modeling for Animation 10 - CONVERTING AN EXISTING CHARACTER INTO A NEW ONE!.md": {
+      "mtime": 1730451650597,
+      "wordCount": 127,
+      "fileSize": 1100
+    },
+    "07/YouTube/Playlist/Modeling for Animation 09 - Extra Bits! (Feet, Teeth, Tummy and More!).md": {
+      "mtime": 1730451650586,
+      "wordCount": 167,
+      "fileSize": 1366
+    },
+    "07/YouTube/Playlist/Modeling for Animation 08 - Modeling The Clothes!.md": {
+      "mtime": 1730451650649,
+      "wordCount": 132,
+      "fileSize": 1163
+    },
+    "07/YouTube/Playlist/Modeling for Animation 06 - Retopologising the Face!.md": {
+      "mtime": 1730451650572,
+      "wordCount": 184,
+      "fileSize": 1460
+    },
+    "07/YouTube/Playlist/Modeling for Animation 04 - Building the Hands!.md": {
+      "mtime": 1730451650558,
+      "wordCount": 183,
+      "fileSize": 1408
+    },
+    "07/YouTube/Playlist/Modeling for Animation 05 - Sculpting the Face!.md": {
+      "mtime": 1730451650565,
+      "wordCount": 199,
+      "fileSize": 1590
+    },
+    "07/YouTube/Playlist/Modeling for Animation 07 - Modeling Polygon Hair!.md": {
+      "mtime": 1730451650578,
+      "wordCount": 135,
+      "fileSize": 1168
+    },
+    "07/YouTube/Playlist/Modeling For Animation 01 - TOP 5 Features of Good Animation Models!.md": {
+      "mtime": 1736614212170,
+      "wordCount": 193,
+      "fileSize": 1461
+    },
+    "07/YouTube/Playlist/Modeling for Animation 03 - Adding Volume to the Body!.md": {
+      "mtime": 1730451650550,
+      "wordCount": 138,
+      "fileSize": 1182
+    },
+    "07/YouTube/Playlist/Modeling For Animation 02 - Planning, and Blocking the Body and Limbs.md": {
+      "mtime": 1730451650545,
+      "wordCount": 175,
+      "fileSize": 1383
+    },
+    "07/YouTube/Playlist/Je Sculpte Tortipouss - Jour 3.md": {
+      "mtime": 1730452351196,
+      "wordCount": 82,
+      "fileSize": 819
+    },
+    "07/YouTube/Playlist/Je Sculpte Tortipouss - Jour 2.md": {
+      "mtime": 1730452348999,
+      "wordCount": 96,
+      "fileSize": 907
+    },
+    "07/YouTube/Playlist/Je Sculpte Tortipouss - Jour 1.md": {
+      "mtime": 1730452346739,
+      "wordCount": 86,
+      "fileSize": 864
+    },
+    "07/YouTube/Playlist/I show you all you need to know to model a character ! Part 1 - MODELING in ZBRUSH and MAYA.md": {
+      "mtime": 1730452343933,
+      "wordCount": 209,
+      "fileSize": 1592
+    },
+    "07/YouTube/Playlist/How to Animate in Blender Learning the Basics.md": {
+      "mtime": 1730451650493,
+      "wordCount": 246,
+      "fileSize": 1853
+    },
+    "07/YouTube/Playlist/How to Animate in Blender Learning the Basics  Part 3.md": {
+      "mtime": 1730451650487,
+      "wordCount": 249,
+      "fileSize": 1950
+    },
+    "07/YouTube/Playlist/How to Animate in Blender Learning the Basics  Part 2.md": {
+      "mtime": 1730451650480,
+      "wordCount": 260,
+      "fileSize": 1917
+    },
+    "07/YouTube/Playlist/How to add details to your character Maya & Zbrush tutorial - Part 2.md": {
+      "mtime": 1730452338239,
+      "wordCount": 238,
+      "fileSize": 1787
+    },
+    "07/YouTube/Playlist/Cinema 4D Free Course – Part 3 Render.md": {
+      "mtime": 1730451650636,
+      "wordCount": 2979,
+      "fileSize": 21233
+    },
+    "07/YouTube/Playlist/Cinema 4D Free Course – Part 2 Animation.md": {
+      "mtime": 1730451650466,
+      "wordCount": 9342,
+      "fileSize": 64632
+    },
+    "07/YouTube/Playlist/Cinema 4D Free Course – Part 1 Modeling and Rigging.md": {
+      "mtime": 1730451650456,
+      "wordCount": 8388,
+      "fileSize": 59417
+    },
+    "07/YouTube/Playlist/Breaking things with Cell Fracture in Blender - RBD  Simulation -Last Chapter.md": {
+      "mtime": 1730451650448,
+      "wordCount": 207,
+      "fileSize": 1967
+    },
+    "07/YouTube/Playlist/Blender Physics Tutorial - Rigid Body Simulations - Chapter 1.md": {
+      "mtime": 1730451650442,
+      "wordCount": 205,
+      "fileSize": 1829
+    },
+    "07/YouTube/Playlist/10 RAYCAST - Geometry Nodes For Beginners Blender 3.1.md": {
+      "mtime": 1730451650435,
+      "wordCount": 772,
+      "fileSize": 5541
+    },
+    "07/YouTube/Playlist/09 Geometry Proximity - Geometry Nodes( Fields) For Beginners  Blender 3.0.md": {
+      "mtime": 1730451650428,
+      "wordCount": 805,
+      "fileSize": 5853
+    },
+    "07/YouTube/Playlist/08 Curve nodes - Geometry Nodes( Fields) For Beginners  Blender 3.0.md": {
+      "mtime": 1730451650423,
+      "wordCount": 773,
+      "fileSize": 5498
+    },
+    "07/YouTube/Playlist/07 Points and Instancing - Geometry Nodes( Fields) For Beginners  Blender 3.0.md": {
+      "mtime": 1730451650415,
+      "wordCount": 797,
+      "fileSize": 5750
+    },
+    "07/YouTube/Playlist/06 Displacing Geometry - Geometry Nodes For Beginners  Blender 3.0(Fields).md": {
+      "mtime": 1730451650408,
+      "wordCount": 699,
+      "fileSize": 5105
+    },
+    "07/YouTube/Playlist/05 Understanding Basic Math  - Geometry Nodes For Beginners  Blender 3.0.md": {
+      "mtime": 1730451650402,
+      "wordCount": 699,
+      "fileSize": 5193
+    },
+    "07/YouTube/Playlist/04 Applying Materials - Geometry Nodes For Beginners  Blender 3.0.md": {
+      "mtime": 1730451650395,
+      "wordCount": 697,
+      "fileSize": 5117
+    },
+    "07/YouTube/Playlist/03 Interface and Basics - Geometry Nodes For Beginners  Blender 3.0(Fields).md": {
+      "mtime": 1730451650389,
+      "wordCount": 609,
+      "fileSize": 4585
+    },
+    "07/YouTube/Study/Vectors & Dot Product • Math for Game Devs - Part 1.md": {
+      "mtime": 1737398217764,
+      "wordCount": 299,
+      "fileSize": 2460
+    },
+    "07/YouTube/Study/Texture Maps Explained -  Essential for All Texture Artists.md": {
+      "mtime": 1736781228520,
+      "wordCount": 204,
+      "fileSize": 1905
+    },
+    "07/YouTube/Study/The Secret Behind Photorealistic And Stylized Graphics.md": {
+      "mtime": 1736781679753,
+      "wordCount": 350,
+      "fileSize": 3072
+    },
+    "07/YouTube/Study/Trigonometry • Math for Game Devs - Part 3.md": {
+      "mtime": 1737398170097,
+      "wordCount": 268,
+      "fileSize": 2289
+    },
+    "07/YouTube/Study/Spaces & Cross Product • Math for Game Devs - Part 2.md": {
+      "mtime": 1737398243936,
+      "wordCount": 244,
+      "fileSize": 2099
+    },
+    "07/YouTube/Study/Shader Basics, Blending & Textures • Shaders for Game Devs - Part 1.md": {
+      "mtime": 1737398138411,
+      "wordCount": 350,
+      "fileSize": 2788
+    },
+    "07/YouTube/Study/I wish I knew this before using Geometry Nodes (Blender).md": {
+      "mtime": 1730451650205,
+      "wordCount": 18430,
+      "fileSize": 122405
+    },
+    "07/YouTube/Study/Interpolation & Velocity • Math for Game Devs - Part 4.md": {
+      "mtime": 1736777094070,
+      "wordCount": 273,
+      "fileSize": 2328
+    },
+    "07/YouTube/Study/Normal Maps, Tangent Space & IBL • Shaders for Game Devs - Part 3.md": {
+      "mtime": 1736776877232,
+      "wordCount": 280,
+      "fileSize": 2336
+    },
+    "07/YouTube/Study/Healthbars, SDFs & Lighting • Shaders for Game Devs - Part 2.md": {
+      "mtime": 1737396893835,
+      "wordCount": 298,
+      "fileSize": 2532
+    },
+    "07/YouTube/Study/Create Custom Material Node Groups in Blender for Beginners (Ultimate Guide).md": {
+      "mtime": 1730451650143,
+      "wordCount": 20741,
+      "fileSize": 129977
+    },
+    "07/YouTube/Study/Every Compositor Node in Blender 2.83 Explained in One Video.md": {
+      "mtime": 1730451650168,
+      "wordCount": 158,
+      "fileSize": 1383
+    },
+    "07/YouTube/Study/Color Management for CGI Artists.md": {
+      "mtime": 1736781687222,
+      "wordCount": 243,
+      "fileSize": 1918
+    },
+    "07/YouTube/Study/Blender Procedural Nodes LEVEL 1 - FULL COURSE.md": {
+      "mtime": 1737397163333,
+      "wordCount": 84,
+      "fileSize": 869
+    },
+    "07/YouTube/Study/All 80+ Blender material nodes explained in under 30 minutes.md": {
+      "mtime": 1736781607755,
+      "wordCount": 6579,
+      "fileSize": 48514
+    },
+    "07/YouTube/Study/All 50+ Modifiers in Blender Explained in 30 Minutes or Less.md": {
+      "mtime": 1736781607735,
+      "wordCount": 7936,
+      "fileSize": 53610
+    },
+    "07/YouTube/Study/Blender Shader Nodes (beginner ➤ advanced).md": {
+      "mtime": 1736776239390,
+      "wordCount": 64,
+      "fileSize": 696
+    },
+    "07/YouTube/Study/3D USD Masterclass Scene Assembly and Rendering.md": {
+      "mtime": 1736781725057,
+      "wordCount": 297,
+      "fileSize": 2227
+    },
+    "07/YouTube/Animation/Rigging for impatient people - Blender Tutorial.md": {
+      "mtime": 1736781988792,
+      "wordCount": 2549,
+      "fileSize": 17928
+    },
+    "07/YouTube/Animation/Straight Ahead Animation Workflow.md": {
+      "mtime": 1736772733434,
+      "wordCount": 184,
+      "fileSize": 1534
+    },
+    "07/YouTube/Animation/Simple 2 Controller Setup for Lipsync.md": {
+      "mtime": 1736781988562,
+      "wordCount": 121,
+      "fileSize": 1226
+    },
+    "07/YouTube/Animation/Pose to Pose  Blender Animation Workflow for beginners.md": {
+      "mtime": 1736772706066,
+      "wordCount": 223,
+      "fileSize": 1760
+    },
+    "07/YouTube/Animation/Pimp Your Motion — Top Tricks on Lettering Animation.md": {
+      "mtime": 1736772434700,
+      "wordCount": 2492,
+      "fileSize": 21180
+    },
+    "07/YouTube/Animation/My character animation secrets.md": {
+      "mtime": 1736781607624,
+      "wordCount": 4312,
+      "fileSize": 34961
+    },
+    "07/YouTube/Animation/Animating LEGS (Walk Cycles and Weight) - Doodley.md": {
+      "mtime": 1736772635471,
+      "wordCount": 179,
+      "fileSize": 1990
+    },
+    "07/YouTube/Animation/Layered Animation Blender Tutorial for Beginners.md": {
+      "mtime": 1736772660593,
+      "wordCount": 183,
+      "fileSize": 1601
+    },
+    "07/YouTube/Animation/Full Body Action Blender Animation Tutorial.md": {
+      "mtime": 1736772525171,
+      "wordCount": 127,
+      "fileSize": 1180
+    },
+    "07/YouTube/Animation/Make your animation 10x better - Blender tutorial.md": {
+      "mtime": 1736781607527,
+      "wordCount": 384,
+      "fileSize": 3677
+    },
+    "07/YouTube/Animation/Animating ARMS (FK vs. IK) - Doodley.md": {
+      "mtime": 1736781988768,
+      "wordCount": 192,
+      "fileSize": 1851
+    },
+    "07/YouTube/Animation/3D Tutorial Walk Cycles - Doodley.md": {
+      "mtime": 1736772609409,
+      "wordCount": 244,
+      "fileSize": 2164
+    },
+    "07/My/ZBrush 002 - sculpt.md": {
+      "mtime": 1737398047091,
+      "wordCount": 108,
+      "fileSize": 1029
+    },
+    "07/My/ZBrush 004 - paint.md": {
+      "mtime": 1737398054738,
+      "wordCount": 86,
+      "fileSize": 903
+    },
+    "07/My/Verdant Gecko - Short Blender 3D Animation.md": {
+      "mtime": 1730451816401,
+      "wordCount": 125,
+      "fileSize": 1095
+    },
+    "07/My/ZBrush 003 - sculpt.md": {
+      "mtime": 1737398050293,
+      "wordCount": 72,
+      "fileSize": 851
+    },
+    "07/My/Trying Womp 3D For The First Time 🦩 Pink Guy Speed Modeling - Part 1.md": {
+      "mtime": 1730451816414,
+      "wordCount": 141,
+      "fileSize": 1199
+    },
+    "07/My/Under the ground - Short Blender 3D Animation.md": {
+      "mtime": 1730451816385,
+      "wordCount": 129,
+      "fileSize": 1215
+    },
+    "07/My/Talking Head - Wireframe animation test.md": {
+      "mtime": 1737398038255,
+      "wordCount": 65,
+      "fileSize": 821
+    },
+    "07/My/Talking Head - Draft animation test.md": {
+      "mtime": 1737398035218,
+      "wordCount": 65,
+      "fileSize": 817
+    },
+    "07/My/Talking Head - AOVs comped render test.md": {
+      "mtime": 1737398028848,
+      "wordCount": 66,
+      "fileSize": 820
+    },
+    "07/My/Talking Head - AOVs comped render test for The Donuts video.md": {
+      "mtime": 1737398032364,
+      "wordCount": 70,
+      "fileSize": 841
+    },
+    "07/My/Stylized Illustration Speed Modeling in Blender 3D ✏️ Silly doodles drawing process.md": {
+      "mtime": 1730451816380,
+      "wordCount": 199,
+      "fileSize": 1583
+    },
+    "07/My/Spooky Donuts - Blender 3D Animation.md": {
+      "mtime": 1737398023850,
+      "wordCount": 155,
+      "fileSize": 1293
+    },
+    "07/My/Scales - Short Blender 3D Animation.md": {
+      "mtime": 1730451816374,
+      "wordCount": 90,
+      "fileSize": 956
+    },
+    "07/My/Random color palette generator  Gradient color palette - Blender 3D Animation.md": {
+      "mtime": 1730451816366,
+      "wordCount": 121,
+      "fileSize": 1086
+    },
+    "07/My/Pink Guy Speed Modeling - Part 2 🦩Womp + Blender 3D.md": {
+      "mtime": 1730451816409,
+      "wordCount": 195,
+      "fileSize": 1512
+    },
+    "07/My/Not a blenderdonut 3danimation.md": {
+      "mtime": 1737398005204,
+      "wordCount": 158,
+      "fileSize": 1330
+    },
+    "07/My/Pink Guy - Blender And Womp 3D Animation.md": {
+      "mtime": 1730451816361,
+      "wordCount": 145,
+      "fileSize": 1341
+    },
+    "07/My/My Pathetic Attempt to Make a Talking Head Style Video - Blender 3D Animation.md": {
+      "mtime": 1737398000019,
+      "wordCount": 170,
+      "fileSize": 1571
+    },
+    "07/My/My Chaotic Modeling and Animation Process in Blender 3D 🍩 Blender Donut attempt №3.2.md": {
+      "mtime": 1737397997213,
+      "wordCount": 294,
+      "fileSize": 2073
+    },
+    "07/My/Isometric Floating Island Speed Modeling in Blender 3D.md": {
+      "mtime": 1730451816350,
+      "wordCount": 208,
+      "fileSize": 1602
+    },
+    "07/My/Importing staff into Maya.md": {
+      "mtime": 1737397966351,
+      "wordCount": 64,
+      "fileSize": 812
+    },
+    "07/My/From 2D to 3D Character Speed Modeling in Blender 🔥 Fairy From Asinastra's DTIYS Challenge.md": {
+      "mtime": 1730451816357,
+      "wordCount": 342,
+      "fileSize": 2344
+    },
+    "07/My/Ground Layers Speed Modeling In Blender 3D 💀 Buried dinosaur skull.md": {
+      "mtime": 1730451816344,
+      "wordCount": 153,
+      "fileSize": 1352
+    },
+    "07/My/from womp to blender3d modeling process.md": {
+      "mtime": 1737397960291,
+      "wordCount": 97,
+      "fileSize": 1012
+    },
+    "07/My/Cute Little Snake Speed Modeling in Blender 3D 🐍 Scales simple particle system.md": {
+      "mtime": 1730451816321,
+      "wordCount": 150,
+      "fileSize": 1325
+    },
+    "07/My/Female Face Expressions - ZBrush Sculpt Blender 3D Animation.md": {
+      "mtime": 1737397951650,
+      "wordCount": 164,
+      "fileSize": 1406
+    },
+    "07/My/Cartoony Hands - Blender 3D Animation.md": {
+      "mtime": 1737397946582,
+      "wordCount": 111,
+      "fileSize": 1152
+    },
+    "07/My/Blender 3D AOVs Compositing Animation.md": {
+      "mtime": 1737397942706,
+      "wordCount": 87,
+      "fileSize": 971
+    },
+    "07/My/Birthday Cake Speed Modeling in Blender 3D 🎂 I didn't got the real cake so I modeled one.md": {
+      "mtime": 1737397939412,
+      "wordCount": 211,
+      "fileSize": 1605
+    },
+    "07/My/A little cartoony hands stopmotionanimation made in blender3d.md": {
+      "mtime": 1737397935020,
+      "wordCount": 99,
+      "fileSize": 1139
+    },
+    "06 Plan/06/Project.md": {
+      "mtime": 1737440529684,
+      "wordCount": 73,
+      "fileSize": 386
+    },
+    "06 Plan/06/Week.md": {
+      "mtime": 1737440529692,
+      "wordCount": 48,
+      "fileSize": 291
+    },
+    "06 Plan/06/Plan.md": {
+      "mtime": 1737440529678,
+      "wordCount": 33,
+      "fileSize": 204
+    },
+    "06 Plan/06/Month.md": {
+      "mtime": 1737440529671,
+      "wordCount": 28,
+      "fileSize": 282
+    },
+    "06 Plan/06/Goal.md": {
+      "mtime": 1737440529660,
+      "wordCount": 31,
+      "fileSize": 182
+    },
+    "06 Plan/06/Kanban.md": {
+      "mtime": 1737440529665,
+      "wordCount": 19,
+      "fileSize": 889
+    },
+    "06 Plan/05/02/ZBrush.md": {
+      "mtime": 1737440529652,
+      "wordCount": 92,
+      "fileSize": 624
+    },
+    "06 Plan/05/02/Substanse painter.md": {
+      "mtime": 1737440529646,
+      "wordCount": 113,
+      "fileSize": 785
+    },
+    "06 Plan/05/02/Natron.md": {
+      "mtime": 1737440529632,
+      "wordCount": 43,
+      "fileSize": 300
+    },
+    "06 Plan/05/02/Maya.md": {
+      "mtime": 1737440529626,
+      "wordCount": 122,
+      "fileSize": 781
+    },
+    "06 Plan/05/02/Marmoset Toolbag.md": {
+      "mtime": 1737440529619,
+      "wordCount": 63,
+      "fileSize": 391
+    },
+    "06 Plan/05/02/Substanse Designer.md": {
+      "mtime": 1737440529640,
+      "wordCount": 40,
+      "fileSize": 310
+    },
+    "06 Plan/05/02/KeyShot.md": {
+      "mtime": 1737440529614,
+      "wordCount": 25,
+      "fileSize": 171
+    },
+    "06 Plan/05/02/Houdini.md": {
+      "mtime": 1737440529608,
+      "wordCount": 70,
+      "fileSize": 493
+    },
+    "06 Plan/05/02/Blackmagic Fusion.md": {
+      "mtime": 1737440529595,
+      "wordCount": 34,
+      "fileSize": 219
+    },
+    "06 Plan/05/02/Blender 3D.md": {
+      "mtime": 1737440529602,
+      "wordCount": 148,
+      "fileSize": 960
+    },
+    "06 Plan/05/02/After Effects.md": {
+      "mtime": 1737440529588,
+      "wordCount": 108,
+      "fileSize": 706
+    },
+    "06 Plan/05/01/Textures.md": {
+      "mtime": 1737440529576,
+      "wordCount": 135,
+      "fileSize": 882
+    },
+    "06 Plan/05/01/Hard Surface.md": {
+      "mtime": 1737440529562,
+      "wordCount": 152,
+      "fileSize": 903
+    },
+    "06 Plan/05/01/USD.md": {
+      "mtime": 1737440529581,
+      "wordCount": 5,
+      "fileSize": 25
+    },
+    "06 Plan/05/01/Low-Poly.md": {
+      "mtime": 1737440529571,
+      "wordCount": 32,
+      "fileSize": 219
+    },
+    "06 Plan/05/00/Sculpting.md": {
+      "mtime": 1737440529556,
+      "wordCount": 104,
+      "fileSize": 675
+    },
+    "06 Plan/05/00/Modeling.md": {
+      "mtime": 1737440529549,
+      "wordCount": 134,
+      "fileSize": 795
+    },
+    "06 Plan/05/00/Compositing.md": {
+      "mtime": 1737440529542,
+      "wordCount": 152,
+      "fileSize": 939
+    },
+    "06 Plan/05/00/Animation.md": {
+      "mtime": 1737440529528,
+      "wordCount": 274,
+      "fileSize": 1698
+    },
+    "06 Plan/05/00/Characters.md": {
+      "mtime": 1737440529535,
+      "wordCount": 225,
+      "fileSize": 1359
+    },
+    "06 Plan/Ideas.md": {
+      "mtime": 1737440529697,
+      "wordCount": 84,
+      "fileSize": 354
+    },
+    "06 Plan/04/Contests.md": {
+      "mtime": 1737440529512,
+      "wordCount": 42,
+      "fileSize": 249
+    },
+    "06 Plan/04/To Read.md": {
+      "mtime": 1737440529520,
+      "wordCount": 247,
+      "fileSize": 1061
+    },
+    "06 Plan/03/2024-W39.md": {
+      "mtime": 1737440529496,
+      "wordCount": 113,
+      "fileSize": 698
+    },
+    "06 Plan/03/2024-W38.md": {
+      "mtime": 1737440529480,
+      "wordCount": 137,
+      "fileSize": 859
+    },
+    "06 Plan/03/2024-W37.md": {
+      "mtime": 1737440529462,
+      "wordCount": 253,
+      "fileSize": 1509
+    },
+    "06 Plan/03/2024-W36.md": {
+      "mtime": 1737440529444,
+      "wordCount": 118,
+      "fileSize": 737
+    },
+    "06 Plan/03/2024-W35.md": {
+      "mtime": 1737440529409,
+      "wordCount": 148,
+      "fileSize": 873
+    },
+    "06 Plan/03/2024-W34.md": {
+      "mtime": 1737440529426,
+      "wordCount": 230,
+      "fileSize": 1329
+    },
+    "06 Plan/02/25.01.January.md": {
+      "mtime": 1737440529401,
+      "wordCount": 295,
+      "fileSize": 2450
+    },
+    "06 Plan/02/24.12.December.md": {
+      "mtime": 1737440529394,
+      "wordCount": 37,
+      "fileSize": 244
+    },
+    "06 Plan/02/24.11.November.md": {
+      "mtime": 1737440529388,
+      "wordCount": 98,
+      "fileSize": 1424
+    },
+    "06 Plan/02/24.10.October.md": {
+      "mtime": 1737440529381,
+      "wordCount": 120,
+      "fileSize": 792
+    },
+    "06 Plan/02/24.09.September.md": {
+      "mtime": 1737440529369,
+      "wordCount": 344,
+      "fileSize": 3241
+    },
+    "06 Plan/02/24.08.August.md": {
+      "mtime": 1737440529361,
+      "wordCount": 205,
+      "fileSize": 2142
+    },
+    "06 Plan/01/Goals.md": {
+      "mtime": 1737440529349,
+      "wordCount": 31,
+      "fileSize": 275
+    },
+    "06 Plan/01/Months.md": {
+      "mtime": 1737440529354,
+      "wordCount": 117,
+      "fileSize": 1597
+    },
+    "06 Plan/01/2025.md": {
+      "mtime": 1737440529345,
+      "wordCount": 19,
+      "fileSize": 150
+    },
+    "06 Plan/01/2024.md": {
+      "mtime": 1737440529340,
+      "wordCount": 27,
+      "fileSize": 258
+    },
+    "06 Plan/00/The Rookies.md": {
+      "mtime": 1737440529329,
+      "wordCount": 737,
+      "fileSize": 4769
+    },
+    "06 Plan/00/Rookie of the Year - 3D Animation.md": {
+      "mtime": 1737440529316,
+      "wordCount": 447,
+      "fileSize": 3303
+    },
+    "06 Plan/00/What should I animate - pt.2 exercises.md": {
+      "mtime": 1737440529335,
+      "wordCount": 552,
+      "fileSize": 4732
+    },
+    "06 Plan/00/What should I animate - pt.1 demo reel.md": {
+      "mtime": 1737440529324,
+      "wordCount": 1957,
+      "fileSize": 12458
+    },
+    "06 Plan/00/Rookie Awards.md": {
+      "mtime": 1737440529310,
+      "wordCount": 2901,
+      "fileSize": 20174
+    },
+    "06 Plan/00/Animation exercises.md": {
+      "mtime": 1737440528525,
+      "wordCount": 2642,
+      "fileSize": 15205
+    },
+    "06 Plan/00/All 3D Courses.md": {
+      "mtime": 1737440528315,
+      "wordCount": 1111,
+      "fileSize": 7824
+    },
+    "06 Plan/00/3D Modeling Foundations.md": {
+      "mtime": 1737440528288,
+      "wordCount": 739,
+      "fileSize": 4772
+    },
+    "06 Plan/00/3D Modeling Degree.md": {
+      "mtime": 1737440528270,
+      "wordCount": 3081,
+      "fileSize": 23138
+    },
+    "06 Plan/00/3D Modeling Essentials.md": {
+      "mtime": 1737440528280,
+      "wordCount": 2754,
+      "fileSize": 30591
+    },
+    "06 Plan/00/3D Modeler Specialization.md": {
+      "mtime": 1737440528261,
+      "wordCount": 663,
+      "fileSize": 4307
+    },
+    "06 Plan/00/3D Animator Specialization.md": {
+      "mtime": 1737440528253,
+      "wordCount": 1954,
+      "fileSize": 13740
+    },
+    "06 Plan/00/3D Animation Foundations.md": {
+      "mtime": 1737440528241,
+      "wordCount": 730,
+      "fileSize": 4670
+    },
+    "06 Plan/00/3D Animation Degree.md": {
+      "mtime": 1737440528231,
+      "wordCount": 2663,
+      "fileSize": 20515
+    },
+    "05 Notes/Mental/Non-negotiables, narcissistic people, and boundaries.md": {
+      "mtime": 1737440556602,
+      "wordCount": 1407,
+      "fileSize": 8423
+    },
+    "05 Notes/Mental/My inner child thinks.md": {
+      "mtime": 1737440556592,
+      "wordCount": 1541,
+      "fileSize": 9112
+    },
+    "05 Notes/Mental/Helping the inner child heal from being the family scapegoat.md": {
+      "mtime": 1737440556579,
+      "wordCount": 637,
+      "fileSize": 3923
+    },
+    "05 Notes/Mental/CHILDHOOD PTSD QUESTIONNAIRE.md": {
+      "mtime": 1737440556565,
+      "wordCount": 914,
+      "fileSize": 5070
+    },
+    "05 Notes/Mental/Anxiety & Depression Workbook.md": {
+      "mtime": 1737440556557,
+      "wordCount": 1693,
+      "fileSize": 9177
+    },
+    "05 Notes/Graphic Design Resources.md": {
+      "mtime": 1737440556549,
+      "wordCount": 877,
+      "fileSize": 18199
+    },
+    "05 Notes/3D/50 terms.md": {
+      "mtime": 1737440556433,
+      "wordCount": 295,
+      "fileSize": 5153
+    },
+    "05 Notes/3D/Mouth Animation.md": {
+      "mtime": 1737440556451,
+      "wordCount": 362,
+      "fileSize": 2059
+    },
+    "05 Notes/3D/Eevee settings.md": {
+      "mtime": 1737440556442,
+      "wordCount": 224,
+      "fileSize": 1294
+    },
+    "05 Notes/3D/The Secret Behind Photorealistic And Stylized Graphics.Note.md": {
+      "mtime": 1737440556462,
+      "wordCount": 2673,
+      "fileSize": 18789
+    },
+    "05 Notes/3D/3D USD Masterclass Scene Assembly and Rendering.Note.md": {
+      "mtime": 1737440555815,
+      "wordCount": 279,
+      "fileSize": 1654
+    },
+    "05 Notes/Science/Vectors & Dot Product • Math for Game Devs - Part 1.Note.md": {
+      "mtime": 1737440556610,
+      "wordCount": 253,
+      "fileSize": 1647
+    },
+    "05 Notes/Excalidraw/Vectors & Dot Product • Math for Game Devs.excalidraw.md": {
+      "mtime": 1737440556541,
+      "wordCount": 431,
+      "fileSize": 69839
+    },
+    "05 Notes/Excalidraw/The Secret Behind Photorealistic And Stylized Graphics.excalidraw.md": {
+      "mtime": 1737440556535,
+      "wordCount": 1359,
+      "fileSize": 312975
+    },
+    "05 Notes/Animation/The Trickiest Animation Principle, Simplified.Note.md": {
+      "mtime": 1737440556513,
+      "wordCount": 378,
+      "fileSize": 2635
+    },
+    "05 Notes/Animation/The Three Biggest Ideas in Animation.Note.md": {
+      "mtime": 1737440556504,
+      "wordCount": 294,
+      "fileSize": 2060
+    },
+    "05 Notes/Animation/How to Keyframe Like a Pro! (Animation process for any software).Note.md": {
+      "mtime": 1737440556486,
+      "wordCount": 91,
+      "fileSize": 847
+    },
+    "05 Notes/Animation/Should you PLAN your animation.Note.md": {
+      "mtime": 1737440556495,
+      "wordCount": 165,
+      "fileSize": 1075
+    },
+    "05 Notes/Animation/Animation Basics in 14 Minutes (6 Big ideas for beginners).Note.md": {
+      "mtime": 1737440556477,
+      "wordCount": 851,
+      "fileSize": 5625
+    },
+    "04 Projects/To-Do/PDF portfolio.md": {
+      "mtime": 1726231299291,
+      "wordCount": 5,
+      "fileSize": 16
+    },
+    "04 Projects/To-Do/Monster Challenge.md": {
+      "mtime": 1726231299294,
+      "wordCount": 1096,
+      "fileSize": 6935
+    },
+    "04 Projects/To-Do/Pokemons.md": {
+      "mtime": 1726428761867,
+      "wordCount": 15,
+      "fileSize": 78
+    },
+    "04 Projects/To-Do/Demo Reel.md": {
+      "mtime": 1726428761854,
+      "wordCount": 63,
+      "fileSize": 285
+    },
+    "04 Projects/To-Do/D&D.md": {
+      "mtime": 1727183495699,
+      "wordCount": 1,
+      "fileSize": 0
+    },
+    "04 Projects/To-Do/100 projects.md": {
+      "mtime": 1727183519636,
+      "wordCount": 1,
+      "fileSize": 0
+    },
+    "04 Projects/To-Do/30 renders.md": {
+      "mtime": 1726231299250,
+      "wordCount": 94,
+      "fileSize": 553
+    },
+    "04 Projects/Sculptober.md": {
+      "mtime": 1737398634473,
+      "wordCount": 448,
+      "fileSize": 2968
+    },
+    "04 Projects/Portfolio/Talking Head.md": {
+      "mtime": 1737390704240,
+      "wordCount": 204,
+      "fileSize": 1139
+    },
+    "04 Projects/Portfolio/Resting Pieces.md": {
+      "mtime": 1732705584609,
+      "wordCount": 307,
+      "fileSize": 2184
+    },
+    "04 Projects/Portfolio/Meet Meat.md": {
+      "mtime": 1736093369889,
+      "wordCount": 1334,
+      "fileSize": 13991
+    },
+    "04 Projects/Portfolio/Animated character.md": {
+      "mtime": 1726428761845,
+      "wordCount": 122,
+      "fileSize": 776
+    },
+    "04 Projects/Done/Womp 3D.md": {
+      "mtime": 1726428761828,
+      "wordCount": 207,
+      "fileSize": 1437
+    },
+    "04 Projects/Done/Meet Mat 4.md": {
+      "mtime": 1730736220637,
+      "wordCount": 2843,
+      "fileSize": 19717
+    },
+    "04 Projects/Done/Maya Statue.md": {
+      "mtime": 1730450299605,
+      "wordCount": 49,
+      "fileSize": 265
+    },
+    "04 Projects/Done/ED Brochure.md": {
+      "mtime": 1733667924017,
+      "wordCount": 1071,
+      "fileSize": 6569
+    },
+    "04 Projects/Done/Character Design Contest.md": {
+      "mtime": 1731334716009,
+      "wordCount": 695,
+      "fileSize": 4620
+    },
+    "04 Projects/Done/Blender Donut.md": {
+      "mtime": 1737390736716,
+      "wordCount": 431,
+      "fileSize": 2467
+    },
+    "04 Projects/Brain threads.md": {
+      "mtime": 1730966333581,
+      "wordCount": 549,
+      "fileSize": 15303
+    },
+    "03 Code/Portfolio.html.md": {
+      "mtime": 1736780567019,
+      "wordCount": 6384,
+      "fileSize": 125544
+    },
+    "03 Code/index.html.md": {
+      "mtime": 1721746480379,
+      "wordCount": 47,
+      "fileSize": 408
+    },
+    "03 Code/Code blocks.md": {
+      "mtime": 1720885472298,
+      "wordCount": 156,
+      "fileSize": 818
+    },
+    "01 Maps/Topics/The Hitchhiker's Guide to Digital Colour.md": {
+      "mtime": 1736614101371,
+      "wordCount": 126,
+      "fileSize": 824
+    },
+    "01 Maps/Topics/Color Management.md": {
+      "mtime": 1736614116658,
+      "wordCount": 50,
+      "fileSize": 307
+    },
+    "01 Maps/YouTube/Playlist/Ultimate Beginner's Guide to Creating 3D Stylized Environments.md": {
+      "mtime": 1736774389814,
+      "wordCount": 102,
+      "fileSize": 780
+    },
+    "01 Maps/YouTube/Playlist/The Creature Design Workshop.md": {
+      "mtime": 1736779869757,
+      "wordCount": 123,
+      "fileSize": 991
+    },
+    "01 Maps/YouTube/Playlist/Stylized Character Bust.md": {
+      "mtime": 1736779880054,
+      "wordCount": 30,
+      "fileSize": 394
+    },
+    "01 Maps/YouTube/Playlist/Rigid Body Dynamics.md": {
+      "mtime": 1736781607367,
+      "wordCount": 285,
+      "fileSize": 3180
+    },
+    "01 Maps/YouTube/Playlist/Rigging Characters in Blender.md": {
+      "mtime": 1736781988482,
+      "wordCount": 30,
+      "fileSize": 315
+    },
+    "01 Maps/YouTube/Playlist/Natron Compositor Tutorials.md": {
+      "mtime": 1736614153942,
+      "wordCount": 7,
+      "fileSize": 94
+    },
+    "01 Maps/YouTube/Playlist/Modeling for Animation!.md": {
+      "mtime": 1736779925198,
+      "wordCount": 147,
+      "fileSize": 1105
+    },
+    "01 Maps/YouTube/Playlist/Mantaflow.md": {
+      "mtime": 1736781607153,
+      "wordCount": 33,
+      "fileSize": 275
+    },
+    "01 Maps/YouTube/Playlist/LuxCore Render for Blender.md": {
+      "mtime": 1736781607051,
+      "wordCount": 39,
+      "fileSize": 309
+    },
+    "01 Maps/YouTube/Playlist/LookdevX.md": {
+      "mtime": 1736781624966,
+      "wordCount": 51,
+      "fileSize": 570
+    },
+    "01 Maps/YouTube/Playlist/Getting Started with Substance Painter 2021.md": {
+      "mtime": 1736781228268,
+      "wordCount": 44,
+      "fileSize": 504
+    },
+    "01 Maps/YouTube/Playlist/Get Good at Blender.md": {
+      "mtime": 1736781606906,
+      "wordCount": 341,
+      "fileSize": 3028
+    },
+    "01 Maps/YouTube/Playlist/Get Good at Blender 2.8.md": {
+      "mtime": 1736781606872,
+      "wordCount": 62,
+      "fileSize": 609
+    },
+    "01 Maps/YouTube/Playlist/Geometry Nodes For Beginners - Blender 3D.md": {
+      "mtime": 1736779846590,
+      "wordCount": 531,
+      "fileSize": 3336
+    },
+    "01 Maps/YouTube/Playlist/Game Ready 3D Enemy Minion.md": {
+      "mtime": 1736781495389,
+      "wordCount": 54,
+      "fileSize": 598
+    },
+    "01 Maps/YouTube/Playlist/Full VFX Course - Houdini Is Hip.md": {
+      "mtime": 1736781635965,
+      "wordCount": 88,
+      "fileSize": 703
+    },
+    "01 Maps/YouTube/Playlist/Creating Backgrounds.md": {
+      "mtime": 1736780184852,
+      "wordCount": 233,
+      "fileSize": 3741
+    },
+    "01 Maps/YouTube/Playlist/Demo reel dash.md": {
+      "mtime": 1736780060786,
+      "wordCount": 26,
+      "fileSize": 314
+    },
+    "01 Maps/YouTube/Playlist/Creating a Mega Character.md": {
+      "mtime": 1736782227987,
+      "wordCount": 115,
+      "fileSize": 1016
+    },
+    "01 Maps/YouTube/Playlist/CGI for Product Advertising.md": {
+      "mtime": 1736780110450,
+      "wordCount": 433,
+      "fileSize": 3484
+    },
+    "01 Maps/YouTube/Playlist/Bespoke Synth - Modular DAW Tutorials and Projects.md": {
+      "mtime": 1736780131988,
+      "wordCount": 195,
+      "fileSize": 1619
+    },
+    "01 Maps/YouTube/Playlist/Animated Content Creation.md": {
+      "mtime": 1736780148271,
+      "wordCount": 37,
+      "fileSize": 448
+    },
+    "01 Maps/YouTube/Playlist/Anatomy Quick Tips.md": {
+      "mtime": 1736780174196,
+      "wordCount": 236,
+      "fileSize": 3162
+    },
+    "01 Maps/YouTube/Channels/Daniel Krafft.md": {
+      "mtime": 1737397269257,
+      "wordCount": 56,
+      "fileSize": 422
+    },
+    "01 Maps/YouTube/Channels/TipTut.md": {
+      "mtime": 1737397796502,
+      "wordCount": 59,
+      "fileSize": 384
+    },
+    "01 Maps/YouTube/Channels/SouthernShotty.md": {
+      "mtime": 1736614142351,
+      "wordCount": 60,
+      "fileSize": 420
+    },
+    "01 Maps/YouTube/Channels/Stylized Station.md": {
+      "mtime": 1737397613868,
+      "wordCount": 60,
+      "fileSize": 426
+    },
+    "01 Maps/YouTube/Channels/Nexttut.md": {
+      "mtime": 1737397565032,
+      "wordCount": 82,
+      "fileSize": 524
+    },
+    "01 Maps/YouTube/Channels/sociamix.md": {
+      "mtime": 1736614142358,
+      "wordCount": 61,
+      "fileSize": 400
+    },
+    "01 Maps/YouTube/Channels/Phoerens.md": {
+      "mtime": 1736614142346,
+      "wordCount": 118,
+      "fileSize": 797
+    },
+    "01 Maps/YouTube/Channels/Lightning Boy Studio.md": {
+      "mtime": 1737397478544,
+      "wordCount": 63,
+      "fileSize": 435
+    },
+    "01 Maps/YouTube/Channels/New Plastic.md": {
+      "mtime": 1736614142333,
+      "wordCount": 64,
+      "fileSize": 410
+    },
+    "01 Maps/YouTube/Channels/Motion Design School.md": {
+      "mtime": 1737397516181,
+      "wordCount": 62,
+      "fileSize": 434
+    },
+    "01 Maps/YouTube/Channels/Joey Carlino.md": {
+      "mtime": 1736614142310,
+      "wordCount": 62,
+      "fileSize": 416
+    },
+    "01 Maps/YouTube/Channels/Grant Abbitt.md": {
+      "mtime": 1737397432363,
+      "wordCount": 49,
+      "fileSize": 347
+    },
+    "01 Maps/YouTube/Channels/Freya Holmér.md": {
+      "mtime": 1737397397098,
+      "wordCount": 61,
+      "fileSize": 414
+    },
+    "01 Maps/YouTube/Channels/FlippedNormals.md": {
+      "mtime": 1736614142306,
+      "wordCount": 60,
+      "fileSize": 418
+    },
+    "01 Maps/YouTube/Channels/Dédouze.md": {
+      "mtime": 1737397321901,
+      "wordCount": 58,
+      "fileSize": 410
+    },
+    "01 Maps/YouTube/Channels/Doodley.md": {
+      "mtime": 1736614142284,
+      "wordCount": 61,
+      "fileSize": 399
+    },
+    "01 Maps/YouTube/Channels/Dikko.md": {
+      "mtime": 1736774288043,
+      "wordCount": 74,
+      "fileSize": 477
+    },
+    "01 Maps/YouTube/Channels/CrossMind Studio.md": {
+      "mtime": 1736614142267,
+      "wordCount": 114,
+      "fileSize": 708
+    },
+    "01 Maps/YouTube/Channels/CGMatter.md": {
+      "mtime": 1737397227170,
+      "wordCount": 60,
+      "fileSize": 416
+    },
+    "01 Maps/YouTube/Channels/Alex on Story.md": {
+      "mtime": 1737397039477,
+      "wordCount": 64,
+      "fileSize": 426
+    },
+    "01 Maps/YouTube/Channels/Abe Leal 3D.md": {
+      "mtime": 1737397549349,
+      "wordCount": 70,
+      "fileSize": 466
+    },
+    "01 Maps/YouTube/Channels/3dEx.md": {
+      "mtime": 1737396913683,
+      "wordCount": 56,
+      "fileSize": 360
+    },
+    "01 Maps/Tags/video animation.md": {
+      "mtime": 1736614350771,
+      "wordCount": 25,
+      "fileSize": 168
+    },
+    "01 Maps/Tags/YouTube.md": {
+      "mtime": 1736077108967,
+      "wordCount": 26,
+      "fileSize": 148
+    },
+    "01 Maps/Tags/video 3D.md": {
+      "mtime": 1736775239508,
+      "wordCount": 29,
+      "fileSize": 175
+    },
+    "01 Maps/Tags/project.md": {
+      "mtime": 1737412693536,
+      "wordCount": 25,
+      "fileSize": 142
+    },
+    "01 Maps/Tags/playlist.md": {
+      "mtime": 1736614241274,
+      "wordCount": 40,
+      "fileSize": 269
+    },
+    "01 Maps/Tags/channel.md": {
+      "mtime": 1737397831576,
+      "wordCount": 41,
+      "fileSize": 288
+    },
+    "01 Maps/Themes/Tags.md": {
+      "mtime": 1736782626674,
+      "wordCount": 199,
+      "fileSize": 1696
+    },
+    "01 Maps/Themes/Resources.md": {
+      "mtime": 1736077123036,
+      "wordCount": 6,
+      "fileSize": 29
+    },
+    "01 Maps/Themes/Notes.md": {
+      "mtime": 1737412534418,
+      "wordCount": 12,
+      "fileSize": 67
+    },
+    "02 Review/Skincare/Other.md": {
+      "mtime": 1737406837587,
+      "wordCount": 73,
+      "fileSize": 1095
+    },
+    "02 Review/Skincare/Skincare products.md": {
+      "mtime": 1737408707498,
+      "wordCount": 90,
+      "fileSize": 643
+    },
+    "02 Review/Skincare/Onme.md": {
+      "mtime": 1737406785789,
+      "wordCount": 85,
+      "fileSize": 1375
+    },
+    "02 Review/Skincare/Art&Fact.md": {
+      "mtime": 1737408187478,
+      "wordCount": 481,
+      "fileSize": 3194
+    },
+    "02 Review/Skincare/New.md": {
+      "mtime": 1721746491575,
+      "wordCount": 22,
+      "fileSize": 127
+    },
+    "02 Review/Skincare/Icon Skin.md": {
+      "mtime": 1737406776769,
+      "wordCount": 146,
+      "fileSize": 1512
+    },
+    "02 Review/Products/SPF 30+.md": {
+      "mtime": 1737405545861,
+      "wordCount": 22,
+      "fileSize": 148
+    },
+    "02 Review/Products/Vitamin C 15% + Rosmarinus Officinalis Water 1% + Argireline 0,5% + Aloe Barbadensis Leaf Juice 0,5%.md": {
+      "mtime": 1737405804068,
+      "wordCount": 47,
+      "fileSize": 323
+    },
+    "02 Review/Products/Salicylic Acid 2% + Zinc Oxide 0.5% + Hemisqualane 0.5% + Allantoin 0.2%.md": {
+      "mtime": 1737405580940,
+      "wordCount": 29,
+      "fileSize": 201
+    },
+    "02 Review/Products/Vitamin C + Matcha.md": {
+      "mtime": 1737405311919,
+      "wordCount": 16,
+      "fileSize": 143
+    },
+    "02 Review/Products/SYN-AKE 3% + Lecithin 3% + Hyaluronic Acid + Plant Extracts.md": {
+      "mtime": 1737405377342,
+      "wordCount": 27,
+      "fileSize": 184
+    },
+    "02 Review/Products/Retinol o,3% + Retinyl Palmitate o,3% + Caffeine 0,5%.md": {
+      "mtime": 1737405589317,
+      "wordCount": 25,
+      "fileSize": 180
+    },
+    "02 Review/Products/SPF 5O+.md": {
+      "mtime": 1737405557003,
+      "wordCount": 22,
+      "fileSize": 148
+    },
+    "02 Review/Products/Shine Is Niacinamide 10% + Retinol o.1%.md": {
+      "mtime": 1737406913779,
+      "wordCount": 16,
+      "fileSize": 137
+    },
+    "02 Review/Products/Salicylic Acid 2% + Urea 2% + Panthenol 2%.md": {
+      "mtime": 1737404568507,
+      "wordCount": 30,
+      "fileSize": 203
+    },
+    "02 Review/Products/Salicylic Acid 2% + Licorice Root Extract 3%.md": {
+      "mtime": 1737405696426,
+      "wordCount": 31,
+      "fileSize": 214
+    },
+    "02 Review/Products/Lactobionic Acid 3% + Lactic Acid 5% + Avocado Oil 0.5%.md": {
+      "mtime": 1737405510056,
+      "wordCount": 27,
+      "fileSize": 180
+    },
+    "02 Review/Products/Propolis Extract 10% + Shea Butter 3% + Urea 1% + Niacinamide 0.5%.md": {
+      "mtime": 1737405384491,
+      "wordCount": 29,
+      "fileSize": 191
+    },
+    "02 Review/Products/Retinol 1% + Collagen 1% + Beeswax 3%.md": {
+      "mtime": 1737405362453,
+      "wordCount": 24,
+      "fileSize": 160
+    },
+    "02 Review/Products/Probiotic Complex + Ceramide NG.md": {
+      "mtime": 1737405710275,
+      "wordCount": 27,
+      "fileSize": 196
+    },
+    "02 Review/Products/Prebiotic Complex + Niacinamide 1.5%.md": {
+      "mtime": 1737405370096,
+      "wordCount": 21,
+      "fileSize": 159
+    },
+    "02 Review/Products/Papain 5% + Allantoin 0.5%.md": {
+      "mtime": 1737405495975,
+      "wordCount": 23,
+      "fileSize": 169
+    },
+    "02 Review/Products/Niacinamide 5% + Retinol ,4% + Lactic Acid + Complex Of Amino Acids.md": {
+      "mtime": 1737405732744,
+      "wordCount": 41,
+      "fileSize": 263
+    },
+    "02 Review/Products/Niacinamid 10% + Zink 1%.md": {
+      "mtime": 1737405850551,
+      "wordCount": 25,
+      "fileSize": 174
+    },
+    "02 Review/Products/Laboratorium Ceramides Mask.md": {
+      "mtime": 1737406882065,
+      "wordCount": 14,
+      "fileSize": 141
+    },
+    "02 Review/Products/Matmarine 4% + Niacinamide 2% + Urea 2%.md": {
+      "mtime": 1737405880765,
+      "wordCount": 30,
+      "fileSize": 203
+    },
+    "02 Review/Products/Mandelic Acid 10%.md": {
+      "mtime": 1737405484225,
+      "wordCount": 17,
+      "fileSize": 117
+    },
+    "02 Review/Products/Kaolin 10% + Salicylic Acid 2.5% + Hemisqualane 9%.md": {
+      "mtime": 1737405391422,
+      "wordCount": 25,
+      "fileSize": 173
+    },
+    "02 Review/Products/Kaolin 5% + Lactic Acid 10% + Glycolic Acid 1%+ Tea Tree Essential Oil 0,1%.md": {
+      "mtime": 1737405454230,
+      "wordCount": 31,
+      "fileSize": 198
+    },
+    "02 Review/Products/Kaolin 11,5% + Niacinamide 2% + Sulfur 1,5% + Mandelic Acid + Lactic Acid.md": {
+      "mtime": 1737405404429,
+      "wordCount": 30,
+      "fileSize": 198
+    },
+    "02 Review/Products/Glycolic Acid 15% + Niacinamide 2% + Coconut Oil 2% + Shea Butter 1%.md": {
+      "mtime": 1737405398110,
+      "wordCount": 30,
+      "fileSize": 191
+    },
+    "02 Review/Products/Kaolin + Kojic Acid 1% + Niacinamide 1%.md": {
+      "mtime": 1737405411840,
+      "wordCount": 24,
+      "fileSize": 164
+    },
+    "02 Review/Products/Kaolin + Curcuma Extract + Calendula Extract.md": {
+      "mtime": 1737405444375,
+      "wordCount": 23,
+      "fileSize": 169
+    },
+    "02 Review/Products/Glycolic Acid 15% + Gluconolactone 3% + Lactic Acid 3% + Salicylic Acid 2%.md": {
+      "mtime": 1737405468861,
+      "wordCount": 30,
+      "fileSize": 201
+    },
+    "02 Review/Products/Glycolic Acid 10% + Salicylic Acid 0,5% + Lactic Acid.md": {
+      "mtime": 1737405461492,
+      "wordCount": 26,
+      "fileSize": 184
+    },
+    "02 Review/Products/Gluconolactone 1% + Niacinamide 1% + Aloe Barbadensis Leaf Juice 1,5%.md": {
+      "mtime": 1737405476593,
+      "wordCount": 27,
+      "fileSize": 200
+    },
+    "02 Review/Products/Galactomyces Ferment Filtrate 7% + Green Tea Extract 3%.md": {
+      "mtime": 1737405517309,
+      "wordCount": 25,
+      "fileSize": 184
+    },
+    "02 Review/Products/Glycine Soja Oil 3% + Macadamia Ternifolia Seed Oil 0.8% + Niacinamide 0.5% + Rhodiola Extract.md": {
+      "mtime": 1737405503868,
+      "wordCount": 32,
+      "fileSize": 219
+    },
+    "02 Review/Products/Collagen + Palmitoyl Tripeptide-1 +Chlorella Extract.md": {
+      "mtime": 1737405355098,
+      "wordCount": 22,
+      "fileSize": 177
+    },
+    "02 Review/Products/Blue Retinol 3% + Shea Butter 2% + Retinol 1.5%.md": {
+      "mtime": 1737405531992,
+      "wordCount": 26,
+      "fileSize": 176
+    },
+    "02 Review/Products/Art&Fact Lactobionic Acid 1% + Lactic Acid 2% + Hyaluronic Acid 0.1%.md": {
+      "mtime": 1737405675679,
+      "wordCount": 36,
+      "fileSize": 243
+    },
+    "02 Review/Products/Caffeine 3%.md": {
+      "mtime": 1737405597019,
+      "wordCount": 15,
+      "fileSize": 105
+    },
+    "02 Review/Products/Amono Acid Complex 2% + Vegetable Carbohydrates 1%.md": {
+      "mtime": 1737405336172,
+      "wordCount": 24,
+      "fileSize": 175
+    },
+    "02 Review/Products/Azelaic Acid Derivative.md": {
+      "mtime": 1737405613910,
+      "wordCount": 19,
+      "fileSize": 148
+    },
+    "02 Review/Products/Azulene 0.3% + Extract Complex + D-Pantenol.md": {
+      "mtime": 1737405322110,
+      "wordCount": 23,
+      "fileSize": 166
+    },
+    "02 Review/Products/Aloe Barbadensis Leaf Gel 4% + Niacinamid 3% + Vitamin C 2% + Lactic Acid 0.3% + Menthol.md": {
+      "mtime": 1737405346288,
+      "wordCount": 36,
+      "fileSize": 215
+    },
+    "02 Review/Products/3D Hyaluronic Acid.md": {
+      "mtime": 1737405606529,
+      "wordCount": 22,
+      "fileSize": 167
+    },
+    "02 Review/Products/3D Hyaluronic Acid 2% + Provitamin B5.md": {
+      "mtime": 1737405864289,
+      "wordCount": 29,
+      "fileSize": 204
+    },
+    "02 Review/Instagram.md": {
+      "mtime": 1721306740040,
+      "wordCount": 15,
+      "fileSize": 90
+    },
+    "02 Review/Food/Waffles.md": {
+      "mtime": 1721746512309,
+      "wordCount": 13,
+      "fileSize": 61
+    },
+    "02 Review/Food/tofu.md": {
+      "mtime": 1720090047367,
+      "wordCount": 13,
+      "fileSize": 60
+    },
+    "02 Review/Food/Toffee.md": {
+      "mtime": 1721582936234,
+      "wordCount": 13,
+      "fileSize": 61
+    },
+    "02 Review/Food/sunflower protein.md": {
+      "mtime": 1721746504191,
+      "wordCount": 13,
+      "fileSize": 62
+    },
+    "02 Review/Food/rice.md": {
+      "mtime": 1720090047347,
+      "wordCount": 13,
+      "fileSize": 66
+    },
+    "02 Review/Food/soy isolate.md": {
+      "mtime": 1720090047355,
+      "wordCount": 13,
+      "fileSize": 64
+    },
+    "02 Review/Food/peanats.md": {
+      "mtime": 1720090660226,
+      "wordCount": 13,
+      "fileSize": 68
+    },
+    "02 Review/Food/milk.md": {
+      "mtime": 1720090047335,
+      "wordCount": 13,
+      "fileSize": 64
+    },
+    "02 Review/Food/kefir.md": {
+      "mtime": 1721746487604,
+      "wordCount": 13,
+      "fileSize": 58
+    },
+    "02 Review/Food/gainer.md": {
+      "mtime": 1720614297289,
+      "wordCount": 13,
+      "fileSize": 63
+    },
+    "02 Review/Food/eggs.md": {
+      "mtime": 1720229118106,
+      "wordCount": 13,
+      "fileSize": 66
+    },
+    "02 Review/Food/dates.md": {
+      "mtime": 1721117161470,
+      "wordCount": 13,
+      "fileSize": 62
+    },
+    "02 Review/Food/cooked rice.md": {
+      "mtime": 1720090047326,
+      "wordCount": 13,
+      "fileSize": 66
+    },
+    "02 Review/Food/cabbage.md": {
+      "mtime": 1721267722754,
+      "wordCount": 13,
+      "fileSize": 64
+    },
+    "02 Review/Food/Chiken Breast.md": {
+      "mtime": 1720229118106,
+      "wordCount": 13,
+      "fileSize": 66
+    },
+    "02 Review/Food/broccoli.md": {
+      "mtime": 1720090544840,
+      "wordCount": 13,
+      "fileSize": 64
+    },
+    "02 Review/Food/bananas.md": {
+      "mtime": 1720090374615,
+      "wordCount": 13,
+      "fileSize": 69
+    },
+    "02 Review/Food/apples.md": {
+      "mtime": 1720090448743,
+      "wordCount": 13,
+      "fileSize": 68
+    },
+    "02 Review/Food/almonds.md": {
+      "mtime": 1720090624244,
+      "wordCount": 13,
+      "fileSize": 68
+    },
+    "02 Review/Food/9% cottage cheese.md": {
+      "mtime": 1720090047278,
+      "wordCount": 13,
+      "fileSize": 60
+    },
+    "02 Review/Food/5% cottage cheese.md": {
+      "mtime": 1720090047273,
+      "wordCount": 13,
+      "fileSize": 60
+    },
+    "02 Review/Food/2% cottage cheese.md": {
+      "mtime": 1721267722719,
+      "wordCount": 13,
+      "fileSize": 62
+    },
+    "02 Review/Food/0% cottage cheese.md": {
+      "mtime": 1721267722738,
+      "wordCount": 13,
+      "fileSize": 63
+    },
+    "02 Review/Dataview/Gallery.md": {
+      "mtime": 1736778356742,
+      "wordCount": 110,
+      "fileSize": 753
+    },
+    "02 Review/Dataview/Products.md": {
+      "mtime": 1721307719952,
+      "wordCount": 31,
+      "fileSize": 343
+    },
+    "02 Review/Dataview/Notes Gallery.md": {
+      "mtime": 1736775342817,
+      "wordCount": 24,
+      "fileSize": 153
+    },
+    "02 Review/Dataview/Food.md": {
+      "mtime": 1720890226597,
+      "wordCount": 78,
+      "fileSize": 473
+    },
+    "02 Review/Dataview/Diet.md": {
+      "mtime": 1737391844640,
+      "wordCount": 99,
+      "fileSize": 780
+    },
+    "02 Review/Kinopio.md": {
+      "mtime": 1721746446743,
+      "wordCount": 30,
+      "fileSize": 644
+    },
+    "02 Review/Cara.md": {
+      "mtime": 1721306731532,
+      "wordCount": 15,
+      "fileSize": 85
+    },
+    "00 Daily/11/2024-11-21.md": {
+      "mtime": 1737437126920,
+      "wordCount": 2007,
+      "fileSize": 14689
+    },
+    "00 Daily/11/2024-11-20.md": {
+      "mtime": 1737437126897,
+      "wordCount": 331,
+      "fileSize": 1756
+    },
+    "00 Daily/11/2024-11-22.md": {
+      "mtime": 1737437126945,
+      "wordCount": 1441,
+      "fileSize": 7541
+    },
+    "00 Daily/11/2024-11-19.md": {
+      "mtime": 1737437126879,
+      "wordCount": 394,
+      "fileSize": 2274
+    },
+    "00 Daily/11/2024-11-18.md": {
+      "mtime": 1737437126854,
+      "wordCount": 485,
+      "fileSize": 2560
+    },
+    "00 Daily/07/2024-07-31.md": {
+      "mtime": 1737437126503,
+      "wordCount": 87,
+      "fileSize": 572
+    },
+    "00 Daily/07/2024-07-30.md": {
+      "mtime": 1737437126485,
+      "wordCount": 84,
+      "fileSize": 604
+    },
+    "00 Daily/07/2024-07-29.md": {
+      "mtime": 1737437126465,
+      "wordCount": 66,
+      "fileSize": 441
+    },
+    "00 Daily/07/2024-07-28.md": {
+      "mtime": 1737437126446,
+      "wordCount": 37,
+      "fileSize": 256
+    },
+    "00 Daily/07/2024-07-27.md": {
+      "mtime": 1737437126429,
+      "wordCount": 65,
+      "fileSize": 440
+    },
+    "00 Daily/07/2024-07-25.md": {
+      "mtime": 1737437126384,
+      "wordCount": 91,
+      "fileSize": 597
+    },
+    "00 Daily/07/2024-07-26.md": {
+      "mtime": 1737437126408,
+      "wordCount": 105,
+      "fileSize": 660
+    },
+    "00 Daily/07/2024-07-23.md": {
+      "mtime": 1737437126343,
+      "wordCount": 63,
+      "fileSize": 418
+    },
+    "00 Daily/07/2024-07-24.md": {
+      "mtime": 1737437126364,
+      "wordCount": 88,
+      "fileSize": 558
+    },
+    "00 Daily/07/2024-07-22.md": {
+      "mtime": 1737437126321,
+      "wordCount": 87,
+      "fileSize": 570
+    },
+    "00 Daily/07/2024-07-21.md": {
+      "mtime": 1737437126301,
+      "wordCount": 111,
+      "fileSize": 742
+    },
+    "00 Daily/07/2024-07-20.md": {
+      "mtime": 1737437126280,
+      "wordCount": 111,
+      "fileSize": 721
+    },
+    "00 Daily/07/2024-07-19.md": {
+      "mtime": 1737437126260,
+      "wordCount": 106,
+      "fileSize": 686
+    },
+    "00 Daily/07/2024-07-17.md": {
+      "mtime": 1737437126216,
+      "wordCount": 66,
+      "fileSize": 447
+    },
+    "00 Daily/07/2024-07-18.md": {
+      "mtime": 1737437126239,
+      "wordCount": 77,
+      "fileSize": 506
+    },
+    "00 Daily/07/2024-07-15.md": {
+      "mtime": 1737437126172,
+      "wordCount": 87,
+      "fileSize": 553
+    },
+    "00 Daily/07/2024-07-16.md": {
+      "mtime": 1737437126193,
+      "wordCount": 88,
+      "fileSize": 576
+    },
+    "00 Daily/07/2024-07-12.md": {
+      "mtime": 1737437126110,
+      "wordCount": 55,
+      "fileSize": 373
+    },
+    "00 Daily/07/2024-07-13.md": {
+      "mtime": 1737437126131,
+      "wordCount": 141,
+      "fileSize": 919
+    },
+    "00 Daily/07/2024-07-14.md": {
+      "mtime": 1737437126151,
+      "wordCount": 93,
+      "fileSize": 594
+    },
+    "00 Daily/07/2024-07-11.md": {
+      "mtime": 1737437126089,
+      "wordCount": 150,
+      "fileSize": 953
+    },
+    "00 Daily/07/2024-07-10.md": {
+      "mtime": 1737437126068,
+      "wordCount": 76,
+      "fileSize": 500
+    },
+    "00 Daily/07/2024-07-09.md": {
+      "mtime": 1737437126049,
+      "wordCount": 50,
+      "fileSize": 319
+    },
+    "00 Daily/07/2024-07-08.md": {
+      "mtime": 1737437126027,
+      "wordCount": 126,
+      "fileSize": 799
+    },
+    "00 Daily/07/2024-07-07.md": {
+      "mtime": 1737437126004,
+      "wordCount": 71,
+      "fileSize": 583
+    },
+    "00 Daily/07/2024-07-06.md": {
+      "mtime": 1737437125980,
+      "wordCount": 79,
+      "fileSize": 498
+    },
+    "00 Daily/07/2024-07-02.md": {
+      "mtime": 1737437125898,
+      "wordCount": 81,
+      "fileSize": 539
+    },
+    "00 Daily/07/2024-07-04.md": {
+      "mtime": 1737437125937,
+      "wordCount": 77,
+      "fileSize": 473
+    },
+    "00 Daily/07/2024-07-03.md": {
+      "mtime": 1737437125917,
+      "wordCount": 99,
+      "fileSize": 811
+    },
+    "00 Daily/07/2024-07-05.md": {
+      "mtime": 1737437125960,
+      "wordCount": 122,
+      "fileSize": 802
+    },
+    "00 Daily/07/2024-07-01.md": {
+      "mtime": 1737437125879,
+      "wordCount": 86,
+      "fileSize": 560
+    },
+    "00 Daily/08/2024-08-24.md": {
+      "mtime": 1737437126834,
+      "wordCount": 72,
+      "fileSize": 487
+    },
+    "00 Daily/08/2024-08-23.md": {
+      "mtime": 1737437126814,
+      "wordCount": 59,
+      "fileSize": 403
+    },
+    "00 Daily/08/2024-08-22.md": {
+      "mtime": 1737437126796,
+      "wordCount": 40,
+      "fileSize": 293
+    },
+    "00 Daily/08/2024-08-20.md": {
+      "mtime": 1737437126776,
+      "wordCount": 59,
+      "fileSize": 404
+    },
+    "00 Daily/08/2024-08-19.md": {
+      "mtime": 1737437126756,
+      "wordCount": 56,
+      "fileSize": 396
+    },
+    "00 Daily/08/2024-08-18.md": {
+      "mtime": 1737437126732,
+      "wordCount": 88,
+      "fileSize": 588
+    },
+    "00 Daily/08/2024-08-17.md": {
+      "mtime": 1737437126711,
+      "wordCount": 52,
+      "fileSize": 340
+    },
+    "00 Daily/08/2024-08-15.md": {
+      "mtime": 1737437126690,
+      "wordCount": 66,
+      "fileSize": 443
+    },
+    "00 Daily/08/2024-08-14.md": {
+      "mtime": 1737437126671,
+      "wordCount": 78,
+      "fileSize": 528
+    },
+    "00 Daily/08/2024-08-13.md": {
+      "mtime": 1737437126652,
+      "wordCount": 40,
+      "fileSize": 278
+    },
+    "00 Daily/08/2024-08-12.md": {
+      "mtime": 1737437126634,
+      "wordCount": 62,
+      "fileSize": 388
+    },
+    "00 Daily/08/2024-08-10.md": {
+      "mtime": 1737437126615,
+      "wordCount": 53,
+      "fileSize": 371
+    },
+    "00 Daily/08/2024-08-09.md": {
+      "mtime": 1737437126597,
+      "wordCount": 57,
+      "fileSize": 379
+    },
+    "00 Daily/08/2024-08-02.md": {
+      "mtime": 1737437126549,
+      "wordCount": 73,
+      "fileSize": 473
+    },
+    "00 Daily/08/2024-08-05.md": {
+      "mtime": 1737437126576,
+      "wordCount": 41,
+      "fileSize": 338
+    },
+    "00 Daily/08/2024-08-01.md": {
+      "mtime": 1737437126521,
+      "wordCount": 294,
+      "fileSize": 2628
+    },
+    "00 Daily/06/2024-06-30.md": {
+      "mtime": 1737437125853,
+      "wordCount": 81,
+      "fileSize": 508
+    },
+    "00 Daily/06/2024-06-28.md": {
+      "mtime": 1737437125815,
+      "wordCount": 76,
+      "fileSize": 464
+    },
+    "00 Daily/06/2024-06-27.md": {
+      "mtime": 1737437125796,
+      "wordCount": 76,
+      "fileSize": 461
+    },
+    "00 Daily/06/2024-06-29.md": {
+      "mtime": 1737437125833,
+      "wordCount": 81,
+      "fileSize": 523
+    },
+    "00 Daily/06/2024-06-26.md": {
+      "mtime": 1737437125773,
+      "wordCount": 64,
+      "fileSize": 396
+    },
+    "00 Daily/06/2024-06-25.md": {
+      "mtime": 1737437125751,
+      "wordCount": 99,
+      "fileSize": 591
+    },
+    "00 Daily/06/2024-06-24.md": {
+      "mtime": 1737437125731,
+      "wordCount": 77,
+      "fileSize": 486
+    },
+    "00 Daily/06/2024-06-22.md": {
+      "mtime": 1737437125686,
+      "wordCount": 47,
+      "fileSize": 312
+    },
+    "00 Daily/06/2024-06-23.md": {
+      "mtime": 1737437125711,
+      "wordCount": 86,
+      "fileSize": 506
+    },
+    "00 Daily/06/2024-06-21.md": {
+      "mtime": 1737437125665,
+      "wordCount": 47,
+      "fileSize": 294
+    },
+    "00 Daily/06/2024-06-20.md": {
+      "mtime": 1737437125645,
+      "wordCount": 51,
+      "fileSize": 342
+    },
+    "00 Daily/06/2024-06-19.md": {
+      "mtime": 1737437125628,
+      "wordCount": 53,
+      "fileSize": 330
+    },
+    "00 Daily/06/2024-06-18.md": {
+      "mtime": 1737437125604,
+      "wordCount": 80,
+      "fileSize": 494
+    },
+    "00 Daily/06/2024-06-17.md": {
+      "mtime": 1737437125583,
+      "wordCount": 73,
+      "fileSize": 457
+    },
+    "00 Daily/06/2024-06-16.md": {
+      "mtime": 1737437125560,
+      "wordCount": 48,
+      "fileSize": 323
+    },
+    "00 Daily/06/2024-06-15.md": {
+      "mtime": 1737437125539,
+      "wordCount": 60,
+      "fileSize": 405
+    },
+    "00 Daily/06/2024-06-14.md": {
+      "mtime": 1737437125520,
+      "wordCount": 65,
+      "fileSize": 448
+    },
+    "00 Daily/06/2024-06-13.md": {
+      "mtime": 1737437125496,
+      "wordCount": 132,
+      "fileSize": 955
+    },
+    "00 Daily/06/2024-06-11.md": {
+      "mtime": 1737437125452,
+      "wordCount": 105,
+      "fileSize": 629
+    },
+    "00 Daily/06/2024-06-12.md": {
+      "mtime": 1737437125475,
+      "wordCount": 101,
+      "fileSize": 631
+    },
+    "00 Daily/06/2024-06-10.md": {
+      "mtime": 1737437125432,
+      "wordCount": 120,
+      "fileSize": 734
+    },
+    "00 Daily/06/2024-06-09.md": {
+      "mtime": 1737437125409,
+      "wordCount": 136,
+      "fileSize": 814
+    },
+    "00 Daily/06/2024-06-06.md": {
+      "mtime": 1737437125344,
+      "wordCount": 63,
+      "fileSize": 359
+    },
+    "00 Daily/06/2024-06-08.md": {
+      "mtime": 1737437125384,
+      "wordCount": 70,
+      "fileSize": 446
+    },
+    "00 Daily/06/2024-06-07.md": {
+      "mtime": 1737437125362,
+      "wordCount": 113,
+      "fileSize": 624
+    },
+    "00 Daily/06/2024-06-05.md": {
+      "mtime": 1737437125321,
+      "wordCount": 123,
+      "fileSize": 711
+    },
+    "00 Daily/06/2024-06-03.md": {
+      "mtime": 1737437125253,
+      "wordCount": 126,
+      "fileSize": 745
+    },
+    "00 Daily/06/2024-06-02.md": {
+      "mtime": 1737437125234,
+      "wordCount": 113,
+      "fileSize": 678
+    },
+    "00 Daily/06/2024-06-04.md": {
+      "mtime": 1737437125302,
+      "wordCount": 107,
+      "fileSize": 602
+    },
+    "00 Daily/06/2024-06-01.md": {
+      "mtime": 1737437125211,
+      "wordCount": 90,
+      "fileSize": 593
+    },
+    "00 Daily/05/2024-05-22.md": {
+      "mtime": 1737437125192,
+      "wordCount": 63,
+      "fileSize": 405
+    },
+    "00 Daily/05/2024-05-21.md": {
+      "mtime": 1737437124568,
+      "wordCount": 12,
+      "fileSize": 87
+    },
+    "99/Untitled 4.md": {
+      "mtime": 1737533286754,
+      "wordCount": 891,
+      "fileSize": 5882
+    },
+    "99/Untitled 5.md": {
+      "mtime": 1737533286758,
+      "wordCount": 2876,
+      "fileSize": 18367
+    },
+    "99/Untitled 6.md": {
+      "mtime": 1737533286762,
+      "wordCount": 31,
+      "fileSize": 194
+    },
+    "99/Untitled 7.md": {
+      "mtime": 1737533286765,
+      "wordCount": 827,
+      "fileSize": 5818
+    },
+    "99/Untitled 8.md": {
+      "mtime": 1737533286769,
+      "wordCount": 177,
+      "fileSize": 1968
+    },
+    "99/Untitled 9.md": {
+      "mtime": 1737533286806,
+      "wordCount": 449,
+      "fileSize": 4967
+    },
+    "99/Untitled 10.md": {
+      "mtime": 1737533286729,
+      "wordCount": 1762,
+      "fileSize": 12591
+    },
+    "99/Untitled 11.md": {
+      "mtime": 1737533286735,
+      "wordCount": 2936,
+      "fileSize": 25445
+    },
+    "99/Untitled 12.md": {
+      "mtime": 1737533286740,
+      "wordCount": 524,
+      "fileSize": 6741
+    },
+    "99/Untitled 13.md": {
+      "mtime": 1737533286747,
+      "wordCount": 583,
+      "fileSize": 4720
+    },
+    "01 Maps/Index.md": {
+      "mtime": 1737441049757,
+      "wordCount": 37,
+      "fileSize": 255
+    },
+    "Index.md": {
+      "mtime": 1737441049757,
+      "wordCount": 37,
+      "fileSize": 255
+    }
+  },
+  "activityOverTime": {
+    "2025-01-21": {
+      "wordCount": 12063,
+      "fileSize": 94115
+    },
+    "2025-01-14": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-09-16": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-24": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-08-23": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-15": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-11-22": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-16": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-17": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-13": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-14": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-02": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-08": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-03": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-22": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-08-07": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-30": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-08-15": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-10": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-18": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-08-03": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-20": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-11-01": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2025-01-12": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2025-01-13": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-11-27": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-09-01": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-11-05": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-09-06": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-11-12": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-08-24": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-09-05": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-11-23": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-09-13": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-09-24": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2025-01-06": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-12-09": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-11-07": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-04": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2024-07-06": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2025-01-05": {
+      "wordCount": 0,
+      "fileSize": 0
+    },
+    "2025-01-22": {
+      "wordCount": 98,
+      "fileSize": 784
+    }
+  }
+}

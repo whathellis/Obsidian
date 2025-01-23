@@ -1,0 +1,9 @@
+{
+  "showProductFolderTitles": true,
+  "groupEntriesByTitles": true,
+  "productsFolder": "02 Review/Food",
+  "propertyCalories": "calories",
+  "propertyProtein": "protein",
+  "propertyFat": "fat",
+  "propertyCarbs": "carbs"
+}
