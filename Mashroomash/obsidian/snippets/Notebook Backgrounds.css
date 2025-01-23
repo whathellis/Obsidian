@@ -21,9 +21,18 @@ https://angel-rs.github.io/css-color-filter-generator
   --pen-red: #e14a49;
   --pen-green: #15b64f;
   --pen-blue: #3f76ed;
-  --pen-light-blue: #54b6f8;
-  --pen-purple: #9b4ff0;
-
+  --pen-light-blue: #54b6f8; /* my wars */
+  --pen-orange: #ee6748;
+  --pen-yellow: #ffd85e;
+  --pen-mint: #aeffc2;
+  --pen-light-cyan: #51e1e9;
+  --pen-cyan: #02a9a2;
+  --pen-teal: color-mix(in srgb, #43cfea 80%, var(--shadow));
+  --pen-lime: #77c61d;
+  --pen-blue-violet: #ccccff;
+  --pen-purple: #6d75f1;
+  --pen-magenta: #e54f9b;
+ 
   --neutral-pen-black: #272727;
   --neutral-pen-black-trans: #27272722;
 
@@ -31,8 +40,34 @@ https://angel-rs.github.io/css-color-filter-generator
   --page-white: #ffffff;
   --page-manila: #f3deaf;
   --page-blue: #3f76ed;
+  /* my wars */
+  --page-black: #000000;
+  --page-gray: #26241f;
+  --page-red: #e14a49;
+  --page-green: #52eea3;
+  --page-lime: #77c61d;
+  --page-olive: #8e7608;
+  --page-mustard: #c4ae00;
+  --page-light-blue: #cffcf6;
+  --page-bluee: #54b6f8;
+  --page-orange: #ed6022;
+  --page-light-yellow: #ffd85e;
+  --page-yellow: #ffac0e;
+  --page-mint: #aeffc2;
+  --page-teal: color-mix(in srgb, #43cfea 80%, var(--shadow));
+  --page-cyan: #02a9a2;
+  --page-light-cyan: #51e1e9;
+  --page-purple: #6d75f1;
+  --page-magenta: #e54f9b;
+  --page-light-pink: #ffd8e1;
+  --page-pink: #f39caa;
+  --page-violet: #c952ed;
+  --page-ppk: #ccccff;
+  --page-coffee: #8b7155;
 
-  --grid-size: 32px;
+  --neutral-pen-black: #272727;
+  --neutral-pen-black-trans: #27272722;
+  --grid-size: 20px;
 }
 
 /* Recolors images on the page with the current accent color. */
@@ -44,7 +79,30 @@ https://angel-rs.github.io/css-color-filter-generator
 /* All Pages */
 .page-manila,
 .page-white,
-.page-blueprint {
+.page-blueprint,
+.page-blue,
+.page-black,
+.page-gray,
+.page-red,
+.page-lime,
+.page-light-blue,
+.page-orange,
+.page-yellow,
+.page-light-yellow,
+.page-mint,
+.page-teal,
+.page-cyan,
+.page-light-cyan,
+.page-purple,
+.page-magenta,
+.page-pink,
+.page-light-pink,
+.page-violet,
+.page-ppk,
+.page-green,
+.page-olive,
+.page-mustard,
+.page-coffee {
   --text-normal: var(--accent-color);
   --text-muted: var(--accent-color);
   --text-faint: var(--accent-color-trans);
@@ -124,6 +182,328 @@ https://angel-rs.github.io/css-color-filter-generator
   background-color: var(--page-white);
 }
 
+/* -------------------------- My pages ------------------------- */
+
+.page-green {
+  --page-color: var(--page-green);
+  --accent-color: var(--pen-black);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-green img {
+  background-color: var(--page-green);
+}
+
+.page-olive {
+  --page-color: var(--page-olive);
+  --accent-color: var(--pen-yellow);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-olive img {
+  background-color: var(--page-olive);
+}
+
+.page-mustard {
+  --page-color: var(--page-mustard);
+  --accent-color: var(--pen-red);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-mustard img {
+  background-color: var(--page-mustard);
+}
+
+.page-coffee {
+  --page-color: var(--page-coffee);
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-coffee img {
+  background-color: var(--page-coffee);
+}
+
+.page-ppk {
+  --page-color: var(--page-ppk);
+  --accent-color: var(--pen-purple);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-ppk img {
+  background-color: var(--page-ppk);
+}
+
+.page-violet {
+  --page-color: var(--page-violet);
+  --accent-color: var(--pen-yellow);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-violet img {
+  background-color: var(--page-violet);
+}
+
+.page-light-pink {
+  --page-color: var(--page-light-pink);
+  --accent-color: var(--pen-magenta);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-light-pink img {
+  background-color: var(--page-light-pink);
+}
+
+.page-red {
+  --page-color: var(--page-red);
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-red img {
+  background-color: var(--page-red);
+}
+
+.page-lime {
+  --page-color: var(--page-lime);
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-lime img {
+  background-color: var(--page-lime);
+}
+
+.page-light-blue {
+  --page-color: var(--page-light-blue);
+  --accent-color: var(--pen-blue);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-light-blue img {
+  background-color: var(--page-light-blue);
+}
+
+.page-orange {
+  --page-color: var(--page-orange);
+  --accent-color: var(--pen-yellow);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-orange img {
+  background-color: var(--page-orange);
+}
+
+.page-light-yellow {
+  --page-color: var(--page-light-yellow);
+  --accent-color: var(--pen-blue);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-light-yellow img {
+  background-color: var(--page-light-yellow);
+}
+
+.page-yellow {
+  --page-color: var(--page-yellow);
+  --accent-color: var(--pen-red);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-yellow img {
+  background-color: var(--page-yellow);
+}
+
+.page-mint {
+  --page-color: var(--page-mint);
+  --accent-color: var(--pen-cyan);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-mint img {
+  background-color: var(--page-mint);
+}
+
+.page-teal {
+  --page-color: var(--page-teal);
+  --accent-color: var(--pen-orange);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-teal img {
+  background-color: var(--page-teal);
+}
+
+.page-cyan {
+  --page-color: var(--page-cyan);
+  --accent-color: var(--pen-yellow);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-cyan img {
+  background-color: var(--page-cyan);
+}
+
+.page-light-cyan {
+  --page-color: var(--page-light-cyan);
+  --accent-color: var(--pen-blue);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-light-cyan img {
+  background-color: var(--page-light-cyan);
+}
+
+.page-purple {
+  --page-color: var(--page-purple);
+  --accent-color: var(--pen-yellow);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-purple img {
+  background-color: var(--page-purple);
+}
+
+.page-magenta {
+  --page-color: var(--page-magenta);
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-magenta img {
+  background-color: var(--page-magenta);
+}
+
+.page-pink {
+  --page-color: var(--page-pink);
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(14%) sepia(19%)
+    saturate(296%) hue-rotate(5deg) brightness(90%) contrast(96%);
+  color-scheme: light;
+}
+.embed-pink img {
+  background-color: var(--page-pink);
+}
+
 /* -------------------------- Blueprint Styled Page ------------------------- */
 /* Defaults to White Pen */
 .page-blueprint {
@@ -148,6 +528,73 @@ https://angel-rs.github.io/css-color-filter-generator
 .embed-blueprint img {
   background-color: var(--page-blue);
 }
+.page-blue {
+  --page-color: var(--page-bluee);
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(89%) sepia(1%)
+    saturate(2714%) hue-rotate(196deg) brightness(107%) contrast(98%);
+  color-scheme: dark;
+
+  --link-color: color-mix(in srgb, var(--pen-light-blue) 60%, var(--pen-white));
+  --link-color-hover: color-mix(
+    in srgb,
+    var(--pen-light-blue) 20%,
+    var(--pen-white)
+  );
+}
+.embed-blue img {
+  background-color: var(--page-bluee);
+}
+.page-black {
+  --page-color: var(--page-black);
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(89%) sepia(1%)
+    saturate(2714%) hue-rotate(196deg) brightness(107%) contrast(98%);
+  color-scheme: dark;
+
+  --link-color: color-mix(in srgb, var(--pen-mint) 60%, var(--pen-white));
+  --link-color-hover: color-mix(
+    in srgb,
+    var(--pen-yellow) 20%,
+    var(--pen-mint)
+  );
+}
+.embed-black img {
+  background-color: var(--page-black);
+}
+
+.page-gray {
+  --page-color: var(--page-gray);
+  --accent-color: var(--pen-white);
+  --accent-color-trans: color-mix(
+    in srgb,
+    var(--accent-color) 15%,
+    transparent
+  );
+  --image-effect: brightness(0) saturate(100%) invert(89%) sepia(1%)
+    saturate(2714%) hue-rotate(196deg) brightness(107%) contrast(98%);
+  color-scheme: dark;
+
+  --link-color: color-mix(in srgb, var(--pen-mint) 60%, var(--pen-white));
+  --link-color-hover: color-mix(
+    in srgb,
+    var(--pen-yellow) 20%,
+    var(--pen-mint)
+  );
+}
+.embed-gray img {
+  background-color: var(--page-gray);
+}
 
 /* Adds a grid layout on page background */
 .page-grid {
@@ -156,11 +603,11 @@ https://angel-rs.github.io/css-color-filter-generator
       transparent 0px,
       var(--accent-color-trans) 1px,
       var(--accent-color-trans) 2px,
-      transparent 3px
+      transparent 1px
     ),
     linear-gradient(
       90deg,
-      transparent calc(var(--grid-size) - 3px),
+      transparent calc(var(--grid-size) - 1px),
       var(--accent-color-trans) calc(var(--grid-size) - 2px),
       var(--accent-color-trans) calc(var(--grid-size) - 1px),
       transparent var(--grid-size)
@@ -183,7 +630,16 @@ https://angel-rs.github.io/css-color-filter-generator
     .pen-green,
     .pen-black,
     .pen-gray,
-    .pen-purple
+    .pen-purple,
+    .pen-orange,
+    .pen-yellow,
+    .pen-mint,
+    .pen-light-cyan,
+    .pen-teal,
+    .pen-cyan,
+    .pen-lime,
+    .pen-blue-violet,
+    .pen-magenta
   )
   svg {
   color: color-mix(in srgb, var(--accent-color) 60%, transparent);
@@ -269,3 +725,88 @@ div > pre {
   --image-effect: brightness(0) saturate(100%) invert(33%) sepia(59%)
     saturate(2620%) hue-rotate(249deg) brightness(98%) contrast(93%);
 }
+.pen-light-blue {
+  --accent-color: var(--pen-light-blue);
+  --accent-color-trans: color-mix(in srgb, var(--pen-light-blue) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+/* my wars */
+
+.pen-orange {
+  --accent-color: var(--pen-orange);
+  --accent-color-trans: color-mix(in srgb, var(--pen-orange) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+.pen-yellow {
+  --accent-color: var(--pen-yellow);
+  --accent-color-trans: color-mix(in srgb, var(--pen-yellow) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+.pen-magenta {
+  --accent-color: var(--pen-magenta);
+  --accent-color-trans: color-mix(in srgb, var(--pen-magenta) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+.pen-mint {
+  --accent-color: var(--pen-mint);
+  --accent-color-trans: color-mix(in srgb, var(--pen-mint) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+.pen-light-cyan {
+  --accent-color: var(--pen-light-cyan);
+  --accent-color-trans: color-mix(in srgb, var(--pen-light-cyan) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+.pen-teal {
+  --accent-color: var(--pen-teal);
+  --accent-color-trans: color-mix(in srgb, var(--pen-teal) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+.pen-cyan {
+  --accent-color: var(--pen-cyan);
+  --accent-color-trans: color-mix(in srgb, var(--pen-cyan) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+.pen-lime {
+  --accent-color: var(--pen-lime);
+  --accent-color-trans: color-mix(in srgb, var(--pen-lime) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+.pen-blue-violet {
+  --accent-color: var(--pen-blue-violet);
+  --accent-color-trans: color-mix(in srgb, var(--pen-blue-violet) 15%, transparent);
+  color: var(--accent-color);
+  --hr-color: var(--accent-color);
+  --image-effect: brightness(0) saturate(100%) invert(36%) sepia(95%)
+    saturate(945%) hue-rotate(199deg) brightness(95%) contrast(95%);
+}
+
+
+  

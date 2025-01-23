@@ -1,6 +1,6 @@
 {
-  "format": "YY.MM.DD",
+  "format": "",
   "autorun": false,
   "folder": "00 Daily",
-  "template": "07 Template/Daily"
+  "template": "99/Template/Plan"
 }

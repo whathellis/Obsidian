@@ -11,7 +11,7 @@
   "page-preview": true,
   "daily-notes": true,
   "templates": true,
-  "note-composer": false,
+  "note-composer": true,
   "command-palette": true,
   "slash-command": false,
   "editor-status": true,
@@ -25,6 +25,6 @@
   "audio-recorder": false,
   "workspaces": true,
   "file-recovery": true,
-  "publish": false,
+  "publish": true,
   "sync": false
 }

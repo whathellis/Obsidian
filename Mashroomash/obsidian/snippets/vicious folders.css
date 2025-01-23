@@ -1,0 +1,727 @@
+/**─────────────────────────────────────────────────────────────────────────────────────────────────────────**/
+/** ─██████──██████──██████████──██████████████──██████████──██████████████──██████──██████──██████████████─**/
+/** ─██░░██──██░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░██──██░░██──██░░░░░░░░░░██─**/
+/** ─██░░██──██░░██──████░░████──██░░██████████──████░░████──██░░██████░░██──██░░██──██░░██──██░░██████████─**/
+/** ─██░░██──██░░██────██░░██────██░░██────────────██░░██────██░░██──██░░██──██░░██──██░░██──██░░██─────────**/
+/** ─██░░██──██░░██────██░░██────██░░██────────────██░░██────██░░██──██░░██──██░░██──██░░██──██░░██████████─**/
+/** ─██░░██──██░░██────██░░██────██░░██────────────██░░██────██░░██──██░░██──██░░██──██░░██──██░░░░░░░░░░██─**/
+/** ─██░░██──██░░██────██░░██────██░░██────────────██░░██────██░░██──██░░██──██░░██──██░░██──██████████░░██─**/
+/** ─██░░░░██░░░░██────██░░██────██░░██────────────██░░██────██░░██──██░░██──██░░██──██░░██──────────██░░██─**/
+/** ─████░░░░░░████──████░░████──██░░██████████──████░░████──██░░██████░░██──██░░██████░░██──██████████░░██─**/
+/** ───████░░████────██░░░░░░██──██░░░░░░░░░░██──██░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██──██░░░░░░░░░░██─**/
+/** ─────██████──────██████████──██████████████──██████████──██████████████──██████████████──██████████████─**/
+/** ────────────────────────────────────────────────────────────────────────────────────────────────────────**/
+
+/* @settings
+
+name: Vicious
+id: vicious
+settings:
+    - 
+        id: generalSettings
+        title: General Settings
+        type: heading
+        level: 2
+    - 
+        title: Disable Scrollbar
+        id: scrollbar-hide
+        type: class-toggle
+		default: true
+		description: Turn on if you want to hide the scrollbar
+
+    - 
+        title: Disable Vibrant Indent
+        id: vibrant-indents
+        type: class-toggle
+		default: false
+		description: Turn on if you want to hide the vibrant indent
+
+
+    - 
+        title: Disable Vibrant Folders
+        id: vibrant-folders
+        type: class-toggle		
+		default: false
+		description: Turn on if you want to hide the vibrant folders
+    - 
+		id: callout Style
+		title: Callout Style
+		description: Select your preferred callout style
+		type: class-select
+		allowEmpty: false
+		default: callout-style-01
+		options:
+		- 
+			label: Default
+			value: callout-style-01
+		-
+			label: Static
+			value: callout-style-04 
+		-
+			label: Vibrant
+			value: callout-style-02
+		- 
+			label: One Color
+			value: callout-style-03
+    - 
+        id: colors
+        title: Colors
+        type: heading
+        level: 2
+    - 
+
+		id: boldcolors
+		title: Bold Color
+		description: Select your preferred **BOLD** color
+		type: class-select
+		allowEmpty: false
+		default: bold-C002
+		options:
+		- 
+			label: Red
+			value: bold-C001
+		- 
+			label: Beach
+			value: bold-C002
+		- 
+			label: Gold
+			value: bold-C003
+		- 
+			label: Yellow
+			value: bold-C004
+		- 
+			label: Lime
+			value: bold-C005
+		- 
+			label: Green
+			value: bold-C006
+		- 
+			label: Turquoise
+			value: bold-C007
+		- 
+			label: Cyan
+			value: bold-C008
+		- 
+			label: Purple
+			value: bold-C009
+		- 
+			label: Violet
+			value: bold-C010
+		- 
+			label: Pink
+			value: bold-C011
+
+	-
+		id: italicscolors
+		title: Italics Color
+		description: Select your preferred _ITALIC_ color
+		type: class-select
+		allowEmpty: false
+		default: itl-C003
+		options:
+		- 
+			label: Red
+			value: itl-C001
+		- 
+			label: Beach
+			value: itl-C002
+		- 
+			label: Gold
+			value: itl-C003
+		- 
+			label: Yellow
+			value: itl-C004
+		- 
+			label: Lime
+			value: itl-C005
+		- 
+			label: Green
+			value: itl-C006
+		- 
+			label: Turquoise
+			value: itl-C007
+		- 
+			label: Cyan
+			value: itl-C008
+		- 
+			label: Purple
+			value: itl-C009
+		- 
+			label: Violet
+			value: itl-C010
+		- 
+			label: Pink
+			value: itl-C011
+
+	-
+		id: bold-italicscolors
+		title: Bold + Italics Color
+		description: Select your preferred **_BOLD+ITALIC_** color
+		type: class-select
+		allowEmpty: false
+		default: bld-itl-C001
+		options:
+		- 
+			label: Red
+			value: bld-itl-C001
+		- 
+			label: Beach
+			value: bld-itl-C002
+		- 
+			label: Gold
+			value: bld-itl-C003
+		- 
+			label: Yellow
+			value: bld-itl-C004
+		- 
+			label: Lime
+			value: bld-itl-C005
+		- 
+			label: Green
+			value: bld-itl-C006
+		- 
+			label: Turquoise
+			value: bld-itl-C007
+		- 
+			label: Cyan
+			value: bld-itl-C008
+		- 
+			label: Purple
+			value: bld-itl-C009
+		- 
+			label: Violet
+			value: bld-itl-C010
+		- 
+			label: Pink
+			value: bld-itl-C011
+	-
+
+		id: highlightcolors
+		title: Highlight Color
+		description: Select your preferred highlight color
+		type: class-select
+		allowEmpty: false
+		default: highlight-C003
+		options:
+		- 
+			label: Red
+			value: highlight-C001
+		- 
+			label: Beach
+			value: highlight-C002
+		- 
+			label: Gold
+			value: highlight-C003
+		- 
+			label: Yellow
+			value: highlight-C004
+		- 
+			label: Lime
+			value: highlight-C005
+		- 
+			label: Green
+			value: highlight-C006
+		- 
+			label: Turquoise
+			value: highlight-C007
+		- 
+			label: Cyan
+			value: highlight-C008
+		- 
+			label: Purple
+			value: highlight-C009
+		- 
+			label: Violet
+			value: highlight-C010
+		- 
+			label: Pink
+			value: highlight-C011
+
+
+
+		*/
+
+/*================================================*/
+/* Root Colors
+/*================================================*/
+:root {
+	--800: #08090e;
+	--800-RGB: 8, 9, 14;
+	--700: #17181e;
+	--700-RGB: 23, 24, 30;
+	--600: #292a2f;
+	--600-RGB: 41, 42, 47;
+	--500: #4f5053;
+	--500-RGB: 79, 80, 83;
+	--400: #68696c;
+	--400-RGB: 104, 105, 108;
+	--300: #818184;
+	--300-RGB: 129, 129, 132;
+	--200: #e1e2e9;
+	--200-RGB: 225, 226, 233;
+	--100: #f1f2f5;
+	--100-RGB: 241, 242, 245;
+	--000: #fbfcfc;
+	--000-RGB: 251, 252, 252;
+	--C001: #f18196;
+	--C001-RGB: 241, 129, 150;
+	--C002: #f19a81;
+	--C002-RGB: 241, 154, 129;
+	--C003: #ebcb8b;
+	--C003-RGB: 241, 201, 129;
+	--C004: #e3eb8b;
+	--C004-RGB: 227, 235, 139;
+	--C005: #bcf181;
+	--C005-RGB: 188, 241, 129;
+	--C006: #8df181;
+	--C006-RGB: 141, 241, 129;
+	--C007: #81f1a4;
+	--C007-RGB: 129, 241, 164;
+	--C008: #8be3eb;
+	--C008-RGB: 139, 227, 235;
+	--C009: #ab8beb;
+	--C009-RGB: 171, 139, 235;
+	--C010: #ee81f1;
+	--C010-RGB: 238, 129, 241;
+	--C011: #f181c5;
+	--C011-RGB: 241, 129, 197;
+}
+/*================================================*/
+/* Vibrant Folders
+/*================================================*/
+
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder
+	.nav-folder-title,
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder
+	.nav-file-title,
+body:not(.vibrant-folders) .nav-files-container .collapse-icon svg.svg-icon,
+body:not(.vibrant-folders)
+	.nav-files-container
+	+ .tree-item-self
+	.tree-item-icon {
+	color: var(--800) !important;
+	--icon-color: var(--800);
+}
+
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder-children
+	> .nav-file
+	.nav-file-title {
+	color: var(--800);
+}
+
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder
+	.nav-folder-children {
+	border-color: rgba(var(--800-RGB), 1);
+}
+
+body:is(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder-children
+	> .nav-file
+	.nav-file-title {
+	color: var(--800);
+}
+
+body:is(.vibrant-folders.theme-light)
+	.nav-files-container
+	> div
+	> .nav-folder
+	.nav-folder-children {
+	border-color: rgba(var(--800-RGB), 1);
+}
+body:is(.vibrant-folders.theme-dark)
+	.nav-files-container
+	> div
+	> .nav-folder
+	.nav-folder-children {
+	border-color: rgba(var(--000-RGB), 1);
+}
+
+body:is(.vibrant-folders) .nav-folder-children > .nav-folder,
+body:is(.vibrant-folders) .nav-files-container > div > .nav-folder,
+body:is(.vibrant-folders) [data-type="bookmarks"] .tree-item {
+	--colorful: var(--C000-RGB);
+	--text-color: var(--000) !important;
+	--icon-color: var(--000);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 2),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 2),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 2) {
+	--colorful: var(--C001-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 3),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 3),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 3) {
+	--colorful: var(--C002-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 4),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 4),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 4) {
+	--colorful: var(--C003-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 5),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 5),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 5) {
+	--colorful: var(--C004-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 6),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 6),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 6) {
+	--colorful: var(--C005-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 7),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 7),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 7) {
+	--colorful: var(--C006-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 8),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 8),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 8) {
+	--colorful: var(--C007-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 9),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 9),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 9) {
+	--colorful: var(--C008-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 10),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 10),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 10) {
+	--colorful: var(--C009-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 11),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 11),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 11) {
+	--colorful: var(--C010-RGB);
+}
+
+body:not(.vibrant-folders)
+	.nav-folder-children
+	> .nav-folder:nth-child(11n + 12),
+body:not(.vibrant-folders)
+	.nav-files-container
+	> div
+	> .nav-folder:nth-child(11n + 12),
+body:not(.vibrant-folders)
+	[data-type="bookmarks"]
+	.tree-item:nth-child(11n + 12) {
+	--colorful: var(--C011-RGB);
+}
+.nav-files-container .nav-folder.nav-folder .nav-folder,
+[data-type="bookmarks"] .tree-item .tree-item {
+	--colorful: inherit;
+}
+.nav-files-container > div > .nav-folder {
+	transition: background-color 0.2s;
+	background-color: rgba(var(--colorful), 1);
+	margin-bottom: 4px;
+	border-radius: 4px;
+}
+[data-type="bookmarks"] .tree-item {
+	transition: background-color 0.2s;
+	background-color: rgba(var(--colorful), 1);
+	border: 1px solid rgba(var(--colorful), 0);
+	border-radius: var(--radius-s);
+}
+.theme-dark .nav-folder.mod-root .nav-folder.nav-folder .nav-folder,
+[data-type="bookmarks"] .tree-item .tree-item {
+	--colorful: none;
+}
+.theme-light .nav-folder.mod-root .nav-folder.nav-folder .nav-folder,
+[data-type="bookmarks"] .tree-item .tree-item {
+	--colorful: none;
+}
+
+.theme-dark
+	.nav-folder.mod-root
+	> .nav-folder-children
+	> .nav-folder
+	.nav-folder-title,
+.theme-dark
+	.nav-folder.mod-root
+	> .nav-folder-children
+	> .nav-folder
+	.nav-file-title,
+.theme-dark .nav-folder.mod-root .collapse-icon svg.svg-icon,
+.theme-dark
+	.workspace-leaf-content[data-type="file-explorer"]
+	.tree-item-self
+	.tree-item-icon {
+	color: rgba(var(--text-color));
+}
+.theme-light
+	.nav-folder.mod-root
+	> .nav-folder-children
+	> .nav-folder
+	.nav-folder-title,
+.theme-light
+	.nav-folder.mod-root
+	> .nav-folder-children
+	> .nav-folder
+	.nav-file-title,
+.theme-light .nav-folder.mod-root .collapse-icon svg.svg-icon,
+.theme-light
+	.workspace-leaf-content[data-type="file-explorer"]
+	.tree-item-self
+	.tree-item-icon {
+	color: rgba(var(--600-RGB));
+}
+
+.nav-folder.mod-root > .nav-folder-children > .nav-file {
+	background-color: rgb(var(--nav-color), 1);
+}
+
+.theme-dark
+	.tree-item-children
+	.nav-folder-children
+	> .nav-file
+	.nav-file-title[data-path]::before {
+	background-color: rgba(var(--800-RGB));
+}
+
+.theme-light
+	.tree-item-children
+	.nav-folder-children
+	> .nav-file
+	.nav-file-title[data-path]::before {
+	background-color: rgba(var(--600-RGB));
+}
+.nav-folder.mod-root > .nav-folder-children > .nav-file {
+	border-radius: var(--radius-xl);
+}
+.is-mobile .nav-folder.mod-root > .nav-folder-children > .nav-file {
+	border-radius: var(--radius-m);
+}
+.is-mobile .workspace-drawer-header-name-text {
+	font-size: 90%;
+}
+.is-tablet .workspace-drawer-ribbon {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: start;
+}
+
+.nav-file {
+	overflow-y: hidden;
+}
+
+.nav-folder.mod-root .nav-folder > .nav-folder-children {
+	padding: 0 4px 0 4px;
+}
+.nav-folder.mod-root > .nav-folder-children {
+	border-left: none;
+	margin-left: 0;
+	padding-left: 0;
+	gap: 3px;
+	display: flex;
+	flex-direction: column;
+}
+
+.theme-dark .nav-folder.mod-root > .nav-folder-children > .nav-folder {
+	transition: background-color 0.4s;
+	background-color: rgba(var(--colorful), 1);
+	border: 1px solid rgba(var(--colorful), 0);
+	border-radius: var(--radius-s);
+}
+
+.theme-light .nav-folder.mod-root > .nav-folder-children > .nav-folder {
+	transition: background-color 0.4s;
+	background-color: rgba(var(--colorful), 1);
+	border: 0px solid rgba(var(--colorful), 1);
+	border-radius: var(--radius-s);
+}
+
+.nav-folder.mod-root > .nav-folder-children > .nav-folder .nav-folder-children {
+	border-color: rgba(var(--800-RGB), 1);
+}
+
+.nav-folder.mod-root > .nav-folder-children > .nav-file > .nav-file-title,
+.nav-folder.mod-root
+	> .nav-folder-children
+	> .nav-file.has-focus
+	> .nav-file-title {
+	margin-bottom: 0;
+}
+
+.workspace-leaf.mod-active .nav-folder.has-focus > .nav-file-title,
+.workspace-leaf.mod-active .nav-folder.has-focus > .nav-file-title:focus-within,
+.workspace-leaf.mod-active .nav-folder.has-focus > .nav-folder-title,
+.workspace-leaf.mod-active
+	.nav-folder.has-focus
+	> .nav-folder-title:focus-within {
+	box-shadow: none;
+}
+
+.theme-dark .nav-file-tag {
+	background-color: rgba(var(--000-RGB), 0);
+	border-radius: var(--radius-m);
+	color: var(--800);
+}
+.theme-light .nav-file-tag {
+	background-color: rgba(var(--000-RGB), 0.4);
+	border-radius: var(--radius-m);
+	color: var(--600);
+}
+.theme-dark
+	.nav-folder.mod-root
+	> .nav-folder-children
+	> .nav-file
+	> .tree-item-self.is-clickable.nav-file-title
+	> .nav-file-tag {
+	color: var(--text-muted);
+}
+
+body:not(.is-grabbing) .tree-item-self.is-clickable:hover,
+.nav-file-title.is-active {
+	background-color: transparent;
+	border-radius: inherit;
+}
+
+.nav-file-title-content,
+.nav-folder-title-content {
+	flex-grow: 1;
+}
+
+.nav-folder-title[data-count]::after {
+	background-color: currentColor;
+	width: 6px;
+	height: 6px;
+	padding: 0;
+	content: "";
+	margin: -1px 4px 0 0;
+	border-radius: var(--radius-xl);
+}
+.nav-folder.mod-root > .nav-folder-children > .nav-file .nav-file-title:hover {
+	color: var(--text-muted);
+}
+.nav-folder.mod-root
+	> .nav-folder-children
+	> .nav-file
+	.nav-file-title.is-active:hover {
+	color: var(--text-normal);
+}
+
+.workspace-leaf-content[data-type="bookmarks"] .tree-item-self {
+	color: var(--800) !important;
+}
+body:not(.is-grabbing) .tree-item-self.is-active:hover,
+.tree-item-self.is-active {
+	background: none;
+}
+
+.theme-dark
+	.workspace-leaf-content[data-type="bookmarks"]
+	.tree-item-self
+	.tree-item-icon {
+	color: rgba(var(--800-RGB));
+}
+
+.theme-light
+	.workspace-leaf-content[data-type="bookmarks"]
+	.tree-item-self
+	.tree-item-icon {
+	color: rgba(var(--600-RGB));
+}
+.workspace-leaf-content[data-type="bookmarks"] > div.view-content > div {
+	gap: 3px;
+	display: flex;
+	flex-direction: column;
+}
+
+/*================================================*/
+/* Metadata Menu Plugin
+/*================================================*/

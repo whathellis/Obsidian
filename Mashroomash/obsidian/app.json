@@ -1,7 +1,27 @@
 {
   "defaultViewMode": "preview",
-  "livePreview": true,
+  "livePreview": false,
   "propertiesInDocument": "hidden",
   "alwaysUpdateLinks": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "userIgnoreFilters": [
+    "99/"
+  ],
+  "attachmentFolderPath": "99/Embeds",
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "autoConvertHtml": true,
+  "newFileLocation": "folder",
+  "useMarkdownLinks": false,
+  "newFileFolderPath": "99",
+  "showInlineTitle": false,
+  "showUnsupportedFiles": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Tabloid",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  }
 }

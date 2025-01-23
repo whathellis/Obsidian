@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1720894623313,
+      "path": "07/YouTube/Work/Solving The Folder, Tags, Links Debate With MOCs (Maps of Content).md",
+      "subpath": "#^515b36",
+      "title": "Everlasting happiness comes from living a life in accordance with virtue"
+    },
+    {
+      "type": "file",
+      "ctime": 1724247250023,
+      "path": "07/Read/Stuff/The Hitchhiker's guide to understanding digital 3D model file formats.md",
+      "title": "3D formats"
+    },
+    {
+      "type": "file",
+      "ctime": 1724314151643,
+      "path": "07/Read/3D/The Toolbag Baking Tutorial - Marmoset.md",
+      "title": "Texture maps"
+    },
+    {
+      "type": "file",
+      "ctime": 1725677340876,
+      "path": "07/Read/Stuff/The Hitchhiker's Guide.md",
+      "subpath": "#^442bdc",
+      "title": "The wise reader probably already knows or remembers that colour displays haven’t always had code values that represented intensity. In fact, the original colour displays weren’t terribly colourful, and had limited, specific colours they could represent. Those display encodings became known as [palettized](https://en.wikipedia.org/wiki/Palette_%28computing%29), and their semantics were basically like picking spot colours out from a given list. This post has left behind that era in the hope of removing some of that confusing history, not that you won’t see it come up time and time again as one confused idiot “explains” colour in a verbal diarrhea potpourri from time to time on those ever-awesome answer sites… |↩︎]]"
+    },
+    {
+      "type": "file",
+      "ctime": 1735973966732,
+      "path": "08/Plugins/Charts View.md",
+      "title": "Charts"
+    },
+    {
+      "type": "group",
+      "ctime": 1737406671445,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1737406316622,
+          "path": "08/Syntax/Dataview Query Language.md",
+          "title": "Dataview"
+        },
+        {
+          "type": "file",
+          "ctime": 1737406629798,
+          "path": "08/Syntax/Metadata on pages.md",
+          "title": "properties"
+        }
+      ],
+      "title": "Syntax"
+    }
+  ]
+}

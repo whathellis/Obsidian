@@ -1,27 +1,34 @@
 {
   "main": {
-    "id": "86f72cb0b35c1119",
+    "id": "181f705840d6718a",
     "type": "split",
     "children": [
       {
-        "id": "54da3de9070566ab",
+        "id": "47d15719945c4484",
         "type": "tabs",
         "children": [
           {
-            "id": "f9bf695f12370ac3",
+            "id": "8ff1dd406df95a5d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "weekly",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "08/Markdown.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              },
+              "pinned": true
             }
           },
           {
-            "id": "e2821ed890be1692",
+            "id": "34678fbc5d832206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01/Tasks.md",
+                "file": "02 Review/Skincare/Skincare products.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -29,20 +36,38 @@
             }
           },
           {
-            "id": "aaf1c0c4f8263c53",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "161523fe429ecad9",
+            "id": "c5ea8418ab51dba3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99/Obsidian Dataview.md",
+                "file": "06 Plan/01/2024.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "cf43bb235d5420b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 Notes/Graphic Design Resources.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e767696e10d40470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Projects/Portfolio/Resting Pieces.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -50,36 +75,36 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e443db00fa48e865",
+    "id": "71b6debb79b1cf2a",
     "type": "split",
     "children": [
       {
-        "id": "cc80e5154a5cd150",
+        "id": "1aef01831a418b51",
         "type": "tabs",
         "children": [
           {
-            "id": "da7b6f9d0f1816c5",
+            "id": "a11709beadb07670",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"topics\"]",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "363cc9a5a61cdc0b",
+            "id": "6b94e71b017baea6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,15 +112,7 @@
             }
           },
           {
-            "id": "ceba857e8d4bab85",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "86cca27eb23a3d20",
+            "id": "a3569a46572cf654",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -107,12 +124,22 @@
             }
           },
           {
-            "id": "359f65cf9c22f311",
+            "id": "579ab28004e63040",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04 Projects/Portfolio/Resting Pieces.md"
+              }
+            }
+          },
+          {
+            "id": "038c758bd611c17a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           }
@@ -121,46 +148,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 280.5
   },
   "right": {
-    "id": "e3ec1d4b952827ac",
+    "id": "19c33934ca25c34f",
     "type": "split",
     "children": [
       {
-        "id": "2b4a82c33ada0dc0",
+        "id": "a2c91b50f9103fe4",
         "type": "tabs",
+        "dimension": 57.98403193612774,
         "children": [
           {
-            "id": "924ac5c51c973972",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "34c776dc966f5bf8",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ff36f9aed63ba349",
+            "id": "d724e5349c261932",
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "04 Projects/Portfolio/Resting Pieces.md"
+              }
             }
           },
           {
-            "id": "a43eb1a657d159ef",
+            "id": "f005e5ec840541d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 Projects/Portfolio/Resting Pieces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,18 +187,19 @@
             }
           },
           {
-            "id": "64340f05be0a3c5b",
+            "id": "0c8ee57a7199a9a7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 Projects/Portfolio/Resting Pieces.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aa84c1060c031553",
+            "id": "63bef86674911dd1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -192,68 +208,208 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "5a92a892c6fc0a9f",
+            "type": "leaf",
+            "state": {
+              "type": "link-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "cae5026e56fc6c7e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f29bad40122b301d",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "db940b9978743e09",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
+      },
+      {
+        "id": "aa64a81916ed7ec3",
+        "type": "tabs",
+        "dimension": 42.01596806387226,
+        "children": [
+          {
+            "id": "08d7bad4409f45e2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "37d1ad2a4041518e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "04 Projects/Portfolio/Resting Pieces.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792664,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "1b575e635a205d40",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-outline",
+              "state": {
+                "activeSet": 0,
+                "activeGranularity": 0
+              }
+            }
+          },
+          {
+            "id": "a0731097f7bc95f3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7839adc0db7d9b8",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "obsidian-projects:Open projects": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-projects:Open projects": false
+      "canvas:Create new canvas": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "cmdr:YTranscript: Get YouTube transcript from url prompt": true,
+      "obsidian-day-planner:Timeline": true,
+      "nifty-links:Nifty Links": true,
+      "yesterday:Create entry": true,
+      "yesterday:Toggle draft/complete": true,
+      "link-tree:Link Tree": true,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false,
+      "activity-heatmap:Open activity heatmap": false,
+      "markwhen:Create new Markwhen file": false,
+      "chronology:Open Chronology": true,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "aaf1c0c4f8263c53",
+  "active": "e767696e10d40470",
   "lastOpenFiles": [
-    "01/Tasks.md",
-    "99/Obsidian Dataview.md",
-    "01/Post.md",
-    "00 Daily/24.06.10.md",
-    "01/April.md",
-    "00 Daily/24.06.09.md",
-    "00 Daily/24.05.22.md",
-    "00 Daily/24.05.21.md",
-    "00 Daily/24.06.02.md",
-    "06 Skincare/PM.png",
-    "06 Skincare/Mask.png",
-    "06 Skincare/Art&Fact.md",
-    "06 Skincare/AM.png",
-    "00 Daily/24.06.08.md",
-    "00 Daily/24.06.04.md",
-    "00 Daily/24.06.03.md",
-    "00 Daily/24.06.01.md",
-    "00.md",
-    "00 Daily/24.06.05.md",
-    "00 Daily/24.06.07.md",
-    "00 Daily/24.06.06.md",
-    "99/README.md",
-    "07 Template/Editing Checklist.md",
-    "07 Template/Daily.md",
-    "07 Template/Cssclasses.md",
-    "07 Template/Apps.canvas",
-    "99/index.html.md",
-    "06 Skincare",
-    "00 Daily/24.05.09.md",
-    "00 Daily/Invalid date.md",
-    "99",
-    "07 Template",
-    "06",
-    "05",
-    "04",
-    "03",
-    "02",
-    "01",
-    "00 Daily"
+    "obsidian/plugins/activity-heatmap/activity_heatmap_data/data_v1.json",
+    "obsidian/themes/🔔 Chime/theme.css",
+    "obsidian/themes/🔔 Chime/manifest.json",
+    "obsidian/themes/Vicious/theme.css",
+    "obsidian/themes/Shiba Inu/theme.css",
+    "obsidian/themes/Vicious/manifest.json",
+    "obsidian/themes/Royal Velvet/theme.css",
+    "obsidian/themes/Shiba Inu/manifest.json",
+    "obsidian/themes/Royal Velvet/manifest.json",
+    "obsidian/themes/PLN/theme.css",
+    "obsidian/themes/PLN/manifest.json",
+    "README - Copy.md",
+    "04 Projects/Portfolio/Resting Pieces.md",
+    "08/Markdown.md",
+    "05 Notes/Graphic Design Resources.md",
+    "02 Review/Skincare/Skincare products.md",
+    "Index.md",
+    "Untitled 1.canvas",
+    "01 Maps/Tags/project.md",
+    "01 Maps/Tags/video animation.md",
+    "01 Maps/Tags/YouTube.md",
+    "06 Plan/Ideas.md",
+    "06 Plan/05/00/Modeling.md",
+    "06 Plan/05/00/Sculpting.md",
+    "06 Plan/04/To Read.md",
+    "06 Plan/04/Contests.md",
+    "01 Maps/Tags/playlist.md",
+    "01 Maps/Tags/channel.md",
+    "02 Review/Cara.md",
+    "02 Review/Kinopio.md",
+    "02 Review/Instagram.md",
+    "04 Projects/Portfolio/Animated character.md",
+    "03 Code/Code blocks.md",
+    "03 Code/index.html.md",
+    "03 Code/Portfolio.html.md",
+    "04 Projects/Done/Blender Donut.md",
+    "04 Projects/Done/Character Design Contest.md",
+    "02 Review/Canvas/Activity.canvas",
+    "99/Embeds/Crystal.jpg",
+    "99/Embeds/11.jpg",
+    "99/Embeds/AF Toner (7).webp",
+    "99/Embeds/AF tonic.webp",
+    "02 Review/Skincare/AM.png",
+    "99/Embeds/Screenshot 2024-11-05 03.06.11 Photos.jpg",
+    "99/Embeds/Pasted image 20240722163909.jpg",
+    "06 Plan/01/2024.canvas",
+    "06 Plan/01/Year.canvas",
+    "02 Review/Canvas/Diet.canvas",
+    "99/CSS/Page Colors.canvas",
+    "04 Projects/Done/ED brochure.canvas",
+    "99/Embeds/Screenshot 2025-01-14 01.29.37 Photos.jpg",
+    "99/Embeds/hg2dc-logo-text-2000-618.webp",
+    "99/Embeds/hg2dc-logo-text-2000-617.webp",
+    "🦋 Marketing Kinopio.canvas",
+    "🧴 Skincare Journal.canvas",
+    "💐 Kinopio Roadmap.canvas"
   ]
 }

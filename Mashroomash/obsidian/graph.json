@@ -1,0 +1,86 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"05 Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 48844
+      }
+    },
+    {
+      "query": "path:\"04 Projects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5920767
+      }
+    },
+    {
+      "query": "tag:#goal",
+      "color": {
+        "a": 1,
+        "rgb": 16711791
+      }
+    },
+    {
+      "query": "path:\"07/YouTube\"",
+      "color": {
+        "a": 1,
+        "rgb": 10852863
+      }
+    },
+    {
+      "query": "path:\"01 Maps\"",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "path:\"02 Review\"",
+      "color": {
+        "a": 1,
+        "rgb": 16762880
+      }
+    },
+    {
+      "query": "path:\"06 Plan\"",
+      "color": {
+        "a": 1,
+        "rgb": 16743081
+      }
+    },
+    {
+      "query": "path:\"08\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "path:\"07/Read\"",
+      "color": {
+        "a": 1,
+        "rgb": 11911680
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.05703125,
+  "lineSizeMultiplier": 1.49088541666667,
+  "collapse-forces": true,
+  "centerStrength": 0.502604166666667,
+  "repelStrength": 10.0520833333333,
+  "linkStrength": 0.497395833333333,
+  "linkDistance": 30,
+  "scale": 0.1316872427983575,
+  "close": false
+}

@@ -1,13 +1,24 @@
 {
   "accentColor": "#a8d600",
-  "interfaceFontFamily": "Source Code Pro",
-  "textFontFamily": "Source Code Pro",
-  "monospaceFontFamily": "Source Code Pro",
+  "interfaceFontFamily": "Comodo Free,Como,Roc Grotesk",
+  "textFontFamily": "Como,Uto,All Round Gothic,Chocolate Smoothies",
+  "monospaceFontFamily": "Cutive Mono,Sono Monospace,Space Mono",
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "Daily Note Themes",
     "Notebook Backgrounds",
+    "Page Gallery",
+    "Wiki Pages",
+    "Daily Note Themes",
+    "checkboxes",
+    "supercharged-links-gen",
+    "Wide Pages",
+    "theme",
+    "outline",
+    "vicious text",
     "Colored Sidebar Items"
   ],
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "moonstone",
+  "cssTheme": "🔔 Chime",
+  "showViewHeader": true
 }

@@ -87,14 +87,14 @@ change or remove those font-family lines from this snippet.
   color: var(--primary);
   text-align: center;
   font-size: 60px;
-  font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono", "JetBrains Mono";
+  font-family: "Como", "JetBrains Mono";
   padding: 0 !important;
 }
 .daily :is(h2, .HyperMD-header.HyperMD-header-2) {
   color: var(--highlight);
   text-align: center;
   font-size: 30px;
-  font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono", "JetBrains Mono";
+  font-family: "Como", "JetBrains Mono";
   font-style: italic;
   padding: 0 !important;
 }
@@ -103,7 +103,7 @@ change or remove those font-family lines from this snippet.
   text-align: center;
 
   font-size: 32px;
-  font-family: "Bai Jamjuree", "JetBrainsMono Nerd Font Mono", "JetBrains Mono";
+  font-family: "Como", "JetBrains Mono";
   padding-top: 0;
 }
 .daily :is(h4, .HyperMD-header.HyperMD-header-4) {
@@ -115,6 +115,40 @@ change or remove those font-family lines from this snippet.
   margin-bottom: 0;
   padding-top: 0;
   font-size: 20px;
+  width: fit-content;
+  padding-left: 6px;
+  padding-right: 6px;
+  /* border: solid; */
+  border-radius: 8px;
+  /* border-width: 2px; */
+  word-wrap: normal;
+}
+.daily :is(h5, .HyperMD-header.HyperMD-header-4) {
+  background-color: var(--highlight);
+  color: var(--dark);
+  /* border-color: var(--primary); */
+  /* font-family: "JetBrainsMono Nerd Font Mono", "JetBrains Mono", monospace; */
+  font-weight: 900;
+  margin-bottom: 0;
+  padding-top: 0;
+  font-size: 15px;
+  width: fit-content;
+  padding-left: 6px;
+  padding-right: 6px;
+  /* border: solid; */
+  border-radius: 8px;
+  /* border-width: 2px; */
+  word-wrap: normal;
+}
+.daily :is(h6, .HyperMD-header.HyperMD-header-4) {
+  background-color: var(--dark);
+  color: var(--highlight);
+  /* border-color: var(--primary); */
+  /* font-family: "JetBrainsMono Nerd Font Mono", "JetBrains Mono", monospace; */
+  font-weight: 700;
+  margin-bottom: 0;
+  padding-top: 0;
+  font-size: 15px;
   width: fit-content;
   padding-left: 6px;
   padding-right: 6px;
