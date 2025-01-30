@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2019/05/23/question-5/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/05/bc5c1-1wslfbvitbaj0owqtleyowa.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-04
 duration: 4
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #5: What the F*ck does 0.5 mean?
