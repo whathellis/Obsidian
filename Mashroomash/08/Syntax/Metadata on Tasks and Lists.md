@@ -104,8 +104,8 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
 - [-] Log meals to **필라이즈**
 - [-] Log meals to **필라이즈**
 - [-] Log meals to **필라이즈**
-- [-] Breakfast
 - [-] Log meals to **필라이즈**
+- [-] Breakfast
 - [-] Log meals to **필라이즈**
 - [-] Breakfast
 - [-] Log meals to **필라이즈**
@@ -127,6 +127,28 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
 - [x] install [[Houdini]]
     - [-] Arnold for Houdini
 - [m] A little "poem": > I was playing the piano, Playing guitar, drums, and tennis I was swimming, running, fighting Rode the bike and skateboard.
+- [ ] [do not binge](Daily.md)
+- [ ] [Morning skincare](AM.png)
+- [ ] Work on a #3D/project
+- [ ] #post/3D on [[Cara]]
+- [ ] #post/3D on [[Instagram]]
+- [ ] [do not binge](Daily.md)
+- [ ] [Morning skincare](AM.png)
+- [ ] Work on a #3D/project
+- [ ] #post/3D on [[Cara]]
+- [ ] #post/3D on [[Instagram]]
+- [ ] [[Rigid Body Dynamics]]
+- [ ] [[Geometry Nodes For Beginners - Blender 3D]]
+- [ ] [[CGI for Product Advertising]]
+- [ ] [[Introduction to Show Titles Design - By Crossmind Studio]]
+- [ ] [[Animated Content Creation]]
+- [ ] [[Mantaflow]]
+- [ ] [[Modeling for Animation!]]
+- [ ] [[Rigging Characters in Blender]]
+- [ ] [[Get Good at Blender 2.8]]
+- [ ] [[Stylized Character Bust]]
+- [ ] [[Game Ready 3D Enemy Minion]]
+- [ ] [[Maya 2024 Course]]
 - [U] [[Salicylic Acid 2% + Urea 2% + Panthenol 2%]]
 - [k] [[Art&Fact Lactobionic Acid 1% + Lactic Acid 2% + Hyaluronic Acid 0.1%]]
 - [U] [[Salicylic Acid 2% + Licorice Root Extract 3%]]
@@ -193,28 +215,18 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
 - [n] n Dont use
 - [o] o Second Use
 - [l] l Fav
-- [ ] [[Rigid Body Dynamics]]
-- [ ] [[Geometry Nodes For Beginners - Blender 3D]]
-- [ ] [[CGI for Product Advertising]]
-- [ ] [[Introduction to Show Titles Design - By Crossmind Studio]]
-- [ ] [[Animated Content Creation]]
-- [ ] [[Mantaflow]]
-- [ ] [[Modeling for Animation!]]
-- [ ] [[Rigging Characters in Blender]]
-- [ ] [[Get Good at Blender 2.8]]
-- [ ] [[Stylized Character Bust]]
-- [ ] [[Game Ready 3D Enemy Minion]]
-- [ ] [[Maya 2024 Course]]
-- [ ] timelapse
-- [ ] render
-- [ ] edited video
-- [ ] post on social media - [ ] Instagram - [ ] YouTube - [ ] Twitter - [ ] Cara - [ ] [[Portfolio]] - [ ] [[Artstation]] - [ ] The Rookies [High-Five all the amazing entries to Meet Mat 4!](https://www.therookies.co/contests/groups/meet-mat-4/entries)
 - [-] remake lighting
 - [-] add animation smears
     - [-] motion blur
 - [-] timelapse
 - [-] edited video
 - [-] The Rookies
+- [8] Meet Mat Animation  ![|200](https://d3stdg5so273ei.cloudfront.net/mashroomash/2024-10-22/770038/1400xAUTO/027-mashroomash.jpg)
+- [-] stop mo
+- [ ] timelapse
+- [ ] render
+- [ ] edited video
+- [ ] post on social media - [ ] Instagram - [ ] YouTube - [ ] Twitter - [ ] Cara - [ ] [[Portfolio]] - [ ] [[Artstation]] - [ ] The Rookies [High-Five all the amazing entries to Meet Mat 4!](https://www.therookies.co/contests/groups/meet-mat-4/entries)
 - [ ] timelapse
 - [ ] render
 - [ ] edited video
@@ -224,8 +236,6 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
     - [ ] Twitter
     - [ ] Cara
 - [ ] The Rookies
-- [8] Meet Mat Animation  ![|200](https://d3stdg5so273ei.cloudfront.net/mashroomash/2024-10-22/770038/1400xAUTO/027-mashroomash.jpg)
-- [-] stop mo
 - [X] Shadows
     - Rays: 4
     - Steps: 12
@@ -285,7 +295,7 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
 - [ ] ### December ```dataview Task WHERE contains(file.name, "December") group by completed ```
 - [ ] [[2024]]: [[24.09.September]]
 - [k] [[Maya Statue]]
-- [k] read [[The Hitchhiker's Guide to Digital Colour]]
+- [k] read [[01 Maps/Topics/The Hitchhiker's Guide to Digital Colour]]
 - [ ] [[2024]]: [[24.08.August]] - [[24.10.October]]
 - [-] [[Character Design Contest]]
 - [ ] Chita Skull - [[2024-W38#24.09.18]]
@@ -330,7 +340,7 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
 - [ ] [[To Read]]
 - [ ] [[Beginners guide to XGen pipeline]]
 - [ ] [[ImagineFX]] Latest issue
-- [ ] [[The Hitchhiker's Guide to Digital Colour]]
+- [ ] [[01 Maps/Topics/The Hitchhiker's Guide to Digital Colour]]
 - [ ] [[PBR Guide]]
 - [ ] [[The Toolbag Baking Tutorial - Marmoset]]
 - [ ] watch [[LuxCore Render for Blender]] playlist
@@ -456,7 +466,7 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
     - [ ] [[Beginners guide to XGen pipeline]]
 - [ ] [[SPACE CADET BLENDER TUTORIAL  AENDOM]]
 - [ ] [[Color Management for CGI Artists]] ➕ 2024-08-06
-    - [ ] [[The Hitchhiker's Guide to Digital Colour]]
+    - [ ] [[01 Maps/Topics/The Hitchhiker's Guide to Digital Colour]]
 - [ ] [[Get Good at Blender 2.8]] ➕ 2024-08-08
 - [ ] [[BLENDER & SUBSTANCE PAINTER MEDICINE CABINET]]
 - [ ] [[3D Modeling & Rendering - LOWPOLY ENVIRONMENT in BLENDER]]
@@ -509,9 +519,9 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
 - [ ] [[Zbrush Sculpting  Base Female Face Forms]] ✅ 2024-09-20
 - [ ] [[Tutorial Sculpting Mouths in ZBrush  Step by Step]]
 - [ ] [[Hard Surface Basics  ZBrush Tutorial]]✅ 2024-09-26
-- [ ] 
-- [ ] 
 - [ ] u
+- [ ] 
+- [ ] 
 - [ ] 
 - [ ] timelapse #todo
 - [ ] render #todo
@@ -536,6 +546,7 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
 - [ ] Pokemons
 - [ ] Realistic Still Life
 - [ ] Hard surface
+- [ ] Todo #todo
 - [ ] Customize graph colors
 - [ ] More chart types
 - [ ] Export data
@@ -579,12 +590,33 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
 - [ ] Due this Saturday 🗓️2021-08-29
 - [ ] I made this on ➕1990-06-14
 - [ ] Task I can start this weekend 🛫2021-08-29
+- [ ] normal
+- [/] / - incomplete
+- [s] s - forwarded
+- [<] < - scheduling
+- [?] ? - question
+- [!] ! - exclamation
+- ["] " - quote
+- [l] l - location
+- [b] b - bookmark
+- [i] i - information
+- [S] S - savings
+- [I] I - idea
+- [p] p - thumbs up
+- [c] c - thumbs down
+- [f] f - fire
+- [k] k - key
+- [w] w - win
+- [u] u - up
+- [d] d - down
+- [ ] a simple note <!--SR:!2025-02-01,4,270-->
 - [ ] 
 - [ ] [do not binge](Daily.md)
 - [ ] [Morning skincare](AM.png)
 - [ ] Work on a #3D/project
 - [ ] #post/3D on [[Cara]]
 - [ ] #post/3D on [[Instagram]]
+- [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
@@ -599,7 +631,6 @@ If you're using a [TASK](https://blacksmithgu.github.io/obsidian-dataview/queri
     - [ ] [[Portfolio]]
     - [ ] [[Artstation]]
         - [ ] The Rookies
-- [ ] 
  `
 
 For every other Query type, you first need to access the implicit field `file.lists` or `file.tasks` to check for these list item specific implicit fields:
@@ -612,21 +643,21 @@ For every other Query type, you first need to access the implicit field `file.l
 - [[00 Daily/07/2024-07-12.md|2024-07-12]]
 - [[00 Daily/07/2024-07-13.md|2024-07-13]]
 - [[00 Daily/07/2024-07-14.md|2024-07-14]]
-- [[00 Daily/07/2024-07-16.md|2024-07-16]]
 - [[00 Daily/07/2024-07-15.md|2024-07-15]]
+- [[00 Daily/07/2024-07-16.md|2024-07-16]]
+- [[00 Daily/07/2024-07-17.md|2024-07-17]]
+- [[00 Daily/07/2024-07-18.md|2024-07-18]]
 - [[00 Daily/07/2024-07-19.md|2024-07-19]]
 - [[00 Daily/07/2024-07-20.md|2024-07-20]]
-- [[00 Daily/07/2024-07-18.md|2024-07-18]]
 - [[00 Daily/07/2024-07-21.md|2024-07-21]]
-- [[00 Daily/07/2024-07-17.md|2024-07-17]]
 - [[00 Daily/07/2024-07-22.md|2024-07-22]]
 - [[00 Daily/07/2024-07-23.md|2024-07-23]]
 - [[00 Daily/07/2024-07-24.md|2024-07-24]]
 - [[00 Daily/07/2024-07-25.md|2024-07-25]]
 - [[00 Daily/07/2024-07-26.md|2024-07-26]]
 - [[00 Daily/07/2024-07-27.md|2024-07-27]]
-- [[00 Daily/07/2024-07-29.md|2024-07-29]]
 - [[00 Daily/07/2024-07-28.md|2024-07-28]]
+- [[00 Daily/07/2024-07-29.md|2024-07-29]]
 - [[00 Daily/07/2024-07-30.md|2024-07-30]]
 - [[00 Daily/07/2024-07-31.md|2024-07-31]]
 - [[00 Daily/08/2024-08-01.md|2024-08-01]]
@@ -634,21 +665,23 @@ For every other Query type, you first need to access the implicit field `file.l
 - [[00 Daily/08/2024-08-05.md|2024-08-05]]
 - [[00 Daily/08/2024-08-20.md|2024-08-20]]
 - [[00 Daily/11/2024-11-19.md|2024-11-19]]
+- [[00 Daily/2025-01-28.md|2025-01-28]]
+- [[00 Daily/2025-01-30.md|2025-01-30]]
+- [[01 Maps/YouTube/Channels/CrossMind Studio.md|CrossMind Studio]]
+- [[01 Maps/YouTube/Channels/Dikko.md|Dikko]]
+- [[01 Maps/YouTube/Channels/Grant Abbitt.md|Grant Abbitt]]
+- [[01 Maps/YouTube/Channels/Nexttut.md|Nexttut]]
 - [[02 Review/Skincare/Art&Fact.md|Art&Fact]]
 - [[02 Review/Skincare/Icon Skin.md|Icon Skin]]
 - [[02 Review/Skincare/Onme.md|Onme]]
 - [[02 Review/Skincare/Other.md|Other]]
 - [[02 Review/Skincare/Skincare products.md|Skincare products]]
-- [[01 Maps/YouTube/Channels/CrossMind Studio.md|CrossMind Studio]]
-- [[01 Maps/YouTube/Channels/Dikko.md|Dikko]]
-- [[01 Maps/YouTube/Channels/Grant Abbitt.md|Grant Abbitt]]
-- [[01 Maps/YouTube/Channels/Nexttut.md|Nexttut]]
-- [[04 Projects/Brain threads.md|Brain threads]]
 - [[04 Projects/Done/Blender Donut.md|Blender Donut]]
 - [[04 Projects/Done/Maya Statue.md|Maya Statue]]
-- [[04 Projects/To-Do/Demo Reel.md|Demo Reel]]
 - [[04 Projects/Portfolio/Meet Meat.md|Meet Meat]]
 - [[04 Projects/Portfolio/Talking Head.md|Talking Head]]
+- [[04 Projects/Brain threads.md|Brain threads]]
+- [[04 Projects/To-Do/Demo Reel.md|Demo Reel]]
 - [[05 Notes/3D/Eevee settings.md|Eevee settings]]
 - [[05 Notes/Animation/Should you PLAN your animation.Note.md|Should you PLAN your animation.Note]]
 - [[05 Notes/Animation/The Three Biggest Ideas in Animation.Note.md|The Three Biggest Ideas in Animation.Note]]
@@ -682,21 +715,24 @@ For every other Query type, you first need to access the implicit field `file.l
 - [[06 Plan/05/02/Natron.md|Natron]]
 - [[06 Plan/05/02/Substanse painter.md|Substanse painter]]
 - [[06 Plan/05/02/ZBrush.md|ZBrush]]
-- [[06 Plan/06/Goal.md|Goal]]
 - [[06 Plan/06/Kanban.md|Kanban]]
+- [[06 Plan/06/Goal.md|Goal]]
 - [[06 Plan/06/Month.md|Month]]
 - [[06 Plan/06/Project.md|Project]]
 - [[06 Plan/Ideas.md|Ideas]]
+- [[08/Markdown.md|Markdown]]
 - [[08/Plugins/Mood Tracker.md|Mood Tracker]]
 - [[08/Syntax/Basic formatting syntax.md|Basic formatting syntax]]
 - [[08/Syntax/Dataview Query Language.md|Dataview Query Language]]
 - [[08/Syntax/Metadata on Tasks and Lists.md|Metadata on Tasks and Lists]]
+- [[99/07/Untitled.md|Untitled]]
+- [[99/flashcards.md|flashcards]]
 - [[99/Template/Channel.md|Channel]]
 - [[99/Template/Daily.md|Daily]]
 - [[99/Template/Goal.md|Goal]]
+- [[99/Template/Month.md|Month]]
 - [[99/Template/Plan.md|Plan]]
 - [[99/Template/Project.md|Project]]
-- [[99/Template/Month.md|Month]]
  `
 
 This will give you back all the file links that have unfinished tasks inside. We get back a list of tasks on page level and thus need to use a [list function](https://blacksmithgu.github.io/obsidian-dataview/reference/functions/) to look at each element.
