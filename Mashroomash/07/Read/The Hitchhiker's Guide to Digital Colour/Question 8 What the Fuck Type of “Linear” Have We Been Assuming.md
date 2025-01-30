@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2019/06/23/question-8/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/06/40268-1w8o68p7-xvli2qccmjggug.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-09
 duration: 5
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #8: What the F*ck Type of “Linear” Have We Been Assuming?
