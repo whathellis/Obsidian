@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2022/08/11/question-28-what-the-fck-is-the-difference-between-affect-and-effect-and-what-the-fck-is-rashomon/
 thumbnail: https://hg2dc.com/wp-content/uploads/2022/08/rashomon_poster_3-e1660265559465.jpg?w=1200
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:27:57
 duration: 6
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #28: What the F*ck is the Difference Between Affect and Effect? (And What the F*ck is Rashomon?)
