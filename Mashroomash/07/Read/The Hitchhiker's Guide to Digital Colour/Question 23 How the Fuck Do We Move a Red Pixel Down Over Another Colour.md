@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2020/05/12/question-23/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/04/one-pixel-50-60-emission-green-red.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:21:04
 duration: 6
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #23: How the F*ck Do We Move a Red Pixel Down Over Another Colour?
