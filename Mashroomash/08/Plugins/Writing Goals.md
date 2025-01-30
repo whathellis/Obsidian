@@ -1,3 +1,6 @@
+---
+{}
+---
 # Obsidian Writing Goals
 
 Set yourself dynamic writing goals for notes and folders to help you hit your long form writing targets with Obsidian.
