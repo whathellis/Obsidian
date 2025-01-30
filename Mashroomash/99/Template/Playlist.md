@@ -5,6 +5,7 @@ URL:
 channel: 
 date: ""
 done: false
+dg-publish: true
 ---
 `````col
 ````col-md
