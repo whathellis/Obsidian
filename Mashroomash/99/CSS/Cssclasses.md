@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[../../Page Colors.canvas|Page Colors.canvas]]
 [[./Page Colors|Page Colors]]
 [[./Pen Colors|Pen Colors]]
