@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2020/04/13/question-21/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/04/one-of-these-kids.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:20:28
 duration: 12
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #21: How the F*ck do we Put a Red Pixel on the Screen?
