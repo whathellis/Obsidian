@@ -11,6 +11,7 @@ done: true
 cover: "[[Screenshot 2024-09-24 18.12.53 Photos.jpg]]"
 ---
 [time:: "5m 7s"]
+[[../../../../Substance Designer - Stylized Water Material.canvas|Substance Designer - Stylized Water Material.canvas]]
 # Substance Designer - Stylized Water Material
 `````col
 ````col-md
