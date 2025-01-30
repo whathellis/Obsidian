@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2024/02/03/question-32/
 thumbnail: https://hg2dc.com/wp-content/uploads/2024/02/one-disc.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:31:32
 duration: 11
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #32:  Does the F*cking “Colour” of the Light Change When We Increase or Decrease the Quantity of Light?

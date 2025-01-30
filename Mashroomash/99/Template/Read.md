@@ -7,5 +7,6 @@ duration:
 date: 
 done: false
 topics: 
+dg-publish: true
 ---
-[[Read it Later|Read it Later]] [[../../01 Maps/Themes/Article|Article]]
+[[Read it Later|Read it Later]] [[Article|Article]]

@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2020/04/26/question-22/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/04/general-high-level-overview-2.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:20:44
 duration: 6
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #22: How the F*ck do we Move a Red Pixel?

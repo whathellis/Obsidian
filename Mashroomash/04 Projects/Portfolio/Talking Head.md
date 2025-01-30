@@ -6,8 +6,9 @@ done: true
 date: 2024-07-25
 time: 50
 deadline: 2024-08-17
-cover: "[[Screenshot 2024-09-15 18.25.04 2000×1500_26.jpg.jpg]]"
+cover: ""
 ---
+thumbnails:: !
 
 - [x] [[../../07/YouTube/Watched/Tutorial/Easy Mouth Rig in Blender|Easy Mouth Rig in Blender]]
 - [x] [[../../05 Notes/3D/Mouth Animation|Mouth Animation]]

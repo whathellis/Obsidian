@@ -9,7 +9,7 @@ URL: https://www.therookies.co/contests/groups/meet-mat-3
 time: 73
 cover: ""
 ---
-!
+thumbnails::  !
 
 # Meet Meat
 [[../Done/Meet Mat 4|Meet Mat 4]]

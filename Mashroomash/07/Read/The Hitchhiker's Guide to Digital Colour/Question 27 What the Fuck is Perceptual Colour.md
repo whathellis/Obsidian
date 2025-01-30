@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2022/01/14/question-27/
 thumbnail: https://hg2dc.com/wp-content/uploads/2022/01/question-27-abney-effect.jpg
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:22:53
 duration: 10
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #27: What the F*ck is Perceptual Colour?

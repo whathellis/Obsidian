@@ -8,8 +8,9 @@ channel: "[[CrossMind Studio]]"
 date: 2024-05-12
 time: 71
 deadline: 2024-05-27
-cover: "[[Screenshot 2024-09-15 18.24.03 2000×2000_9.jpg.jpg]]"
+cover: ""
 ---
+thumbnails:: !
 # Animated character
 `````col
 ````col-md

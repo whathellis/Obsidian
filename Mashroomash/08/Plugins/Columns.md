@@ -1,24 +1,25 @@
 ---
 share: true
 ---
+[[../../99/Template/Col|col]]
 > [!example] Context
-> - [Callout syntax](#Callout%20syntax)
-> - [Codeblock syntax](#Codeblock%20syntax)
-> 	- [Codeblock Settings Block](#Codeblock%20Settings%20Block)
-> 	- [The col codeblock](#The%20col%20codeblock)
-> 		- [height property](#height%20property)
-> 		- [textAlign property](#textAlign%20property)
-> 		- [Rows](#Rows)
-> 	- [col-md](#col-md)
-> 		- [height property](#height%20property)
-> 		- [textAlign property](#textAlign%20property)
-> 		- [flexGrow property](#flexGrow%20property)
-> - [Examples](#Examples)
-> - [List Structure](#List%20Structure)
-> - [Settings](#Settings)
-> 	- [Minimum Width of Column](#Minimum%20Width%20of%20Column)
-> 	- [Default span](#Default%20span)
-> - [Upcoming features](#Upcoming%20features)
+> - [Callout syntax](Columns.md##Callout%2520syntax)
+> - [Codeblock syntax](Columns.md##Codeblock%2520syntax)
+> 	- [Codeblock Settings Block](Columns.md##Codeblock%2520Settings%2520Block)
+> 	- [The col codeblock](Columns.md##The%2520col%2520codeblock)
+> 		- [height property](Columns.md##height%2520property)
+> 		- [textAlign property](Columns.md##textAlign%2520property)
+> 		- [Rows](Columns.md##Rows)
+> 	- [col-md](Columns.md##col-md)
+> 		- [height property](Columns.md##height%2520property)
+> 		- [textAlign property](Columns.md##textAlign%2520property)
+> 		- [flexGrow property](Columns.md##flexGrow%2520property)
+> - [Examples](Columns.md##Examples)
+> - [List Structure](Columns.md##List%2520Structure)
+> - [Settings](Columns.md##Settings)
+> 	- [Minimum Width of Column](Columns.md##Minimum%2520Width%2520of%2520Column)
+> 	- [Default span](Columns.md##Default%2520span)
+> - [Upcoming features](Columns.md##Upcoming%2520features)
 
 
 Allows you to create columns in Obsidian  

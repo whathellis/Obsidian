@@ -10,6 +10,7 @@ date: ""
 deadline: 
 done: false
 time: 
+dg-publish: true
 ---
 - [ ] timelapse
 - [ ] render

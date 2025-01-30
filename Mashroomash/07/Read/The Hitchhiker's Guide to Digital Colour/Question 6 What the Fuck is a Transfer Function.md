@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2019/05/28/question-6/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/05/e3524-1k29kohmsu2v8myc6aocksw.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-04
 duration: 8
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #6: What the F*ck is a Transfer Function?

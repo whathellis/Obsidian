@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2020/08/26/question-25/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/08/straight-alpha-meme.jpg
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:22:05
 duration: 11
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #25: What the F*ck is Alpha?

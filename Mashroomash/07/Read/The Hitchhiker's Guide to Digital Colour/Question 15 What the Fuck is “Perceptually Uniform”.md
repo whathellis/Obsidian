@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2020/01/01/question-15/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/01/spectral-locus.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:17:29
 duration: 6
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #15: What the F*ck is “Perceptually Uniform”?

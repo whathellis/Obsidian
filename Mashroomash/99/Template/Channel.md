@@ -1,5 +1,6 @@
 ---
 tags: []
+dg-publish: true
 ---
 `````col
 ````col-md

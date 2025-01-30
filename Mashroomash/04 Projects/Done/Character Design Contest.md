@@ -7,10 +7,12 @@ date: 2024-09-28
 Deadline: 2024-10-31
 URL: https://www.renderhub.com/forum/8449/brain-threads
 time: 86
-cover: "[[Screenshot 2024-11-12 00.18.15 3000×3232_030.2.jpg.jpg]]"
+cover: ""
 ---
+thumbnails:: !
+
 # Character Design Contest  
-[[Brain threads|Brain threads]]
+[[../Brain threads|Brain threads]]
 August 1 - October 31: Prizes Worth $8000
 Share On Social Media **RenderHubContest**
 

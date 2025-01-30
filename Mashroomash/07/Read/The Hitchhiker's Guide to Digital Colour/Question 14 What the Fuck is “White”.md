@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2019/12/28/question-14/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/12/be893-1p6hm7kgk00g3ajgujmkh0w.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:17:13
 duration: 6
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #14: What the F*ck is “White”?

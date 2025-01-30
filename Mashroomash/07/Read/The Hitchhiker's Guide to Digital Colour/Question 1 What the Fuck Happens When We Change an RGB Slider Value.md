@@ -1,7 +1,7 @@
 ---
 URL: https://hg2dc.com/2019/03/23/question-1/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/01/picker-question.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-31
 duration: 5
 done: true

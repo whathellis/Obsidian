@@ -6,8 +6,9 @@ done: true
 date: 2024-08-05
 time: 38
 deadline: 2024-09-02
-cover: "[[Screenshot 2024-09-15 18.25.50 2880×1620_18.jpg.jpg]]"
+cover: ""
 ---
+thumbnails:: !
 - [x] record audio [[../../00 Daily/07/2024-07-25|2024-07-25]]
 	- [x] check grammar [[../../00 Daily/07/2024-07-25|2024-07-25]]
 	- [x] write a script
@@ -20,7 +21,7 @@ cover: "[[Screenshot 2024-09-15 18.25.50 2880×1620_18.jpg.jpg]]"
 - [x] render in Cycles [[../../00 Daily/08/2024-08-02|2024-08-02]]
 - [x] render in Eevee 2
 - [x] [[../Portfolio/Talking Head|Talking Head]] 
-- [x] post [[../../01 Maps/Tags/YouTube|YouTube]] timelapse [[../../06 Plan/03/2024-W37#24.09.12|2024-W37 > 24.09.12]]
+- [x] post [[YouTube index|YouTube index]] timelapse [[../../06 Plan/03/2024-W37#24.09.12|2024-W37 > 24.09.12]]
 
 Hi, usually I don't add voice to my videos, but I wanted to explain a little for this one.
 
