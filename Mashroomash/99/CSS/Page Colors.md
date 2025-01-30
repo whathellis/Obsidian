@@ -24,5 +24,6 @@ cssclasses:
   - page-coffee
   - page-mustard
   - page-green
+dg-publish: true
 ---
 [[../../Page Colors.canvas|Page Colors]]
