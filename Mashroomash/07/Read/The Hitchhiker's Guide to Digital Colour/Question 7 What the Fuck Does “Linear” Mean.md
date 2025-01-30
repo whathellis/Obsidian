@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2019/06/19/question-7/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/06/eb077-1q5b2r_r312diag5okuycng.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-04
 duration: 7
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #7: What the F*ck Does “Linear” Mean?
