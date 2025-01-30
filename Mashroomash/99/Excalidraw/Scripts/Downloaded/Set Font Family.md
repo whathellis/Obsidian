@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 /*
 ![](https://raw.githubusercontent.com/zsviczian/obsidian-excalidraw-plugin/master/images/scripts-font-family.jpg)
 
