@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2021/12/03/question-26/
 thumbnail: https://hg2dc.com/wp-content/uploads/2022/01/60vn01.jpg
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:22:38
 duration: 7
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #26: What the F*ck is Stimulus Colour?
