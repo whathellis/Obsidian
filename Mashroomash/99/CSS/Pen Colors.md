@@ -16,4 +16,5 @@ cssclasses:
   - pen-cyan
   - pen-lime
   - pen-magenta
+dg-publish: true
 ---
