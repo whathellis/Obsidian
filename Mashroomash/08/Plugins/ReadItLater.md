@@ -1,3 +1,6 @@
+---
+{}
+---
 > [!example] Context
 > - [[ReadItLater#Introduction|Introduction]]
 > - [Content Types](ReadItLater.md##Content%2520Types)
