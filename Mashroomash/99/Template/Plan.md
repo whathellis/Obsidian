@@ -12,6 +12,7 @@ cssclasses:
   - Thursday
 date: 
 done: false
+dg-publish: true
 ---
 [[./Month|Month]] [[W|W]] - [[W|W]]
 
