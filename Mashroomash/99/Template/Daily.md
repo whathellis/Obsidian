@@ -15,6 +15,7 @@ cals: false
 done: false
 date: 
 share: true
+dg-publish: true
 ---
 #### Plan:
 - [ ] [do not binge](Daily.md#)
