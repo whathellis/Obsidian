@@ -12,13 +12,9 @@ cssclasses:
   - Thursday
 date: 
 done: false
+dg-publish: true
 ---
 [[./Month|Month]] [[W|W]] - [[W|W]]
-##### Goals::</br>1. </br>2. 
-#### 24.
-#### 24.
-#### 24.
-#### 24.
-#### 24.
-#### 24.
-#### 24.
+
+#### Plan:
+- [ ] 

@@ -5,13 +5,16 @@ date: ""
 channel: "[[Sound Codex]]"
 tags:
   - playlist
-q-type: book
+  - video/soft/music
+cover: "[[maxresdefault (31).jpg]]"
 ---
+[[../../../07/Read/Stuff/Bespoke Synth Reference|Bespoke Synth Reference]]
 `````col
 ````col-md
 flexGrow=1
 ===
 #### [Bespoke Synth: Modular DAW Tutorials and Projects](https://www.youtube.com/playlist?list=PLZYD2Edyty0A1P6Ct61SQhD2PjZZD3oKy)
+
 (Description:: This playlist is your ultimate guide to unlocking the full potential of Bespoke Synth, the innovative modular digital audio workstation to create unique sounds and explore new musical ideas. )
 ````
 ````col-md

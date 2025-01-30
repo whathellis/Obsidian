@@ -7,7 +7,7 @@ published: 2024-08-05T02:00:14
 duration: 42
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "42s"]
+[time:: "42s"]
 # from womp to blender3d modeling process
 `````col
 ````col-md

@@ -5,7 +5,9 @@ date: ""
 channel: "[[Dikko]]"
 tags:
   - playlist
-q-type: book
+  - video/animation/rig
+  - video/3D/character
+cover: "[[hq720(4).jpg]]"
 ---
 `````col
 ````col-md

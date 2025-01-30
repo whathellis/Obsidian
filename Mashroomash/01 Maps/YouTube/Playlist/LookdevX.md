@@ -1,11 +1,12 @@
 ---
-URL: 
+URL: https://www.youtube.com/playlist?list=PL8hZ6hQCGHMUrc81_yaeN18nfbNGzsvaS
 done: false
 date: ""
 channel: "[[Maya]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/tutorial/Maya
+cover: "[[maxresdefault (30).jpg]]"
 ---
 `````col
 ````col-md

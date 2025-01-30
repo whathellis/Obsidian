@@ -1,3 +1,6 @@
+---
+share: true
+---
 - [Tables](Advanced%2520formatting%2520syntax.md##Tables)
 	- [Format content within a table](Advanced%2520formatting%2520syntax.md##Format%2520content%2520within%2520a%2520table)
 - [Diagram](Advanced%2520formatting%2520syntax.md##Diagram)

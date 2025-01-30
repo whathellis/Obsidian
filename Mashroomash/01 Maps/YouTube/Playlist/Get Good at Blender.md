@@ -5,8 +5,9 @@ date: 2024-08-10
 channel: "[[Grant Abbitt]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/tutorial/blender
 playlist: "[[Get Good at Blender 2.8]]"
+cover: "[[sddefault 1.jpg]]"
 ---
 `````col
 ````col-md

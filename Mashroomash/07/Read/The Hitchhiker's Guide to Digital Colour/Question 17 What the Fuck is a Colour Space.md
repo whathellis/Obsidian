@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2020/01/08/question-17/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/01/rgb-is-not-a-colour-space.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:18:42
 duration: 4
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #17: What the F*ck is a Colour Space?
 
-Description:: Sixteen questions! It has taken us sixteen questions to even begin to describe the term “Colour Space” with any degree of useful communication. We can hop right in to our question…
+Sixteen questions! It has taken us sixteen questions to even begin to describe the term “Colour Space” with any degree of useful communication. We can hop right in to our question…
 
 ***Question #17: What is an RGB colour space?***
 

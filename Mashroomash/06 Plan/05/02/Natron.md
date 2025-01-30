@@ -6,12 +6,14 @@ deadline: 2025-03-30
 done: false
 cssclasses:
   - daily
-  - " page-cyan"
-  - " Wednesday"
+  - page-cyan
+  - Wednesday
+entries: []
+dg-publish: true
 ---
-[[../../01/2024|2024]]
+[[../../01/2025|2025]]
 #### Subgoals:
-
+- [[../00/Compositing|Compositing]]
 #### Projects:
-- [x] [[../../../07/Read/Done/Quick tips Creating displacement from images|Quick tips Creating displacement from images]]
+- [x] [[Quick tips Creating displacement from images|Quick tips Creating displacement from images]]
 - [ ] [[../../../01 Maps/YouTube/Playlist/Natron Compositor Tutorials|Natron Compositor Tutorials]] playlist

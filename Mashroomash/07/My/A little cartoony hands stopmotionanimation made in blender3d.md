@@ -7,7 +7,7 @@ published: 2024-09-10T23:00:04
 duration: 6
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "6s"]
+[time:: "6s"]
 # A little cartoony hands stopmotionanimation made in blender3d
 `````col
 ````col-md

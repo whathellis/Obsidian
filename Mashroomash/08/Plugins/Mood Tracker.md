@@ -1,3 +1,6 @@
+---
+{}
+---
 Mood Tracker for Obsidian.md, inspired by [Amazing Marvin's](https://amazingmarvin.com/) Mood Tracker.
 
 ## Why this plugin?

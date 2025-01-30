@@ -7,7 +7,7 @@ published: 2024-08-25T23:00:08
 duration: 12
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "12s"]
+[time:: "12s"]
 # Cartoony Hands - Blender 3D Animation
 `````col
 ````col-md

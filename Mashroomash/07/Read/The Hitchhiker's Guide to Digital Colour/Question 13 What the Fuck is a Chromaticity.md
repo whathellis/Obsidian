@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2019/12/21/question-13/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/12/7f8fc-13pjsbztwangqs7vgx0vu1g.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:15:13
 duration: 10
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #13: What the F*ck is a Chromaticity?
 
-Description:: Another big word for someone who likely only wants to focus on painting on their iPad Pro. The bad news is that exploring new terms takes time and energy. The good news is that there is likely no more an important term for a pixel pusher to learn. Why haven’t you heard of it before? That’s a great question, but if you’ve followed along this series, it probably doesn’t surprise you.
+Another big word for someone who likely only wants to focus on painting on their iPad Pro. The bad news is that exploring new terms takes time and energy. The good news is that there is likely no more an important term for a pixel pusher to learn. Why haven’t you heard of it before? That’s a great question, but if you’ve followed along this series, it probably doesn’t surprise you.
 
 ---
 

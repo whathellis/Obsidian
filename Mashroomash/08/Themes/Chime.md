@@ -1,3 +1,6 @@
+---
+share: true
+---
 ![](https://raw.githubusercontent.com/Bluemoondragon07/chime-theme/HEAD/Screenshots/Showcase.png)
 
 Chime was designed with a special intention to not overwhelm you with options. Built on the principle of highly customizable simplicity, **Chime** provides vast personalization options without going past only what's most important.
@@ -32,7 +35,7 @@ Chime includes four css classes that may come in handy to some people.
 
 ### Pages Gallery
 
-Chime makes minor changes to the [[Obsidian Page Gallery|Obsidian Page Gallery]] plug-in and gives it an appearance similar to that of the cards css class. Text will now break and continue on a new line rather than overflowing when _responsive height_ is enabled, and the tiles will be resized according to amount of text with the _loose tiles_ setting. Images will be automatically set to _cover_ and will override _contain_ (this may change later, I just couldn't get the images to force certain ratios in contain mode). The font size within the tiles has been adjusted and a style setting has been added to get rid of the searchbar.
+Chime makes minor changes to the [[../Plugins/Page Gallery|Page Gallery]] plug-in and gives it an appearance similar to that of the cards css class. Text will now break and continue on a new line rather than overflowing when _responsive height_ is enabled, and the tiles will be resized according to amount of text with the _loose tiles_ setting. Images will be automatically set to _cover_ and will override _contain_ (this may change later, I just couldn't get the images to force certain ratios in contain mode). The font size within the tiles has been adjusted and a style setting has been added to get rid of the searchbar.
 
 ![](https://raw.githubusercontent.com/Bluemoondragon07/chime-theme/HEAD/Screenshots/page-gallery.png)
 

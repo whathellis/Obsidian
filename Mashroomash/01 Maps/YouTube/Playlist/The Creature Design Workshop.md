@@ -5,7 +5,7 @@ date: ""
 channel: 
 tags:
   - playlist
-q-type: book
+  - video/3D/sculpt
 ---
 `````col
 ````col-md

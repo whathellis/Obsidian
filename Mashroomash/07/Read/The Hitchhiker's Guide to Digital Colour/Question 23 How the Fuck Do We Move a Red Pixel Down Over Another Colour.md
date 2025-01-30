@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2020/05/12/question-23/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/04/one-pixel-50-60-emission-green-red.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:21:04
 duration: 6
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #23: How the F*ck Do We Move a Red Pixel Down Over Another Colour?
 
-Description:: We’ve been talking about “pixels” in terms of little squares that can emit light. I’d like to point out that [Alvy Ray Smith, one of the key explorers of the alpha channel, has had a rather solid push back about leaning on the concept of “little squares” geometry exclusively](http://alvyray.com/Sprite/SpriteTheory_v4.2.pdf). [Mr. Blinn, who we introduced previously, also has written a wonderful exploration of the meaning of a pixel](https://dl.acm.org/doi/10.1109/MCG.2005.119).
+We’ve been talking about “pixels” in terms of little squares that can emit light. I’d like to point out that [Alvy Ray Smith, one of the key explorers of the alpha channel, has had a rather solid push back about leaning on the concept of “little squares” geometry exclusively](http://alvyray.com/Sprite/SpriteTheory_v4.2.pdf). [Mr. Blinn, who we introduced previously, also has written a wonderful exploration of the meaning of a pixel](https://dl.acm.org/doi/10.1109/MCG.2005.119).
 
 Loosely, there are a number of ways to interpret what a pixel *is*. For our purposes, as mere mortals and not members of the pantheon of imaging deities, we are going to carry on focusing on the idea of discrete little squares, or *sampled geometry* and light1. Sorry Mr. Blinn and Mr. Smith, it’s probably too much too soon to depart from discrete samples just yet…
 

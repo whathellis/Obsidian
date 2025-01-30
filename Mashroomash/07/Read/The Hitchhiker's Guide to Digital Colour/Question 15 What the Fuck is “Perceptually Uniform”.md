@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2020/01/01/question-15/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/01/spectral-locus.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:17:29
 duration: 6
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #15: What the F*ck is “Perceptually Uniform”?
 
-Description:: We have laid some tremendously important groundwork in the most recent questions. Within that, even if you have seen or heard about the concepts introduced prior, it is helluva important to make sure that what we have explored is extremely clear. Sadly, [the chromaticity diagram explored in Question #13](https://hg2dc.com/question-13/) needs a bit of a revisit to help us out as we start talking about getting our work from one context to another.
+We have laid some tremendously important groundwork in the most recent questions. Within that, even if you have seen or heard about the concepts introduced prior, it is helluva important to make sure that what we have explored is extremely clear. Sadly, [the chromaticity diagram explored in Question #13](https://hg2dc.com/question-13/) needs a bit of a revisit to help us out as we start talking about getting our work from one context to another.
 
 So let’s have a bit of a deeper drill down into the chromaticity diagram…
 

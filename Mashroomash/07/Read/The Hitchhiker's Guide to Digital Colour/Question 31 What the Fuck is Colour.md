@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2023/11/21/question-31/
 thumbnail: https://hg2dc.com/wp-content/uploads/2023/11/img_0720-1.jpg?w=1200
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:30:05
 duration: 14
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #31: What the F*ck is Colour?
 
-Description:: There’s a lurking question sitting atop the pile of these posts, which hopefully has been emerging up and out of the swamp. The shambling shibboleth ultimately is one that we are going to need to tackle in order to revisit some of the previously answered questions in a much more valid manner.
+There’s a lurking question sitting atop the pile of these posts, which hopefully has been emerging up and out of the swamp. The shambling shibboleth ultimately is one that we are going to need to tackle in order to revisit some of the previously answered questions in a much more valid manner.
 
 I know that I promised that this would be focused on “Getting Sh\*t Done”, and that this romp man initially appear as a sidebar. Sadly though, when the client screams at you about colour being “different”, or when you carefully match a swatch using the proper colour space and test a soft proof and the print comes back seemingly “weird”, or when you go out and shoot your moving picture project and lean into some grand “colour management” system only to discover none of it worked… it’s a cold awareness that something is not well in the discussion of “colour”.
 

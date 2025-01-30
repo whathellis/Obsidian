@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2019/07/29/question-10/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/07/0d55d-1gzfawarouivsxf25actgsa.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-10
 duration: 9
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #10: Why the F*ck Do We Bother With Linear and Nonlinear Encodings At All?
 
-Description:: Hard to believe we’ve hit Question #10. Hopefully you are all finding the series useful. Nothing is more valuable than you reading these posts and leaving comments and suggestions via email, DM, or even here.
+Hard to believe we’ve hit Question #10. Hopefully you are all finding the series useful. Nothing is more valuable than you reading these posts and leaving comments and suggestions via email, DM, or even here.
 
 A brief recap of salient details:
 

@@ -7,7 +7,7 @@ published: 2024-09-12T16:13:53
 duration: 2070
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "34m 30s"]
+[time:: "34m 30s"]
 # My Chaotic Modeling and Animation Process in Blender 3D 🍩 Blender Donut attempt №3.2
 `````col
 ````col-md

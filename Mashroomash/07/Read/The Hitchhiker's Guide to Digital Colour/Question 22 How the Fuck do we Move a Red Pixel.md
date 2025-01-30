@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2020/04/26/question-22/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/04/general-high-level-overview-2.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:20:44
 duration: 6
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #22: How the F*ck do we Move a Red Pixel?
 
-Description:: In the last post, we took a very high level peek at what might happen in a code value to display output chain. Let’s take a quick look at a recap…
+In the last post, we took a very high level peek at what might happen in a code value to display output chain. Let’s take a quick look at a recap…
 
 ![](https://hg2dc.com/wp-content/uploads/2020/04/general-high-level-overview-2.png?w=800)
 

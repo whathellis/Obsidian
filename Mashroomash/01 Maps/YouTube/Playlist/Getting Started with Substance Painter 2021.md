@@ -5,7 +5,7 @@ date: ""
 channel: "[[Substanse painter]]"
 tags:
   - playlist
-q-type: book
+  - video/3D/texture/SubstancePainter
 ---
 `````col
 ````col-md

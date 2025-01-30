@@ -7,7 +7,6 @@ published: 2021-02-23T16:22:17
 duration: 1156
 tags:
   - video/3D/4D
-  - video/animation/3D/rig
 done: true
 cover: "[[maxresdefault (7) 1.jpg]]"
 ---

@@ -5,4 +5,5 @@ cssclasses:
   - wide
   - novel
   - card
+dg-publish: true
 ---

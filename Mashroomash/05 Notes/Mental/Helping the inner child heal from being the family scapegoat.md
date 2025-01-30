@@ -5,9 +5,9 @@ cssclasses:
   - Sunday
 topics:
   - "[[Inner Child|Inner Child]]"
-q-type: todo
+dg-publish: true
 ---
-[[../../01 Maps/YouTube/Channels/Patrick Teahan|Patrick Teahan]]
+[[Patrick Teahan|Patrick Teahan]]
 # Helping the inner child heal from being the family scapegoat.
 
 ## Week of 7/31/23 Journal Prompts

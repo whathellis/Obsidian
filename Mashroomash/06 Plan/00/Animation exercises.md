@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #### Simple Tests – Inanimate Objects
 
 1. Ball bouncing/Rolling

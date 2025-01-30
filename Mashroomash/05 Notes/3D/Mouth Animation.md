@@ -3,7 +3,7 @@ date: 2024-08-02
 topics:
   - "[[Blender tutorial|Blender tutorial]]"
   - "[[Lip sync|Lip sync]]"
-q-type: article
+dg-publish: true
 ---
 
 #### [[../../07/YouTube/Watched/Tutorial/Easy Lip Syncing, Automated Puppet-style|Easy Lip Syncing, Automated Puppet-style]]

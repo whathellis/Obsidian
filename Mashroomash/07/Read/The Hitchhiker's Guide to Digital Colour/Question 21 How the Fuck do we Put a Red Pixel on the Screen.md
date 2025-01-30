@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2020/04/13/question-21/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/04/one-of-these-kids.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:20:28
 duration: 12
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #21: How the F*ck do we Put a Red Pixel on the Screen?
 
-Description:: If you’ve been following this series of questions, you are probably genuinely wondering why the hell we have taken an apparently massive departure from CIE chromaticity diagrams that map visible light to a stupid model, over to [fundamental and equally dumb light intensity and geometry with Question #20](https://hg2dc.com/question-20). We have one more question before we can glue the two halves together.
+If you’ve been following this series of questions, you are probably genuinely wondering why the hell we have taken an apparently massive departure from CIE chromaticity diagrams that map visible light to a stupid model, over to [fundamental and equally dumb light intensity and geometry with Question #20](https://hg2dc.com/question-20). We have one more question before we can glue the two halves together.
 
 ---
 

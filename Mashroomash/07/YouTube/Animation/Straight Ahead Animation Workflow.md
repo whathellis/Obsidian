@@ -5,9 +5,10 @@ channel: "[[Alex on Story]]"
 date: 2024-07-22T13:43:54
 published: 2023-08-04T08:02:03
 duration: 4089
-tags: 
+tags:
+  - video/animation/3D
 done: false
-cover: 
+cover: "[[Pasted image 20240722134403.jpg]]"
 ---
 [[Read it Later|Read it Later]] [time:: "1h 8m 9s"]
 # Straight Ahead: Animation Workflow
@@ -20,12 +21,9 @@ flexGrow=1
 ````col-md
 flexGrow=1
 ===
-https://www.youtube.com/watch?v=fsikGs4ysnA
 <iframe width="400" height="210" src="https://www.youtube-nocookie.com/embed/fsikGs4ysnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ````
 `````
-Description:: Sign Up to my Newsletter and get more Animation Education! https://alexonstory.com/
-
 Straight Ahead workflow is 1 of 3 main workflows in computer animation. Join me as I demonstrate the power of Straight Ahead Animation. This video aims to give you a solid understanding of the value of a good workflow. I use Blender for the tutorial, however Maya and any other animation software will have the same Straight ahead workflow. Speed of blocking is the true power of this workflow.
 
 Check out the Pose to Pose workflow tutorial: https://youtu.be/p8Bi7k60IS0

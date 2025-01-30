@@ -1,11 +1,10 @@
 ---
 URL: https://hg2dc.com/2019/03/24/question-2/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/03/bf326-1p_8ere1ahf7t0wcyi36qag.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-31
 duration: 6
 done: true
-word-goal: 2500
 ---
 # Question #2: What the F\*ck Does 0.6 Mean?
 

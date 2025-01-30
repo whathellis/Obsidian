@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2022/08/11/question-28-what-the-fck-is-the-difference-between-affect-and-effect-and-what-the-fck-is-rashomon/
 thumbnail: https://hg2dc.com/wp-content/uploads/2022/08/rashomon_poster_3-e1660265559465.jpg?w=1200
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:27:57
 duration: 6
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #28: What the F*ck is the Difference Between Affect and Effect? (And What the F*ck is Rashomon?)
 
-Description:: [Rashomon](https://www.imdb.com/title/tt0042876/) was a film that offered a unique multiple recounting of a horrible incident. Why am I bringing it up here? It seems fitting.
+[Rashomon](https://www.imdb.com/title/tt0042876/) was a film that offered a unique multiple recounting of a horrible incident. Why am I bringing it up here? It seems fitting.
 
 In order for us to fully appreciate the depths to which we have plunged, it is critically important for us to pay close attention to the two most recent posts. In [Question #26](https://hg2dc.com/2021/12/03/question-26/), we’ve seen that there’s a metric for describing a relationship to tristimulus with respect to the Standard Observer. In [Question #27](https://hg2dc.com/2022/01/14/question-27/), we’ve seen that there is a parallel, upside down universe that can describe our sensation of appearance of the aforementioned tristimulus using some other metric.
 

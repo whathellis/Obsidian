@@ -1,3 +1,6 @@
+---
+share: true
+---
 A theme for [Obsidian](https://obsidian.md/), inspired by the beautiful colours of [Royal Velvet Obsidian](https://duckduckgo.com/?t=ffab&q=Mexican+Royal+Velvet+Obsidian&iax=images&ia=images) and the distinct colours used in programming syntax highlighting themes. Now supports both **light** and **dark** mode!
 
 ![](https://raw.githubusercontent.com/caro401/royal-velvet/HEAD/royal-velvet.png)

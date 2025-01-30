@@ -5,12 +5,9 @@ cssclasses:
   - Sunday
 topics:
   - "[[Boundaries|Boundaries]]"
-q-type: todo
-q-data:
-  leech-count: 3
-  due-at: 2024-08-05T18:00:00.000Z
+dg-publish: true
 ---
-[[../../01 Maps/YouTube/Channels/Patrick Teahan|Patrick Teahan]]
+[[Patrick Teahan|Patrick Teahan]]
 # Non-negotiables, narcissistic people, and boundaries.
 ## Journal Prompts - Week of 7/24/23
 Do you struggle in these two common areas coming from childhood trauma?

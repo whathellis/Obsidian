@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - wide
+share: true
 ---
 ## Colours
 
@@ -21,7 +20,6 @@ Below are our colours from Nord and what they are called. Yellow-light and Yello
 ```
 
 ## Changes
-
 ### Basics
 
 - Fonts are generally smaller

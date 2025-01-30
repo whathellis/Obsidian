@@ -12,24 +12,20 @@ cssclasses:
 food: 
 diet: false
 cals: false
-calories: 
-protein: 
-fat: 
-carbs: 
-weight: 
 done: false
 date: 
 share: true
+dg-publish: true
 ---
 #### Plan:
-- [ ] [do not binge](Daily.md)
-- [ ] Breakfast
-- [ ] Log meals to **필라이즈**
-- [ ] [Morning skincare](AM.png)
+- [ ] [do not binge](Daily.md#)
+- [ ] [Morning skincare](../../AM.png)
 - [ ] Work on a #3D/project 
-- [ ] [Evening skincare](PM.png)
-- [ ] #post/3D on [[Cara|Cara]]
-- [ ] #post/3D on [[Instagram|Instagram]]
+- [ ] #post/3D on [[../../02 Review/Cara|Cara]]
+- [ ] #post/3D on [[../../02 Review/Instagram|Instagram]]
+
+Yesterday: @@
+Tomorrow: @@
 `````col
 ````col-md
 flexGrow=1
@@ -43,5 +39,3 @@ flexGrow=1
 
 ````
 `````
-Yesterday: @@
-Tomorrow: @@

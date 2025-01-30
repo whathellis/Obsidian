@@ -6,11 +6,13 @@ done: true
 date: 2024-06-11
 time: 33
 deadline: 2024-07-24
-cover: "[[Screenshot 2024-09-15 18.22.09 3000×2000_1_(1).jpg.jpg]]"
+cover: ""
 ---
-[[Pink Guy - Blender And Womp 3D Animation|Pink Guy - Blender And Womp 3D Animation]]
-[[Trying Womp 3D For The First Time 🦩 Pink Guy Speed Modeling - Part 1|Trying Womp 3D For The First Time 🦩 Pink Guy Speed Modeling - Part 1]]
-[[Pink Guy Speed Modeling - Part 2 🦩Womp + Blender 3D|Pink Guy Speed Modeling - Part 2 🦩Womp + Blender 3D]]
+thumbnails:: !
+
+[[../../07/My/Pink Guy - Blender And Womp 3D Animation|Pink Guy - Blender And Womp 3D Animation]]
+[[../../07/My/Trying Womp 3D For The First Time 🦩 Pink Guy Speed Modeling - Part 1|Trying Womp 3D For The First Time 🦩 Pink Guy Speed Modeling - Part 1]]
+[[../../07/My/Pink Guy Speed Modeling - Part 2 🦩Womp + Blender 3D|Pink Guy Speed Modeling - Part 2 🦩Womp + Blender 3D]]
 
 There are two parts of this video:
 The first part: modeling in Womp - the model could be considered finished as it is.

@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2019/11/04/question-12/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/01/dual-axis-12.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:14:56
 duration: 8
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #12: How the F*ck Can We Talk About Light “Intensity”?
 
-Description:: Brighter? Lighter? More light? Less light? Where the hell does physics and energy fit into all of this? Arrgh.
+Brighter? Lighter? More light? Less light? Where the hell does physics and energy fit into all of this? Arrgh.
 
 If we don’t have a clear grasp on what linear means and it’s relationship to digital colour, we are going to have a hard time discussing deeper subjects. So what the hell is happening when we slide those RGB sliders like [we asked back at Question #1](https://hg2dc.com/question-1/)? We can sort of [understand that the code value representation is bound to some notion of a ground truth of “linear light energy”, but just what the hell is that](https://hg2dc.com/question-6/)?
 

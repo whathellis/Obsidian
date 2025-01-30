@@ -7,12 +7,12 @@ date: 2024-09-30
 Deadline: 2024-10-20
 URL: https://www.therookies.co/contests/groups/meet-mat-3
 time: 73
-cover: "[[Screenshot 2024-11-12 00.14.55 2850×2160_Meet_Meat_10.23_010.jpg.jpg]]"
+cover: ""
 ---
-![[Screenshot 2024-11-12 00.14.55 2850×2160_Meet_Meat_10.23_010.jpg.jpg]]
+thumbnails::  !
 
 # Meet Meat
-[[Meet Mat 4|Meet Mat 4]]
+[[../Done/Meet Mat 4|Meet Mat 4]]
 by [mashroomash](https://www.therookies.co/u/mashroomash) on 1 Oct 2024 for  [Meet Mat 4 - The 3D Digital Painting Contest](https://www.therookies.co/contests/groups/meet-mat-4) - [Open Category](https://www.therookies.co/contests/463)
 
 Hi, I am Mary and this is my first time entering this contest. I've been using Substance Painter for about a month now, mostly to do stylized textures. Before I used only texture nodes in Blender. So I want to learn and try something new for this contest.

@@ -6,7 +6,7 @@ date: 2024-09-24
 published: 2023-09-28T00:00:33
 duration: 1945
 tags:
-  - video/3D/SubstancePainter
+  - video/3D/texture/SubstancePainter
 done: true
 cover: "[[Pasted image 20240715185202.jpg]]"
 ---

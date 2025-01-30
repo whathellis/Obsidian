@@ -1,7 +1,5 @@
 ---
-q-type: book
-q-data:
-  due-at: 2024-08-05T15:11:37.569Z
+dg-publish: true
 ---
 - [ ] plant house - a complex scene
 - [ ] wilder girls 

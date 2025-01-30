@@ -1,18 +1,15 @@
 ---
 URL: https://hg2dc.com/2019/03/26/question-4/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/03/c3f34-1dsscuqjmjw7mts4jzm875q.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-31
 duration: 6
-topics: 
 done: true
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 # Question #4: What the F*ck are the Colours of the Three Lights?
 
-Description:: Have you ever taken a random set of paints and started mixing them? If you have, you probably have realized the not-quite-groundbreaking idea that the paint mixture colour depends on which paints you mix and in what quantities you mix them.
+Have you ever taken a random set of paints and started mixing them? If you have, you probably have realized the not-quite-groundbreaking idea that the paint mixture colour depends on which paints you mix and in what quantities you mix them.
 
 This profound, almost Aristotle-like breathtaking and earth shattering conclusion holds a not-too-distant connection to digital RGB colour work. As you may have noticed from the very first question, some things that are painfully obvious sometimes go without an actual analysis. Let’s try to smash that up…
 

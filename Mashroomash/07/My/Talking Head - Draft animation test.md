@@ -7,7 +7,7 @@ published: 2024-09-20T16:21:45
 duration: 37
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "37s"]
+[time:: "37s"]
 # Talking Head - Draft animation test
 `````col
 ````col-md

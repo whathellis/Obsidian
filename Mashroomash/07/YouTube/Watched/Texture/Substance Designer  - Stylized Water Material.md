@@ -6,11 +6,12 @@ date: 2024-09-22
 published: 2024-05-01T07:00:10
 duration: 307
 tags:
-  - video/3D/SubstanceDesigner
+  - video/3D/texture/SubstanceDesigner
 done: true
 cover: "[[Screenshot 2024-09-24 18.12.53 Photos.jpg]]"
 ---
 [time:: "5m 7s"]
+[[../../../../Substance Designer - Stylized Water Material.canvas|Substance Designer - Stylized Water Material.canvas]]
 # Substance Designer - Stylized Water Material
 `````col
 ````col-md

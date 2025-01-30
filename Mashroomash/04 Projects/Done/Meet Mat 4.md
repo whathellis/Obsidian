@@ -4,10 +4,12 @@ done: true
 date: 2024-09-30
 URL: https://www.therookies.co/contests/groups/meet-mat-3
 site: "[[The Rookies]]"
-cover: "[[screencapture-therookies (13).jpg]]"
+cover: ""
 ---
+thumbnails:: !
+
 # Meet Mat 4 - The 3D texturing contest
-[[Meet Meat|Meet Meat]]
+[[../Portfolio/Meet Meat|Meet Meat]]
 Once again, the rules are simple: **texture MAT in Substance 3D Painter** and compete with fellow artists in front of a world-class jury for a trove of amazing prizes. There’s a new take on the contest this year, though: with the addition of a new feature to **import Adobe Illustrator files** you can add some real pop to MAT with funky graphics.  
   
 The contest runs for 3 weeks: 

@@ -1,3 +1,6 @@
+---
+share: true
+---
 - [What is a "field"?](#What%20is%20a%20%22field%22?)
 - [How do I add fields?](#How%20do%20I%20add%20fields?)
 	- [Frontmatter](Adding%2520Metadata.md##Frontmatter)
@@ -10,7 +13,7 @@ Dataview cannot query all content of your vault. In order to be able to search, 
 
 ## What is a "field"?
 
-A metadata field is a pair of a **key** and a **value**. The _value_ of a field has a data type (more on that here - [[Data Types|Data Types]]) that determines how this field will behave when querying it.
+A metadata field is a pair of a **key** and a **value**. The _value_ of a field has a data type (more on that here - [[./Data Types|Data Types]]) that determines how this field will behave when querying it.
 
 You can add any number of fields to a **note**, a **list item** or a **task**.
 
@@ -82,7 +85,7 @@ Imagine you used all the examples for Inline fields you see above in one note, t
 |`Bold Field`|`bold-field`|Nice!|Text|
 |`rating`|-|9|Number|
 |`mood`|-|acceptable|Text|
-|`due`|-|Date Object for 2022-04-05|Date|
+||-|Date Object for 2022-04-05|Date|
 |`longKeyIDontNeedWhenReading`|`longkeyidontneedwhenreading`|key|Text|
 
 Like you can see in the table, if you are using **spaces or capitalized letters** in your metadata key name, dataview will provide you with a **sanitized version** of the key.
@@ -114,4 +117,4 @@ Even if you do not add any metadata explicitly to your note, dataview provides y
 - tags in the file (`file.etags`)
 - all list items in the file (`file.lists` and `file.tasks`)
 
-and many more. Available implicit fields differ depending if you look at a page or a list item. Find the full list of available implicit fields on [Metadata on pages](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/) and [Metadata on Tasks and Lists](https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-tasks/).
+and many more. Available implicit fields differ depending if you look at a page or a list item. Find the full list of available implicit fields on [[./Metadata on pages|Metadata on pages]] and [[./Metadata on Tasks and Lists|Metadata on Tasks and Lists]]

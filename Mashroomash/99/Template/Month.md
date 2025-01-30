@@ -7,6 +7,7 @@ cssclasses:
   - daily
 done: false
 date: 
+dg-publish: true
 ---
 [[Month|Month]]
 ##### Goals::</br>1. </br>2. 

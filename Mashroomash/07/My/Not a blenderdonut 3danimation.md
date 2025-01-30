@@ -7,7 +7,7 @@ published: 2024-09-15T20:00:26
 duration: 24
 tags: YouTube
 ---
-[[Read it Later|Read it Later]] [time:: "24s"]
+[time:: "24s"]
 # Not a blenderdonut 3danimation
 `````col
 ````col-md

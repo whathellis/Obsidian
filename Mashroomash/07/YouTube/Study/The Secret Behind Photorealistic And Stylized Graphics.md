@@ -5,7 +5,7 @@ channel: "[[Acerola]]"
 published: 2024-05-28T23:33:20
 duration: 2100
 tags:
-  - video/3D/theory
+  - video/3D/texture/shader
 done: true
 cover: "[[Pasted image 20240715164310.jpg]]"
 date: 2024-07-20

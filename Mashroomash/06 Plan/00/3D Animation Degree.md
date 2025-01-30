@@ -3,6 +3,7 @@ cssclasses:
   - daily
   - Wednesday
   - page-purple
+dg-publish: true
 ---
 # 3D Animation Degree
 

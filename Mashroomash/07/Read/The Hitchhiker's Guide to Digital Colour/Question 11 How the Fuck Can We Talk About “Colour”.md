@@ -1,19 +1,16 @@
 ---
 URL: https://hg2dc.com/2019/09/02/question-11/
 thumbnail: https://hg2dc.com/wp-content/uploads/2020/01/dual-axis-12.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:14:34
 duration: 6
-topics: 
 done: false
-cover: 
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
-word-goal: 2500
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
-[[Read it Later|Read it Later]] [[../../../01 Maps/Themes/Article|Article]] 
+[[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #11: How the F*ck Can We Talk About “Colour”?
 
-Description:: Given we’ve hit a milestone in that we are approaching the teens in our question count, the time has come to start diving into the murky side of digital colour for all of you lovely pixel pusher types. Up to now, you’ve probably noticed that we have successfully managed to avoid the sticky subject like parents not wanting to talk about the birds and the bees with their children. That time has come to pass as we head into our teens…
+Given we’ve hit a milestone in that we are approaching the teens in our question count, the time has come to start diving into the murky side of digital colour for all of you lovely pixel pusher types. Up to now, you’ve probably noticed that we have successfully managed to avoid the sticky subject like parents not wanting to talk about the birds and the bees with their children. That time has come to pass as we head into our teens…
 
 We’ve established that [RGB code values](https://hg2dc.com/question-1) are [meaningless](https://hg2dc.com/question-2/) when considered alone. We took a dive into [what they represent](https://hg2dc.com/question-3/), [what formulas they follow](https://hg2dc.com/question-6/), and [what the ground truth the code values relate to are](https://hg2dc.com/question-7/). But all that time we’ve also managed to avoid discussing how the hell we can actually talk about colour in a meaningful numbers sort of way. So, let’s set the stage:
 

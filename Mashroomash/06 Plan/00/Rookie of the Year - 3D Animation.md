@@ -3,6 +3,7 @@ URL: https://www.therookies.co/contests/393
 thumbnail: 
 site: "[[The Rookies]]"
 cover: "[[Screenshot 2024-09-06 00.28.13 Rookie_Awards_-_Mashroomash_-_Obsidian_v1.5.12.jpg]]"
+dg-publish: true
 ---
 # Rookie of the Year | 3D Animation
 

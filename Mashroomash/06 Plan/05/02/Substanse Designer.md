@@ -8,9 +8,11 @@ cssclasses:
   - daily
   - page-cyan
   - Wednesday
+dg-publish: true
 ---
-[[../../01/2024|2024]]
+[[../../01/2025|2025]]
 #### Subgoals:
-
+- [[../01/Textures|Textures]]
 #### Projects:
-- [x] [[../../../07/YouTube/Watched/Texture/Substance Designer  - Stylized Water Material|Substance Designer  - Stylized Water Material]]
+###### [[../../../01 Maps/Themes/Tags#Substance Designer|Tutorials:]]
+- [x] [[../../../07/YouTube/Watched/Texture/Substance Designer  - Stylized Water Material|Substance Designer  - Stylized Water Material]] ✅ 2024-09-22
