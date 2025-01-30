@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2019/03/26/question-4/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/03/c3f34-1dsscuqjmjw7mts4jzm875q.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-31
 duration: 6
 done: true
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 # Question #4: What the F*ck are the Colours of the Three Lights?
 
