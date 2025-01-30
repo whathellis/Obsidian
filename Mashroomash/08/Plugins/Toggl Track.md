@@ -1,3 +1,6 @@
+---
+{}
+---
 # Toggl Track Integration for Obsidian
 
 Add integration with the Toggl Track API to manage your timers inside Obsidian.
