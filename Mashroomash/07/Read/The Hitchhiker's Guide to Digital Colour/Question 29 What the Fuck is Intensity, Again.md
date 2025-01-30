@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2022/11/07/question-29/
 thumbnail: https://hg2dc.com/wp-content/uploads/2022/11/6zwk7s.jpg
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:28:36
 duration: 4
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #29: What the F*ck is Intensity, Again?
