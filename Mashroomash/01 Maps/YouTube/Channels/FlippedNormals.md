@@ -19,5 +19,5 @@ views:
     sortBy: ['-published']
 ```
 - [[../../../07/YouTube/Study/Texture Maps Explained -  Essential for All Texture Artists|Texture Maps Explained -  Essential for All Texture Artists]]:  In this texturing video tutorial, we go through what the various texture maps are, such as diffuse/albedo, ambient occlusion, curvature, displacement, bump, and many more. 🕓38m 14s 📍video/3D/texture/SubstancePainter 📝 📌\-
-- [[../../../07/YouTube/Tutorial/Foliage from Particles in Blender|Foliage from Particles in Blender]]:  In this free tutorial we'll be going through how to make stunning foliage using only the built in tools in Blender. No tricks, no paid addons, just good ol' Blender! 🕓1h 40m 44s 📍video/3D/tutorial 📝 📌\-
+- [[../../../07/YouTube/Tutorial/Foliage from Particles in Blender|Foliage from Particles in Blender]]:  In this free tutorial we'll be going through how to make stunning foliage using only the built in tools in Blender. No tricks, no paid addons, just good ol' Blender! 🕓1h 40m 44s 📍video/3D/tutorial 📝[[../../../99/Alphabetical Note Index|Alphabetical Note Index]] 📌\-
 
