@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-
+```html
 <!doctype html>
 <html>
 <head><title>mashroomash</title>
@@ -21,3 +21,4 @@ share: true
 I wanna do smth but idk what</p>
 </body>
 </html>
+```
