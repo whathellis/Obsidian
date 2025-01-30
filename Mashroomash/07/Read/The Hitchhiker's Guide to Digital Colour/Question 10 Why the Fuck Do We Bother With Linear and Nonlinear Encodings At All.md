@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2019/07/29/question-10/
 thumbnail: https://hg2dc.com/wp-content/uploads/2019/07/0d55d-1gzfawarouivsxf25actgsa.png
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-09-10
 duration: 9
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #10: Why the F*ck Do We Bother With Linear and Nonlinear Encodings At All?
