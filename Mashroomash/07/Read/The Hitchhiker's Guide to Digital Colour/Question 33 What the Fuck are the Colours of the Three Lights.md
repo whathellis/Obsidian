@@ -1,11 +1,11 @@
 ---
 URL: https://hg2dc.com/2024/07/25/question-33/
 thumbnail: https://hg2dc.com/wp-content/uploads/2024/07/gamut-expansion-high-articulation-1.jpg
-site: "[[The Hitchhiker's Guide to Digital Colour]]"
+site: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 date: 2024-08-22T18:32:50
 duration: 9
 done: false
-playlist: "[[The Hitchhiker's Guide to Digital Colour]]"
+playlist: "[[09 Index/The Hitchhiker's Guide to Digital Colour]]"
 ---
 [[Read it Later|Read it Later]] [[Article|Article]] 
 # Question #33: What the F*ck are the Colours of the Three Lights?
