@@ -1,3 +1,6 @@
+---
+{}
+---
 # Aosr
 
 ![GitHub all releases](https://img.shields.io/github/downloads/linanwx/aosr/total)![release](https://img.shields.io/github/v/release/linanwx/aosr)
